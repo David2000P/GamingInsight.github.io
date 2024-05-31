@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Unternehmen registrieren</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <header>
+        <h1>Unternehmen registrieren</h1>
+    </header>
+    <form method="post">
+        {{ form.hidden_tag() }}
+        <p>
+            {{ form.company_name.label }}<br>
+            {{ form.company_name(size=32) }}
+        </p>
+        <p>
+            {{ form.company_description.label }}<br>
+            {{ form.company_description(rows=4, cols=32) }}
+        </p>
+        <p>
+            {{ form.company_website.label }}<br>
+            {{ form.company_website(size=32) }}
+        </p>
+        <p>{{ form.submit() }}</p>
+    </form>
+</body>
+</html>

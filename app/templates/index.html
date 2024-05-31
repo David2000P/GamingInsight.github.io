@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Willkommen bei InsightJob</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <div class="header-container">
+        <header>
+            <h1>Willkommen bei InsightJob</h1>
+            <p>Entdecke die wahren Bewertungen von Unternehmen.</p>
+        </header>
+    </div>
+    <nav class="auth-links">
+        {% if current_user.is_authenticated %}
+            <a href="{{ url_for('main.logout') }}">Logout</a>
+            <a href="{{ url_for('main.register_company') }}">Unternehmen registrieren</a>
+        {% else %}
+            <a href="{{ url_for('main.login') }}">Einloggen</a>
+            <a href="{{ url_for('main.register') }}">Registrieren</a>
+        {% endif %}
+        <a href="{{ url_for('main.top_reviews') }}">Top Bewertungen</a>
+        <a href="{{ url_for('main.categories') }}">Kategorien</a>
+        <form action="{{ url_for('main.search') }}" method="GET" class="search-container">
+            <input type="text" placeholder="Unternehmen suchen..." name="search">
+            <button type="submit">Suchen</button>
+        </form>
+    </nav>
+</body>
+</html>
