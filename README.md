@@ -14,7 +14,6 @@
 10. Evaluation
 11. Projektabschluss
 
----
 
 ## 1. Beschreibung des Projektansatzes
 
@@ -41,7 +40,6 @@ In den ersten Wochen des Kurses haben wir, das Team bestehend aus Ekber Pala, Da
 - Wir haben regelmäßige Meetings abgehalten, um den Fortschritt zu überprüfen und sicherzustellen, dass alle auf dem gleichen Stand sind.
 - Alle Teammitglieder haben gemeinsam an der Textbox- und Download-Funktionalität gearbeitet.
 
----
 
 ## 2. Wertversprechen
 
@@ -50,8 +48,6 @@ GamingInsight bietet eine spezialisierte Plattform für die Gaming-Industrie mit
 - **Transparenz schaffen:** Unsere Plattform ermöglicht es Benutzern, ehrliche und detaillierte Bewertungen über ihre Arbeitgeber abzugeben. Dies hilft anderen Fachkräften, fundierte Entscheidungen über potenzielle Arbeitgeber zu treffen und erhöht die Transparenz in der Branche.
 - **Arbeitsbedingungen verbessern:** Durch das Sammeln und Analysieren von Feedback können Unternehmen ihre Arbeitskultur und -bedingungen verbessern. Dies fördert ein besseres Arbeitsumfeld und hilft den Unternehmen, talentierte Fachkräfte zu halten.
 - **Arbeitsplatzsuche erleichtern:** Unsere Plattform bietet detaillierte Einblicke in verschiedene Unternehmen, einschließlich Informationen über Arbeitsklima, Work-Life-Balance und technische Ausstattung. Dies erleichtert Fachkräften die Suche nach einem passenden Arbeitgeber und fördert fundierte Karriereentscheidungen.
-
----
 
 ## 3. Problemidentifizierung und Lösung
 
@@ -67,7 +63,6 @@ GamingInsight bietet eine spezialisierte Plattform für die Gaming-Industrie mit
 - **Branchenabgestimmte Kategorien:** Detaillierte Bewertungen für spezifische Bereiche wie Entwicklerteams, Crunch-Zeiten, Projektmanagement und mehr.
 - **Community-Forum:** Förderung des Erfahrungsaustauschs und der Vernetzung durch Foren, Gruppen und Veranstaltungen.
 
----
 
 ## 4. Zielgruppe
 
@@ -82,7 +77,6 @@ Unsere Zielgruppe umfasst:
 - **Arbeitgeber:** Unternehmen, die Feedback erhalten und ihre Arbeitsbedingungen verbessern möchten.
 - **Branchenanalysten und Forscher:** Personen, die Trends und Arbeitsbedingungen in der Gaming-Industrie analysieren.
 
----
 
 ## 5. Beschreibung der Kernfunktionalitäten
 
@@ -104,7 +98,6 @@ Unsere Zielgruppe umfasst:
 
 **Kommentare:** Benutzer können Bewertungen kommentieren und sich an Diskussionen beteiligen.
 
----
 
 ## 6. Technologiestack
 
@@ -119,7 +112,6 @@ Unsere Zielgruppe umfasst:
 - **SQLite:** Für die Datenbankverwaltung.
 - **Flask-Erweiterungen:** Flask-SQLAlchemy, Flask-Migrate, Flask-Login.
 
----
 
 ## 7. Screenflow
 
@@ -133,7 +125,6 @@ Unsere Zielgruppe umfasst:
 
 **Bewertungsseite:** Benutzer können Bewertungen abgeben und bestehende Bewertungen lesen und kommentieren.
 
----
 
 ## 8. Designentscheidungen
 
@@ -167,7 +158,6 @@ Zentralisierte Präsentation der Konvertierungsoptionen, um die Navigation zu ve
 - **Farbschema und Benutzerfreundlichkeit:** Ein ansprechendes und benutzerfreundliches Farbschema wurde gewählt, um die Bedienung der Plattform zu erleichtern.
 - **Datenschutz und Sicherheit:** Maßnahmen wurden ergriffen, um die Daten der Benutzer zu schützen und sicherzustellen, dass alle Bewertungen anonym bleiben.
 
----
 
 ## 9. Ziele bis zur Einreichung & Backlog
 
