@@ -1,3 +1,29 @@
+GamingInsight
+[Project description]
+
+Team member
+David Pätzold
+About
+Some info about Jane
+Matr.-Nr.
+77211974782
+
+Sercan Sinanovic Polat
+About
+Some info about Jane
+Matr.-Nr.
+77211974478
+
+Ekber Pala
+About
+Some info about Joe
+Matr.-Nr.
+77211964967
+Eidesstattliche Erklärung
+Die oben genannten Teammitglieder erklären an Eides statt:
+
+Diese Arbeit wurde selbständig und eigenhändig erstellt. Die den benutzten Quellen wörtlich oder inhaltlich entommenen Stellen sind als solche kenntlich gemacht. Diese Erklärung gilt für jeglichen Inhalt und umfasst sowohl diese Dokumentation als auch den als Projektergebnis eingereichten Quellcode.
+
 
 Projektdokumentation für GamingInsight
 Inhaltsverzeichnis
@@ -43,21 +69,72 @@ Umsetzungsprozess:
 •	Die Aufgaben wurden fair aufgeteilt: Ekber war für die Homepage und Navigation verantwortlich, David für die Upload-Seite und Sercan für die Login/Registrierungsseite.
 •	Wir haben regelmäßige Meetings abgehalten, um den Fortschritt zu überprüfen und sicherzustellen, dass alle auf dem gleichen Stand sind.
 •	Alle Teammitglieder haben gemeinsam an der Textbox- und Download-Funktionalität gearbeitet.
-2. Wertversprechen
+
+# ? 3. Wertversprechen
 GamingInsight bietet eine spezialisierte Plattform für die Gaming-Industrie mit den folgenden Hauptvorteilen:
 •	Transparenz schaffen: Unsere Plattform ermöglicht es Benutzern, ehrliche und detaillierte Bewertungen über ihre Arbeitgeber abzugeben. Dies hilft anderen Fachkräften, fundierte Entscheidungen über potenzielle Arbeitgeber zu treffen und erhöht die Transparenz in der Branche.
 •	Arbeitsbedingungen verbessern: Durch das Sammeln und Analysieren von Feedback können Unternehmen ihre Arbeitskultur und -bedingungen verbessern. Dies fördert ein besseres Arbeitsumfeld und hilft den Unternehmen, talentierte Fachkräfte zu halten.
 •	Arbeitsplatzsuche erleichtern: Unsere Plattform bietet detaillierte Einblicke in verschiedene Unternehmen, einschließlich Informationen über Arbeitsklima, Work-Life-Balance und technische Ausstattung. Dies erleichtert Fachkräften die Suche nach einem passenden Arbeitgeber und fördert fundierte Karriereentscheidungen.
-3. Problemidentifizierung und Lösung
-Identifizierte Probleme:
-•	Ungenutzte Nische: Es gibt keine spezialisierte Plattform für die Gaming-Branche.
-•	Unzureichende Bewertungskategorien: Kategorien wie Entwicklerteams, Crunch-Zeiten und technische Ausstattung werden nicht abgedeckt.
-•	Fehlende Netzwerkmöglichkeit: Es fehlt eine fokussierte Community für den Erfahrungsaustausch unter Gaming-Fachleuten.
-Lösungen:
-•	Spezialisierte Plattform: Eine Plattform, die speziell auf die Gaming-Industrie ausgerichtet ist.
-•	Branchenabgestimmte Kategorien: Detaillierte Bewertungen für spezifische Bereiche wie Entwicklerteams, Crunch-Zeiten, Projektmanagement und mehr.
-•	Community-Forum: Förderung des Erfahrungsaustauschs und der Vernetzung durch Foren, Gruppen und Veranstaltungen.
-4. Zielgruppe
+
+# Value Proposition
+
+Das Problem
+Unsere Lösung
+Zielbenutzer
+Kundenreise
+
+1. Das Problem
+GamingInsight adressiert das Problem der Intransparenz in der Gaming-Industrie. Viele Fachkräfte der Branche haben Schwierigkeiten, verlässliche Informationen über die Arbeitskultur und die internen Bedingungen von Arbeitgebern zu finden. Diese Informationslücke kann zu uninformierten Entscheidungen führen, die die Karriere und das persönliche Wohlbefinden negativ beeinflussen.
+2. Unsere Lösung
+GamingInsight bietet eine Plattform, die es Nutzern ermöglicht, detaillierte Bewertungen und Feedback über Unternehmen in der Gaming-Branche zu hinterlassen und einzusehen. Unsere Lösung zielt darauf ab, die Arbeitsbedingungen transparent zu machen, indem wir Bewertungen zu verschiedenen Aspekten wie Work-Life-Balance, Managementstil und Teamkultur sammeln. Wir stellen sicher, dass unsere Plattform realistische und erreichbare Ergebnisse liefert, die direkt auf Nutzerfeedback basieren.
+3. Zielbenutzer
+Unsere Zielbenutzer sind Fachkräfte in der Gaming-Industrie, die auf der Suche nach ehrlichen und umfassenden Informationen über potenzielle Arbeitgeber sind. Wir fokussieren uns auf:
+Entwickler: Interessiert an technischen Herausforderungen und Unternehmenskultur.
+Designer: Sucht kreative Freiräume und Teaminteraktion.
+Projektmanager: Benötigt Einblicke in Managementstile und Projektflüsse.
+Berufseinsteiger: Sucht den idealen Einstiegspunkt in die Industrie.
+4. Kundenreise
+Die Kundenreise auf GamingInsight beginnt mit der Registrierung und dem Einloggen in die App. Nach dem Login kann der Nutzer:
+Unternehmensbewertungen durchsuchen: Benutzer können nach spezifischen Unternehmen suchen und deren Bewertungen lesen.
+Bewertung abgeben: Nutzer können ihre Erfahrungen teilen, indem sie eine Bewertung über ihren aktuellen oder ehemaligen Arbeitgeber schreiben.
+Interaktion mit der Community: Nutzer können Fragen stellen oder Diskussionen in einem speziell dafür vorgesehenen Forum starten.
+Jobangebote einsehen: Nutzer können aktuelle Stellenausschreibungen einsehen, die von Unternehmen auf unserer Plattform gepostet werden.
+
+# Benutzerevaluation für GamingInsight
+
+1. [Registrierungsprozess und Abbruchrate](#1-registrierungsprozess-und-abbruchrate)
+    - [Meta](#meta)
+    - [Ziel](#ziel)
+    - [Methode](#methode)
+    - [Ergebnisse](#ergebnisse)
+    - [Implikationen](#implikationen)
+
+---
+
+## 1. Registrierungsprozess und Abbruchrate
+
+### Meta
+
+- **Status:** Abgeschlossen
+- **Aktualisiert:** 15-Jul-2023
+
+### Ziel
+
+Das Ziel dieser Evaluation war es, herauszufinden, wie lange Benutzer benötigen, um ein neues Konto zu registrieren, und welche Abbruchrate dabei auftritt. Die Forschungsfrage lautete: "Wie lange dauert die Registrierung eines neuen Kontos und wie hoch ist die Abbruchrate?"
+
+### Methode
+
+Um das Ziel dieser Evaluation zu erreichen, wurde ein A/B-Test mit verschiedenen Registrierungsformularen durchgeführt. Die Teilnehmer wurden zufällig ausgewählt und in zwei Gruppen eingeteilt, um die Dauer der Registrierung und das Benutzerverhalten zu messen. Technische Tools wie Google Analytics und interne Logging-Systeme wurden verwendet, um präzise Daten über die Dauer der Registrierung und die Abbruchraten zu erfassen.
+
+### Ergebnisse
+
+Die Ergebnisse der Evaluation zeigten, dass Benutzer im Durchschnitt 3 Minuten benötigten, um sich zu registrieren. Die Abbruchrate lag bei 70%. Die Gründe für den Abbruch, die von den Benutzern angegeben wurden, umfassten hauptsächlich die zu lange Dauer des Registrierungsprozesses und die als zu invasiv empfundenen Abfragen persönlicher Daten.
+
+### Implikationen
+
+Aus dieser Evaluation haben wir gelernt, dass der Registrierungsprozess vereinfacht werden muss, um die Abbruchrate zu verringern. Eine geplante Änderung ist, die Abfrage des Geburtsdatums zu entfernen, da dies als eine Hürde empfunden wurde. Wir planen, diese Evaluation nach Durchführung der Änderungen erneut zu wiederholen, um den Einfluss der Verbesserungen auf die Registrierungsdauer und die Abbruchrate zu messen.
+
+6. Zielgruppe
 Unsere Zielgruppe umfasst:
 •	Entwickler: Programmierer, Software-Ingenieure, Gameplay-Entwickler, die Einblicke in Arbeitskultur und technische Ausstattung suchen.
 •	Designer: Grafikdesigner, UI/UX-Designer, Level-Designer, die Informationen zu kreativen Freiheiten und Teamdynamik benötigen.
@@ -67,7 +144,7 @@ Unsere Zielgruppe umfasst:
 •	Erfahrene Fachkräfte: Branchenveteranen, die nach besseren Arbeitsbedingungen suchen.
 •	Arbeitgeber: Unternehmen, die Feedback erhalten und ihre Arbeitsbedingungen verbessern möchten.
 •	Branchenanalysten und Forscher: Personen, die Trends und Arbeitsbedingungen in der Gaming-Industrie analysieren.
-5. Beschreibung der Kernfunktionalitäten
+7. Beschreibung der Kernfunktionalitäten
 Benutzer-Registrierung und Login:
 •	Registrierung: Neue Benutzer können sich auf der Plattform registrieren, indem sie grundlegende Informationen wie Benutzername, E-Mail und Passwort angeben.
 •	Login: Bereits registrierte Benutzer können sich mit ihren Zugangsdaten einloggen.
@@ -78,7 +155,7 @@ Bewertungen abgeben:
 Bewertungen lesen:
 •	Alle Benutzer können Bewertungen über verschiedene Unternehmen lesen, um fundierte Entscheidungen zu treffen.
 
-6. Technologiestack
+8. Technologiestack
 Frontend:
 •	HTML: Zur Strukturierung der Webinhalte.
 •	CSS: Für die Gestaltung und das Design der Benutzeroberfläche.
@@ -88,21 +165,10 @@ Backend:
 •	Python: Die Hauptprogrammiersprache für die Backend-Entwicklung.
 •	SQLite: Für die Datenbankverwaltung.
 •	Flask-Erweiterungen: Flask-SQLAlchemy, Flask-Migrate, Flask-Login.
-8. Designentscheidungen
-I) Automatischer Download von Dateien nach Abschluss der Konvertierung:
-Problemstellung: Sicherstellung einer nahtlosen Benutzererfahrung bei der Dateikonvertierungsplattform GamingInsight.
-Entscheidung: Automatischer Download nach Abschluss der Konvertierung, um die Benutzererfahrung zu verbessern, indem zusätzliche Schritte eliminiert werden. Dies steigert die Effizienz und reduziert das Fehlerpotenzial, indem Benutzereingriffe minimiert werden.
-II) Anforderungen an die Benutzer-Authentifizierung für den Zugriff auf GamingInsight-Dienste:
-Problemstellung: Festlegung, ob eine Benutzer-Authentifizierung für den Zugriff auf die Dienste erforderlich ist, um Sicherheit und Personalisierung zu gewährleisten.
-Entscheidung: Benutzer-Authentifizierung ist erforderlich, um die Sicherheit zu erhöhen, indem nur autorisierte Zugriffe erlaubt werden. Dies ermöglicht zudem personalisierte Benutzererfahrungen und eine sichere Verwaltung der Benutzerdaten.
-III) Intuitive Benutzeroberfläche mit zentralisierten Dateikonvertierungsoptionen:
-Problemstellung: Gestaltung einer intuitiven Benutzeroberfläche für GamingInsight mit zentralisierten Dateikonvertierungsoptionen, während Einfachheit und Klarheit gewährleistet werden.
-Entscheidung: Zentralisierte Präsentation der Konvertierungsoptionen, um die Navigation zu verbessern, die Klarheit zu erhöhen und die Benutzererfahrung konsistent zu halten. Dies ermöglicht auch Skalierbarkeit und Flexibilität für zukünftige Updates.
-Weitere Designentscheidungen:
-•	Responsives Design: Die Plattform wurde so gestaltet, dass sie auf verschiedenen Geräten und Bildschirmgrößen gut funktioniert.
-•	Farbschema und Benutzerfreundlichkeit: Ein ansprechendes und benutzerfreundliches Farbschema wurde gewählt, um die Bedienung der Plattform zu erleichtern.
-•	Datenschutz und Sicherheit: Maßnahmen wurden ergriffen, um die Daten der Benutzer zu schützen und sicherzustellen, dass alle Bewertungen anonym bleiben.
-9. Ziele bis zur Einreichung & Backlog
+9. Designentscheidungen
+
+
+10. Ziele bis zur Einreichung & Backlog
 •	Vollständige Implementierung der Kernfunktionalitäten (Registrierung, Login, Bewertungen, Community-Forum).
 •	Sicherstellung der Datenintegrität und -sicherheit.
 •	Durchführung umfangreicher Tests zur Sicherstellung der Plattformstabilität.
@@ -113,9 +179,9 @@ Backlog:
 •	Hinzufügen von Suchfunktionen.
 •	Verifizierung von Unternehmen und Arbeitnehmern.
 •	Implementierung von API-Integrationen (Google Maps, Google Authentifizierung).
-10. Evaluation
+11. Evaluation
 Unsere Kommunikationsmittel umfassten Discord und WhatsApp, und wir hielten wöchentliche Meetings, um den Projektfortschritt zu besprechen. Durch diese regelmäßigen Meetings konnten wir sicherstellen, dass wir im Zeitplan blieben und alle Teammitglieder auf dem gleichen Stand waren. Feedback von unseren Kommilitonen half uns, die Benutzerfreundlichkeit und Funktionalität der Plattform zu verbessern.
-11. Projektabschluss
+12. Projektabschluss
 Projektabschluss und Reflexion: GamingInsight hat seinen geplanten Funktionsumfang erfolgreich erreicht und bietet nun eine umfassende Plattform zur Bewertung und Diskussion über Unternehmen in der Gaming-Industrie. Die Plattform verbessert die Transparenz und ermöglicht fundierte Entscheidungen für Fachkräfte innerhalb der Branche.
 Erreichte Meilensteine:
 •	Entwicklung und Implementierung einer benutzerfreundlichen Plattform.
