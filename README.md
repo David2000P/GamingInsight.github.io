@@ -1,4 +1,3 @@
-In unsere Webseite kann man sich auf der Startseite registrieren und einloggen. Nachdem man sich eingeloggt kommt man zur Hauptseite. In der kann man nun Unternehmen suchen, registrieren und sich Top Bewertungen für jede Kategorie anzeigen lassen. Wenn sich ein Benutzer eingeloggt hat, kann er zu Unternehmen Bewertungen abgeben und kommentieren. Wenn sich ein Benutzer eingeloggt der ein Unternehmen angelegt hat wird auf der Startseite der Reiter mein Unternehmen angezeigt wenn man auf diesen klickt kann man das Unternehmensprofil verwalten.
 
 Projektdokumentation für GamingInsight
 Inhaltsverzeichnis
@@ -12,7 +11,7 @@ Inhaltsverzeichnis
 8.	Designentscheidungen
 9.	Ziele bis zur Einreichung & Backlog
 10.	Evaluation
-11.	Projektabschluss
+11.	Projektabschluss Ausführung der Webseite
 
 # 3. ER Modell Data Model: (Hinweis nicht zu ende gedacht)
 
@@ -131,4 +130,7 @@ Erreichte Meilensteine:
 •	Entwicklung und Implementierung einer benutzerfreundlichen Plattform.
 •	Etablierung einer aktiven Community für Austausch und Diskussion.
 •	Beitrag zur Verbesserung der Arbeitsbedingungen in der Gaming-Industrie durch transparente Bewertungen und Feedback.
+
+
+In unsere Webseite kann man sich auf der Startseite registrieren und einloggen. Nachdem man sich eingeloggt kommt man zur Hauptseite. In der kann man nun Unternehmen suchen, registrieren und sich Top Bewertungen für jede Kategorie anzeigen lassen. Wenn sich ein Benutzer eingeloggt hat, kann er zu Unternehmen Bewertungen abgeben und kommentieren. Wenn sich ein Benutzer eingeloggt der ein Unternehmen angelegt hat wird auf der Startseite der Reiter mein Unternehmen angezeigt wenn man auf diesen klickt kann man das Unternehmensprofil verwalten.
 
