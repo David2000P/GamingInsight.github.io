@@ -133,61 +133,55 @@ Die Ergebnisse der Evaluation zeigten, dass Benutzer im Durchschnitt 3 Minuten b
 ### Implikationen
 
 Aus dieser Evaluation haben wir gelernt, dass der Registrierungsprozess vereinfacht werden muss, um die Abbruchrate zu verringern. Eine geplante Änderung ist, die Abfrage des Geburtsdatums zu entfernen, da dies als eine Hürde empfunden wurde. Wir planen, diese Evaluation nach Durchführung der Änderungen erneut zu wiederholen, um den Einfluss der Verbesserungen auf die Registrierungsdauer und die Abbruchrate zu messen.
+# Team-Evaluation für GamingInsight
 
-6. Zielgruppe
-Unsere Zielgruppe umfasst:
-•	Entwickler: Programmierer, Software-Ingenieure, Gameplay-Entwickler, die Einblicke in Arbeitskultur und technische Ausstattung suchen.
-•	Designer: Grafikdesigner, UI/UX-Designer, Level-Designer, die Informationen zu kreativen Freiheiten und Teamdynamik benötigen.
-•	Tester: Qualitätssicherung, Bug-Tester, Playtester, die Bewertungen über Testprozesse und Arbeitsbelastung benötigen.
-•	Projektmanager: Produktmanager, Scrum Master, Projektleiter, die Einblicke in Projektmanagement-Methoden und Teamführung suchen.
-•	Berufseinsteiger: Neue Absolventen, Einsteiger in die Gaming-Branche, die Orientierungshilfe und Bewertungen zur Auswahl des ersten Arbeitgebers benötigen.
-•	Erfahrene Fachkräfte: Branchenveteranen, die nach besseren Arbeitsbedingungen suchen.
-•	Arbeitgeber: Unternehmen, die Feedback erhalten und ihre Arbeitsbedingungen verbessern möchten.
-•	Branchenanalysten und Forscher: Personen, die Trends und Arbeitsbedingungen in der Gaming-Industrie analysieren.
-7. Beschreibung der Kernfunktionalitäten
-Benutzer-Registrierung und Login:
-•	Registrierung: Neue Benutzer können sich auf der Plattform registrieren, indem sie grundlegende Informationen wie Benutzername, E-Mail und Passwort angeben.
-•	Login: Bereits registrierte Benutzer können sich mit ihren Zugangsdaten einloggen.
-Unternehmensregistrierung:
-•	Unternehmen können sich registrieren, um ein Profil zu erstellen und auf Bewertungen zu reagieren.
-Bewertungen abgeben:
-•	Benutzer können detaillierte Bewertungen über ihre Arbeitgeber abgeben, einschließlich spezifischer Kategorien wie Arbeitsumfeld, Work-Life-Balance, Management, etc.
-Bewertungen lesen:
-•	Alle Benutzer können Bewertungen über verschiedene Unternehmen lesen, um fundierte Entscheidungen zu treffen.
+## Inhaltsverzeichnis
 
-8. Technologiestack
-Frontend:
-•	HTML: Zur Strukturierung der Webinhalte.
-•	CSS: Für die Gestaltung und das Design der Benutzeroberfläche.
-•	JavaScript: Für clientseitige Interaktionen und dynamische Inhalte.
-Backend:
-•	Flask: Ein leichtgewichtiges Web-Framework für Python zur Erstellung der Backend-Logik.
-•	Python: Die Hauptprogrammiersprache für die Backend-Entwicklung.
-•	SQLite: Für die Datenbankverwaltung.
-•	Flask-Erweiterungen: Flask-SQLAlchemy, Flask-Migrate, Flask-Login.
-9. Designentscheidungen
+1. [Ziele](#1-ziele)
+2. [Verbesserungen](#2-verbesserungen)
+3. [Peer Review](#3-peer-review)
+4. [Beiträge](#4-beiträge)
 
+---
 
-10. Ziele bis zur Einreichung & Backlog
-•	Vollständige Implementierung der Kernfunktionalitäten (Registrierung, Login, Bewertungen, Community-Forum).
-•	Sicherstellung der Datenintegrität und -sicherheit.
-•	Durchführung umfangreicher Tests zur Sicherstellung der Plattformstabilität.
-Backlog:
-•	Verbesserung des Bewertungssystems.
-•	Erweiterung des Community-Forums.
-•	Implementierung von Unternehmensprofilen.
-•	Hinzufügen von Suchfunktionen.
-•	Verifizierung von Unternehmen und Arbeitnehmern.
-•	Implementierung von API-Integrationen (Google Maps, Google Authentifizierung).
-11. Evaluation
-Unsere Kommunikationsmittel umfassten Discord und WhatsApp, und wir hielten wöchentliche Meetings, um den Projektfortschritt zu besprechen. Durch diese regelmäßigen Meetings konnten wir sicherstellen, dass wir im Zeitplan blieben und alle Teammitglieder auf dem gleichen Stand waren. Feedback von unseren Kommilitonen half uns, die Benutzerfreundlichkeit und Funktionalität der Plattform zu verbessern.
-12. Projektabschluss
-Projektabschluss und Reflexion: GamingInsight hat seinen geplanten Funktionsumfang erfolgreich erreicht und bietet nun eine umfassende Plattform zur Bewertung und Diskussion über Unternehmen in der Gaming-Industrie. Die Plattform verbessert die Transparenz und ermöglicht fundierte Entscheidungen für Fachkräfte innerhalb der Branche.
-Erreichte Meilensteine:
-•	Entwicklung und Implementierung einer benutzerfreundlichen Plattform.
-•	Etablierung einer aktiven Community für Austausch und Diskussion.
-•	Beitrag zur Verbesserung der Arbeitsbedingungen in der Gaming-Industrie durch transparente Bewertungen und Feedback.
+## 1. Ziele
 
+### Projektziele
+Das Hauptziel des Projekts war die Entwicklung einer Plattform, die Transparenz und detaillierte Informationen über die Arbeitsbedingungen in der Gaming-Industrie bietet. Ziel war es, eine benutzerfreundliche, zuverlässige und informative Plattform zu schaffen, die es Benutzern ermöglicht, fundierte Entscheidungen zu treffen.
 
-In unsere Webseite kann man sich auf der Startseite registrieren und einloggen. Nachdem man sich eingeloggt kommt man zur Hauptseite. In der kann man nun Unternehmen suchen, registrieren und sich Top Bewertungen für jede Kategorie anzeigen lassen. Wenn sich ein Benutzer eingeloggt hat, kann er zu Unternehmen Bewertungen abgeben und kommentieren. Wenn sich ein Benutzer eingeloggt der ein Unternehmen angelegt hat wird auf der Startseite der Reiter mein Unternehmen angezeigt wenn man auf diesen klickt kann man das Unternehmensprofil verwalten.
+### Teamziele
+- **Effiziente Zusammenarbeit:** Das Team strebte an, eine offene Kommunikation und effiziente Arbeitsverteilung zu etablieren.
+- **Technische Weiterentwicklung:** Jedes Teammitglied sollte seine technischen Fähigkeiten erweitern und neues Wissen in den Bereichen Webentwicklung und Datenbankmanagement erlangen.
+- **Qualitätssicherung:** Hohe Qualität der Plattform durch regelmäßige Tests und Peer-Reviews sicherstellen.
+
+## 2. Verbesserungen
+
+Während des Projekts wurden kontinuierlich Verbesserungen in verschiedenen Bereichen vorgenommen:
+
+- **User Interface:** Das Design wurde mehrmals überarbeitet, um die Benutzerfreundlichkeit zu erhöhen.
+- **Performance-Optimierung:** Ladezeiten und Reaktionsfähigkeit der Plattform wurden durch effizienteren Code und bessere Server-Infrastruktur verbessert.
+- **Sicherheitsmaßnahmen:** Die Sicherheit der Plattform wurde durch Einführung fortgeschrittener Authentifizierungs- und Verschlüsselungstechniken verstärkt.
+
+## 3. Peer Review
+
+Jedes Teammitglied wurde regelmäßig von den anderen Teammitgliedern bewertet, um eine konstruktive Rückmeldung zu geben:
+
+- **Ekber Pala:** Großartig in der Koordination des Teams und im Projektmanagement. Sollte technische Fähigkeiten weiterentwickeln.
+- **David Pätzold:** Ausgezeichnete Arbeit im Frontend-Bereich. Könnte seine Dokumentationsfähigkeiten verbessern.
+- **Sercan Polat:** Sehr stark in der Backend-Entwicklung. Muss noch an seinen Frontend-Fähigkeiten arbeiten.
+
+## 4. Beiträge
+
+### Ekber Pala
+- **Projektmanagement:** Überwachung der Projektfortschritte und Einhaltung der Zeitpläne.
+- **Dokumentation:** Verantwortlich für die Erstellung der Projektdokumentation und Berichterstattung.
+
+### David Pätzold
+- **Frontend-Entwicklung:** Design und Implementierung der Benutzeroberfläche.
+- **User Experience:** Entwicklung von Benutzerführung und Interaktivität.
+
+### Sercan Polat
+- **Backend-Entwicklung:** Hauptverantwortlich für die Entwicklung des Server-Backends und die Datenbankintegration.
+- **Testing:** Durchführung von Integrationstests.
+
 
