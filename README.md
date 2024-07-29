@@ -7,11 +7,10 @@ Inhaltsverzeichnis
 4.	Zielgruppe
 5.	Beschreibung der Kernfunktionalitäten
 6.	Technologiestack
-7.	Screenflow
-8.	Designentscheidungen
-9.	Ziele bis zur Einreichung & Backlog
-10.	Evaluation
-11.	Projektabschluss Ausführung der Webseite
+7.	Designentscheidungen
+8.	Ziele bis zur Einreichung & Backlog
+9.	Evaluation
+10.	Projektabschluss Ausführung der Webseite
 
 # 3. ER Modell Data Model: (Hinweis nicht zu ende gedacht)
 
@@ -91,12 +90,6 @@ Backend:
 •	Python: Die Hauptprogrammiersprache für die Backend-Entwicklung.
 •	SQLite: Für die Datenbankverwaltung.
 •	Flask-Erweiterungen: Flask-SQLAlchemy, Flask-Migrate, Flask-Login.
-7. Screenflow
-Login-Seite: Benutzer geben ihre Anmeldedaten ein, um Zugang zur Plattform zu erhalten.
-Registrierungsseite: Neue Benutzer können sich registrieren, indem sie ihre Daten eingeben und ein Konto erstellen.
-Hauptseite nach Login: Benutzer sehen eine Übersicht der verfügbaren Funktionen und können auf Profile, Bewertungen und das Community-Forum zugreifen.
-Unternehmensregistrierung: Unternehmen können ein Profil erstellen und verwalten.
-Bewertungsseite: Benutzer können Bewertungen abgeben und bestehende Bewertungen lesen und kommentieren.
 8. Designentscheidungen
 I) Automatischer Download von Dateien nach Abschluss der Konvertierung:
 Problemstellung: Sicherstellung einer nahtlosen Benutzererfahrung bei der Dateikonvertierungsplattform GamingInsight.
