@@ -13,6 +13,21 @@ Inhaltsverzeichnis
 9.	Ziele bis zur Einreichung & Backlog
 10.	Evaluation
 11.	Projektabschluss
+
+# 3. ER Modell Data Model: (Hinweis nicht zu ende gedacht)
+
+![Entity-Relationship-Diagramm - Rahmen 1](https://github.com/ektotheo/Project-GamingInsight/assets/138446648/2e0c2cae-042c-4d55-bfe8-062b37e42a1e)
+
+
+# 4. UI Design:
+
+
+![Ui-5](https://github.com/ektotheo/Project-GamingInsight/assets/138446648/4f9ae9a8-7491-4846-a0a2-0ea7b4b379c6)
+![Ui-4](https://github.com/ektotheo/Project-GamingInsight/assets/138446648/3ca71482-892b-4720-9bb4-0fa727e7f5c5)
+![Ui-3](https://github.com/ektotheo/Project-GamingInsight/assets/138446648/70c049f0-d22f-479d-8207-b4f1d2204062)
+![Ui-2](https://github.com/ektotheo/Project-GamingInsight/assets/138446648/8050df81-d350-47f6-8fea-7958df2951e1)
+![Ui-1](https://github.com/ektotheo/Project-GamingInsight/assets/138446648/19899f63-9b5f-4923-85b3-e1f5e682a800)
+
 1. Beschreibung des Projektansatzes
 In den ersten Wochen des Kurses haben wir, das Team bestehend aus Ekber Pala, David Pätzold und Sercan Polat, verschiedene Projektideen gesammelt und diskutiert. Schließlich entschieden wir uns für GamingInsight, eine Plattform, die detaillierte und vertrauenswürdige Einblicke in Unternehmen der Gaming-Industrie bieten soll. Unser Ziel ist es, Fachkräften fundierte Karriereentscheidungen zu ermöglichen, indem wir eine Lösung für das mangelnde Vertrauen und die fehlende Transparenz in der Gaming-Branche entwickeln.
 Projektziele:
