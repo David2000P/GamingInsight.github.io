@@ -77,9 +77,7 @@ Bewertungen abgeben:
 •	Benutzer können detaillierte Bewertungen über ihre Arbeitgeber abgeben, einschließlich spezifischer Kategorien wie Arbeitsumfeld, Work-Life-Balance, Management, etc.
 Bewertungen lesen:
 •	Alle Benutzer können Bewertungen über verschiedene Unternehmen lesen, um fundierte Entscheidungen zu treffen.
-Community-Forum:
-•	Ein Forum für den Austausch von Erfahrungen, Tipps und Diskussionen über die Gaming-Branche.
-Kommentare: Benutzer können Bewertungen kommentieren und sich an Diskussionen beteiligen.
+
 6. Technologiestack
 Frontend:
 •	HTML: Zur Strukturierung der Webinhalte.
