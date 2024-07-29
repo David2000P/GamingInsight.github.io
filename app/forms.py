@@ -1,54 +1,39 @@
-from flask_wtf import FlaskForm
-from wtforms import StringField, PasswordField, BooleanField, SubmitField, TextAreaField
-from wtforms.validators import DataRequired, Email, EqualTo, URL, ValidationError
-from .models import User, Company
+from .extensions import db
+from flask_login import UserMixin
+from werkzeug.security import generate_password_hash, check_password_hash
 
-class RegistrationForm(FlaskForm):
-    username = StringField('Username', validators=[DataRequired()])
-    email = StringField('Email', validators=[DataRequired(), Email()])
-    password = PasswordField('Password', validators=[DataRequired()])
-    password2 = PasswordField('Repeat Password', validators=[DataRequired(), EqualTo('password')])
-    submit = SubmitField('Register')
+class User(db.Model, UserMixin):
+    id = db.Column(db.Integer, primary_key=True)
+    username = db.Column(db.String(64), index=True, unique=True)
+    email = db.Column(db.String(120), index=True, unique=True)
+    password_hash = db.Column(db.String(128))
+    reviews = db.relationship('Review', backref='author', lazy='dynamic')
 
-    def validate_username(self, username):
-        user = User.query.filter_by(username=username.data).first()
-        if user is not None:
-            raise ValidationError('Please use a different username.')
+    def set_password(self, password):
+        self.password_hash = generate_password_hash(password)
 
-    def validate_email(self, email):
-        user = User.query.filter_by(email=email.data).first()
-        if user is not None:
-            raise ValidationError('Please use a different email address.')
+    def check_password(self, password):
+        return check_password_hash(self.password_hash, password)
 
-class LoginForm(FlaskForm):
-    email = StringField('Email', validators=[DataRequired(), Email()])
-    password = PasswordField('Password', validators=[DataRequired()])
-    remember_me = BooleanField('Remember Me')
-    submit = SubmitField('Sign In')
+class Company(db.Model):
+    id = db.Column(db.Integer, primary_key=True)
+    name = db.Column(db.String(128), index=True, unique=True)
+    description = db.Column(db.String(1000))
+    website = db.Column(db.String(256))
+    user_id = db.Column(db.Integer, db.ForeignKey('user.id'))  # Beziehung zum Benutzer hinzufügen
+    user = db.relationship('User', backref='companies')
+    reviews = db.relationship('Review', backref='company', lazy='dynamic')
 
-class CompanyRegistrationForm(FlaskForm):
-    company_name = StringField('Company Name', validators=[DataRequired()])
-    company_description = TextAreaField('Company Description', validators=[DataRequired()])
-    company_website = StringField('Company Website', validators=[DataRequired()])
-    email = StringField('Email', validators=[DataRequired(), Email()])
-    password = PasswordField('Password', validators=[DataRequired()])
-    password2 = PasswordField('Repeat Password', validators=[DataRequired(), EqualTo('password')])
-    submit = SubmitField('Register')
-
-class CompanyLoginForm(FlaskForm):
-    email = StringField('Email', validators=[DataRequired(), Email()])
-    password = PasswordField('Password', validators=[DataRequired()])
-    remember_me = BooleanField('Remember Me')
-    submit = SubmitField('Sign In')
+class Review(db.Model):
+    id = db.Column(db.Integer, primary_key=True)
+    culture = db.Column(db.Integer)  # Bewertung für Arbeitskultur
+    work_life_balance = db.Column(db.Integer)  # Bewertung für Work-Life-Balance
+    career_opportunities = db.Column(db.Integer)  # Bewertung für Karrierechancen
+    technology = db.Column(db.Integer)  # Bewertung für Technologie
+    compensation = db.Column(db.Integer)  # Bewertung für Vergütung
+    community = db.Column(db.Integer)  # Bewertung für Gemeinschaft
+    comments = db.Column(db.String(1000))  # Freitextkommentare
+    user_id = db.Column(db.Integer, db.ForeignKey('user.id'))
+    company_id = db.Column(db.Integer, db.ForeignKey('company.id'))
 
 
-    def validate_company_name(self, company_name):
-        company = Company.query.filter_by(name=company_name.data).first()
-        if company is not None:
-            raise ValidationError('Please use a different company name.')
-
-class CompanyEditForm(FlaskForm):
-    company_name = StringField('Company Name', validators=[DataRequired()])
-    company_description = TextAreaField('Company Description', validators=[DataRequired()])
-    company_website = StringField('Company Website', validators=[DataRequired(), URL()])
-    submit = SubmitField('Update')
