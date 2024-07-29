@@ -3,20 +3,23 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Registered Companies</title>
+    <title>Alle Unternehmen</title>
     <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
 </head>
 <body>
     <header>
-        <h1>Registered Companies</h1>
+        <h1>Alle Unternehmen</h1>
     </header>
     <ul>
         {% for company in companies %}
-            <li>
-                <h2>{{ company.name }}</h2>
-                <p>{{ company.description }}</p>
-                <a href="{{ company.website }}">{{ company.website }}</a>
-            </li>
+        <li>
+            <h2><a href="{{ url_for('main.company_detail', company_id=company.id) }}">{{ company.name }}</a></h2>
+            <p>{{ company.description }}</p>
+            <a href="{{ company.website }}" target="_blank">{{ company.website }}</a>
+            {% if company.user_id == current_user.id %}
+                <a href="{{ url_for('main.edit_company', company_id=company.id) }}">Bearbeiten</a>
+            {% endif %}
+        </li>
         {% endfor %}
     </ul>
 </body>
