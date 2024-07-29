@@ -1,3 +1,11 @@
+## Inhaltsverzeichnis
+
+1. [Ziele](#1-ziele)
+2. [Verbesserungen](#2-verbesserungen)
+3. [Peer Review](#3-peer-review)
+4. [Beiträge](#4-beiträge)
+
+---
 GamingInsight
 [Project description]
 
