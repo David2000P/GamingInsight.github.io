@@ -185,3 +185,25 @@ Jedes Teammitglied wurde regelmäßig von den anderen Teammitgliedern bewertet, 
 - **Testing:** Durchführung von Integrationstests.
 
 
+## Designentscheidungen
+
+** 01 Wie gestalten wir die Login- und Registrierungsfunktion?
+
+Problem: Wir waren uns nicht sicher wie wir unser Login und die Registrierung handhaben wollen
+
+Lösung: Jeder muss bei der Registrierung einen Usernamen angeben zur eindeutigen Identifizierung. Dann sein Passwort dieses er auch bestätigen muss. Seine Email Adresse ebenfalls falls das Passwort vergessen wird kann der Benutzer mit der Email Adresse dieses anfordern ( funktioniert das?). Falls man ein Feld falsch eingegeben hat bekommt man Feedback z.B. „Email Feld leer“. ( funktioniert das?)
+
+02  Wie gestalten wir  die Unternehmen?
+
+Problem: Wir waren uns nicht sicher ob wir einfach die Unternehmen die es gibt einfach hinzufügen sollen in die Datenbank und ob ein Benutzer Unternehmen registrieren kann.
+
+Lösung: Wir haben uns entschieden, dass wir Unternehmen selber anlegen die es schon gibt. Eingeloggte Benutzer können Unternehmen registrieren dabei legen sie einen Namen fest, können eine Beschreibung und den Link ihrer Homepage hinzufügen.
+
+
+03  Wie wird die Bewertungen der Unternehmen geregelt?
+
+Problem: Wir waren uns nicht sicher, wie wir die Bewertungen handhaben wollen ob einfach jeder Unternehmen bewerten kann?
+
+Lösung: Alle User können Bewertungen einsehen aber nur eingeloggte Benutzer können Bewertungen abgeben. Die Bewertungen sind kategorisiert.
+
+
