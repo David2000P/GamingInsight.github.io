@@ -189,21 +189,24 @@ Jedes Teammitglied wurde regelmäßig von den anderen Teammitgliedern bewertet, 
 
 ** 01 Wie gestalten wir die Login- und Registrierungsfunktion?
 
-Problem: Wir waren uns nicht sicher wie wir unser Login und die Registrierung handhaben wollen
+Problem: Es war unklar, wie die Login- und Registrierungsfunktionen umgesetzt werden sollen.
 
-Lösung: Jeder muss bei der Registrierung einen Usernamen angeben zur eindeutigen Identifizierung. Dann sein Passwort dieses er auch bestätigen muss. Seine Email Adresse ebenfalls falls das Passwort vergessen wird kann der Benutzer mit der Email Adresse dieses anfordern ( funktioniert das?). Falls man ein Feld falsch eingegeben hat bekommt man Feedback z.B. „Email Feld leer“. ( funktioniert das?)
+Lösung: Jeder Benutzer muss bei der Registrierung einen eindeutigen Benutzernamen angeben. Außerdem muss er ein Passwort erstellen und dieses zur Bestätigung erneut eingeben. Eine E-Mail-Adresse wird ebenfalls benötigt, um das Passwort im Falle eines Vergessens zurücksetzen zu können. Wenn ein Feld falsch ausgefüllt wird, erhält der Benutzer eine Rückmeldung, wie beispielsweise "E-Mail-Feld leer". (Ist dies umsetzbar?)
 
-02  Wie gestalten wir  die Unternehmen?
+02 Wie gestalten wir die Unternehmen?
 
 Problem: Wir waren uns nicht sicher ob wir einfach die Unternehmen die es gibt einfach hinzufügen sollen in die Datenbank und ob ein Benutzer Unternehmen registrieren kann.
 
-Lösung: Wir haben uns entschieden, dass wir Unternehmen selber anlegen die es schon gibt. Eingeloggte Benutzer können Unternehmen registrieren dabei legen sie einen Namen fest, können eine Beschreibung und den Link ihrer Homepage hinzufügen.
+Lösung: Es wurde beschlossen, bereits existierende Unternehmen selbst anzulegen. Eingeloggte Benutzer können neue Unternehmen registrieren, indem sie einen Namen festlegen und eine Beschreibung sowie den Link zur Unternehmenswebsite hinzufügen.
+
+03 Wie wird die Bewertung der Unternehmen geregelt?
+
+Problem: Die Handhabung der Unternehmensbewertungen ist unklar, insbesondere ob jeder Benutzer Bewertungen abgeben kann.
+
+Lösung: Alle Benutzer können Bewertungen einsehen, aber nur eingeloggte Benutzer können Bewertungen abgeben. Die Bewertungen sind in verschiedene Kategorien unterteilt.
 
 
-03  Wie wird die Bewertungen der Unternehmen geregelt?
 
-Problem: Wir waren uns nicht sicher, wie wir die Bewertungen handhaben wollen ob einfach jeder Unternehmen bewerten kann?
 
-Lösung: Alle User können Bewertungen einsehen aber nur eingeloggte Benutzer können Bewertungen abgeben. Die Bewertungen sind kategorisiert.
 
 
