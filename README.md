@@ -219,9 +219,3 @@ Lösung: Es wurde beschlossen, bereits existierende Unternehmen selbst anzulegen
 Problem: Die Handhabung der Unternehmensbewertungen ist unklar, insbesondere ob jeder Benutzer Bewertungen abgeben kann.
 
 Lösung: Alle Benutzer können Bewertungen einsehen, aber nur eingeloggte Benutzer können Bewertungen abgeben. Die Bewertungen sind in verschiedene Kategorien unterteilt.
-
-
-
-
-
-
