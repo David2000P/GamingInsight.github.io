@@ -10,15 +10,17 @@ Unsere Mission ist es, die Arbeitskultur in der Gaming-Branche durch erhöhte Tr
 
 **David Pätzold**
 David hat bereits Kenntnisse im Front-End und bringt solide Erfahrung Rundum das Thema User Experience
-Matr.-Nr.
-77211974782
+
+Matr.-Nr.: 77211974782
 
 **Sercan Sinanovic Polat**
 Sercan ist unser Back-End Exoert. Durch sehr gute Kenntnisse im Thema Datenbanken und die Integration dieser.
+
 Matr.-Nr.: 77211974478
 
 **Ekber Pala**
 Ekber hat langjährige Erfahrung in Projektarbeit mit wodurch wir ein sehr gutes Zeitmanagement und Projektkoordination hatten.
+
 Matr.-Nr.: 77211964967
 
 **Präsentationslink: ?**
