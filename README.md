@@ -6,7 +6,7 @@ GamingInsight ist eine wegweisende Plattform, die speziell entwickelt wurde, um 
 
 Unsere Mission ist es, die Arbeitskultur in der Gaming-Branche durch erhöhte Transparenz und Zugänglichkeit von Informationen zu verbessern. GamingInsight ermöglicht es Benutzern, Erfahrungen auszutauschen und wertvolle Einsichten über potenzielle Arbeitgeber zu gewinnen, wodurch ein besser informierter und engagierter Arbeitsmarkt entsteht.
 
-# Team member
+# Team Member
 
 **David Pätzold**
 David hat bereits Kenntnisse im Front-End und bringt solide Erfahrung Rundum das Thema User Experience
@@ -42,48 +42,43 @@ Diese Arbeit wurde selbständig und eigenhändig erstellt. Die den benutzten Que
 - [Designentscheidungen](/designentscheidungen)
 - [User Evaluation](/user-evaluation)
 - [Team Evaluation](/team-evaluation)
-- [Projektabschluss und Ausführung der Webseite](/projektabschluss-ausfuehrung-der-webseite)
 
 
 **Beschreibung des Projektansatzes**
 In den ersten Wochen des Kurses haben wir, das Team bestehend aus Ekber Pala, David Pätzold und Sercan Polat, verschiedene Projektideen gesammelt und diskutiert. Schließlich entschieden wir uns für GamingInsight, eine Plattform, die detaillierte und vertrauenswürdige Einblicke in Unternehmen der Gaming-Industrie bieten soll. Unser Ziel ist es, Fachkräften fundierte Karriereentscheidungen zu ermöglichen, indem wir eine Lösung für das mangelnde Vertrauen und die fehlende Transparenz in der Gaming-Branche entwickeln.
 
 **Projektziele:**
-•	Transparenz schaffen: Eine Plattform, die detaillierte und ehrliche Einblicke in die Arbeitsbedingungen bei Unternehmen in der Gaming-Industrie bietet.
-•	Arbeitsbedingungen verbessern: Durch das Sammeln und Analysieren von Feedback können Unternehmen ihre Arbeitskultur und -bedingungen verbessern.
-•	Arbeitsplatzsuche erleichtern: Fachkräften soll die Suche nach einem passenden Arbeitgeber erleichtert werden.
+Transparenz schaffen: Eine Plattform, die detaillierte und ehrliche Einblicke in die Arbeitsbedingungen bei Unternehmen in der Gaming-Industrie bietet.
+Arbeitsbedingungen verbessern: Durch das Sammeln und Analysieren von Feedback können Unternehmen ihre Arbeitskultur und -bedingungen verbessern.
+Arbeitsplatzsuche erleichtern: Fachkräften soll die Suche nach einem passenden Arbeitgeber erleichtert werden.
 
 **Projektmethodik:**
-•	Brainstorming: Verschiedene Ideen wurden gesammelt und diskutiert.
-•	Planung: Eine detaillierte Projektplanung wurde erstellt, um sicherzustellen, dass alle Aspekte abgedeckt werden.
-•	Umsetzung: Die Arbeit wurde gleichmäßig auf die Teammitglieder verteilt und gemeinsam in der Bibliothek oder über Videokonferenzen erledigt.
-•	Testing: Regelmäßige Tests wurden durchgeführt, um sicherzustellen, dass die Plattform wie beabsichtigt funktioniert.
-•	Feedback: Feedback von Kommilitonen wurde eingeholt, um die Benutzerfreundlichkeit und Funktionalität der Plattform zu verbessern.
+Brainstorming: Verschiedene Ideen wurden gesammelt und diskutiert.
+Planung: Eine detaillierte Projektplanung wurde erstellt, um sicherzustellen, dass alle Aspekte abgedeckt werden.
+Umsetzung: Die Arbeit wurde gleichmäßig auf die Teammitglieder verteilt und gemeinsam in der Bibliothek oder über Videokonferenzen erledigt.
+Testing: Regelmäßige Tests wurden durchgeführt, um sicherzustellen, dass die Plattform wie beabsichtigt funktioniert.
+Feedback: Feedback von Kommilitonen wurde eingeholt, um die Benutzerfreundlichkeit und Funktionalität der Plattform zu verbessern.
 
 **Umsetzungsprozess:**
-•	In den ersten Wochen haben wir die Projektidee entwickelt und ein Konzept erstellt.
-•	Die Aufgaben wurden fair aufgeteilt: Ekber war für die Homepage und Navigation verantwortlich, David für die Upload-Seite und Sercan für die Login/Registrierungsseite.
-•	Wir haben regelmäßige Meetings abgehalten, um den Fortschritt zu überprüfen und sicherzustellen, dass alle auf dem gleichen Stand sind.
-•	Alle Teammitglieder haben gemeinsam an der Textbox- und Download-Funktionalität gearbeitet.
+In den ersten Wochen haben wir die Projektidee entwickelt und ein Konzept erstellt.
+Die Aufgaben wurden fair aufgeteilt: Ekber war für die Homepage und Navigation verantwortlich, David für die Upload-Seite und Sercan für die Login/Registrierungsseite.
+Wir haben regelmäßige Meetings abgehalten, um den Fortschritt zu überprüfen und sicherzustellen, dass alle auf dem gleichen Stand sind.
+Alle Teammitglieder haben gemeinsam an der Textbox- und Download-Funktionalität gearbeitet.
 
 
 # Value Proposition
 
 ## Das Problem
-## Unsere Lösung
-## Zielbenutzer
-## Kundenreise
-
-### Das Problem
 GamingInsight adressiert das Problem der Intransparenz in der Gaming-Industrie. 
 Viele Fachkräfte der Branche haben Schwierigkeiten, verlässliche Informationen über die Arbeitskultur und die internen Bedingungen von Arbeitgebern zu finden. Diese Informationslücke kann zu uninformierten Entscheidungen führen, die die Karriere und das persönliche Wohlbefinden negativ beeinflussen.
 
-### Unsere Lösung
+## Unsere Lösung
 GamingInsight bietet eine Plattform, die es Nutzern ermöglicht, detaillierte Bewertungen und Feedback über Unternehmen in der Gaming-Branche zu hinterlassen und einzusehen. Unsere Lösung zielt darauf ab, die Arbeitsbedingungen transparent zu machen, indem wir Bewertungen zu verschiedenen Aspekten wie Work-Life-Balance, Managementstil und Teamkultur sammeln. Wir stellen sicher, dass unsere Plattform realistische und erreichbare Ergebnisse liefert, die direkt auf Nutzerfeedback basieren.
 
-# Target User
+## Target User
 
 **Hauptzielgruppe**
+Persona
 Berufserfahrene Game Designer:
 Alter: 25 bis 40 Jahre
 Berufserfahrung: Mindestens 5 Jahre in der Gaming-Industrie
@@ -92,13 +87,51 @@ Technische Kenntnisse: Hohe Kompetenz in Spieleentwicklungstools und -software
 Geografische Lage: Fokussiert auf Tech-Hubs in Europa und Nordamerika
 Bedürfnisse: Detaillierte Informationen über Unternehmenskultur, Mitarbeiterzufriedenheit und Wachstumschancen in verschiedenen Gaming-Unternehmen
 
-# Customer Journey
+## Customer Journey ( Screenflow ???) 
 Die Kundenreise auf GamingInsight beginnt mit der Registrierung und dem Einloggen in die App.
 Nach dem Login kann der Nutzer:
 Unternehmensbewertungen durchsuchen: Benutzer können nach spezifischen Unternehmen suchen und deren Bewertungen lesen.
 Bewertung abgeben: Nutzer können ihre Erfahrungen teilen, indem sie eine Bewertung über ihren aktuellen oder ehemaligen Arbeitgeber schreiben.
 Interaktion mit der Community(Backlog): Nutzer können Fragen stellen oder Diskussionen in einem speziell dafür vorgesehenen Forum starten.
 Jobangebote einsehen(Backlog): Nutzer können aktuelle Stellenausschreibungen einsehen, die von Unternehmen auf unserer Plattform gepostet werden.
+
+# Technologiestack
+
+## Backend
+
+**Flask**
+Verwendung: Flask ist ein leichtgewichtiges WSGI-Webanwendung-Framework. Es wird verwendet, um die Backend-Logik und APIs zu implementieren, die die Frontend-Anwendungen bedienen.
+Grund der Wahl: Flask bietet Flexibilität und ist einfach zu verwenden, was schnelle Entwicklungszyklen ermöglicht. Es eignet sich besonders gut für kleinere bis mittelgroße Projekte mit Bedarf an einer soliden Webanwendungsstruktur ohne den Overhead größerer Frameworks wie Django.
+
+**SQLite**
+Verwendung: SQLite ist eine relationale Datenbankverwaltungssystem, das in einer C-Bibliothek enthalten ist. In Flask-Projekten dient es dazu, Daten effizient zu speichern und zu verwalten.
+Grund der Wahl: SQLite ist leichtgewichtig und benötigt keine separate Server-Installation, was es ideal für Entwicklungsumgebungen und kleinere Anwendungen macht. Es unterstützt schnelle Prototypentwicklung und ist einfach zu konfigurieren.
+
+**Flask-SQLAlchemy**
+Verwendung: SQLAlchemy ist ein SQL-Toolkit und ORM (Object Relational Mapper) für Python. Flask-SQLAlchemy ist eine Erweiterung für Flask, die mehr Komfort bei der Verwendung von SQLAlchemy bietet.
+Grund der Wahl: Es abstrahiert Datenbankzugriffe und verbessert die Datenbankinteraktionen durch eine höhere Abstraktionsebene, was die Wartung und Erweiterung der Datenbanklogik erleichtert.
+
+**Flask-Login**
+Verwendung: Flask-Login bietet Benutzerverwaltung für Flask-Anwendungen und unterstützt das Management von Benutzersitzungen.
+Grund der Wahl: Es erleichtert die Implementierung von Authentifizierungsmechanismen, was die Entwicklung von sicheren Anwendungen vereinfacht und verbessert.
+
+
+# Frontend
+
+**Jinja2**
+Verwendung: Jinja2 ist eine Template-Engine für Python, die in Flask-Anwendungen für die Erstellung von HTML-Templates verwendet wird.
+Grund der Wahl: Sie ermöglicht eine klare Trennung zwischen Design und Logik, bietet leistungsstarke Funktionen zur dynamischen Generierung von HTML-Inhalten und erhöht die Flexibilität und Wartbarkeit des Frontends.
+
+**CSS**
+Verwendung: CSS (Cascading Style Sheets) wird verwendet, um das Layout und das visuelle Design der Webseiten zu gestalten.
+Grund der Wahl: CSS ist essentiell für die Erstellung benutzerfreundlicher Interfaces und ermöglicht die kreative und präzise Gestaltung der Benutzeroberfläche.
+
+**HTML**
+Verwendung: HTML (Hypertext Markup Language) ist die Standard-Auszeichnungssprache für das Erstellen von Webseiten und Webanwendungen.
+Grund der Wahl: HTML bildet das Grundgerüst jeder Webseite und ist grundlegend für die Strukturierung und den Inhalt der Benutzeroberfläche.
+
+# Datenmodell ??????
+
 
 # User Evaluation
 
@@ -136,39 +169,40 @@ Aus dieser Evaluation haben wir gelernt, dass der Registrierungsprozess vereinfa
 Das Hauptziel des Projekts war die Entwicklung einer Plattform, die Transparenz und detaillierte Informationen über die Arbeitsbedingungen in der Gaming-Industrie bietet. Ziel war es, eine benutzerfreundliche, zuverlässige und informative Plattform zu schaffen, die es Benutzern ermöglicht, fundierte Entscheidungen zu treffen.
 
 ### Teamziele
-- **Effiziente Zusammenarbeit:** Das Team strebte an, eine offene Kommunikation und effiziente Arbeitsverteilung zu etablieren.
-- **Technische Weiterentwicklung:** Jedes Teammitglied sollte seine technischen Fähigkeiten erweitern und neues Wissen in den Bereichen Webentwicklung und Datenbankmanagement erlangen.
-- **Qualitätssicherung:** Hohe Qualität der Plattform durch regelmäßige Tests und Peer-Reviews sicherstellen.
+**Effiziente Zusammenarbeit:** Das Team strebte an, eine offene Kommunikation und effiziente Arbeitsverteilung zu etablieren.
+**Technische Weiterentwicklung:** Jedes Teammitglied sollte seine technischen Fähigkeiten erweitern und neues Wissen in den Bereichen Webentwicklung und Datenbankmanagement erlangen.
+**Qualitätssicherung:** Hohe Qualität der Plattform durch regelmäßige Tests und Peer-Reviews sicherstellen.
 
 ## 2. Verbesserungen
 
 Während des Projekts wurden kontinuierlich Verbesserungen in verschiedenen Bereichen vorgenommen:
 
-- **User Interface:** Das Design wurde mehrmals überarbeitet, um die Benutzerfreundlichkeit zu erhöhen.
-- **Performance-Optimierung:** Ladezeiten und Reaktionsfähigkeit der Plattform wurden durch effizienteren Code und bessere Server-Infrastruktur verbessert.
-- **Sicherheitsmaßnahmen:** Die Sicherheit der Plattform wurde durch Einführung fortgeschrittener Authentifizierungs- und Verschlüsselungstechniken verstärkt.
+**User Interface:** Das Design wurde mehrmals überarbeitet, um die Benutzerfreundlichkeit zu erhöhen.
+**Performance-Optimierung:** Ladezeiten und Reaktionsfähigkeit der Plattform wurden durch effizienteren Code und bessere Server-Infrastruktur verbessert.
+**Sicherheitsmaßnahmen:** Die Sicherheit der Plattform wurde durch Einführung fortgeschrittener Authentifizierungs- und Verschlüsselungstechniken verstärkt.
 
 ## 3. Peer Review
 
 Jedes Teammitglied wurde regelmäßig von den anderen Teammitgliedern bewertet, um eine konstruktive Rückmeldung zu geben:
 
-- **Ekber Pala:** Großartig in der Koordination des Teams und im Projektmanagement. Sollte technische Fähigkeiten weiterentwickeln.
-- **David Pätzold:** Ausgezeichnete Arbeit im Frontend-Bereich. Könnte seine Dokumentationsfähigkeiten verbessern.
-- **Sercan Polat:** Sehr stark in der Backend-Entwicklung. Muss noch an seinen Frontend-Fähigkeiten arbeiten.
+**Ekber Pala:** Großartig in der Koordination des Teams und im Projektmanagement. Sollte technische Fähigkeiten weiterentwickeln.
+**David Pätzold:** Ausgezeichnete Arbeit im Frontend-Bereich. Könnte seine Dokumentationsfähigkeiten verbessern.
+**Sercan Polat:** Sehr stark in der Backend-Entwicklung. Muss noch an seinen Frontend-Fähigkeiten arbeiten.
 
 ## 4. Beiträge
 
 ### Ekber Pala
-- **Projektmanagement:** Überwachung der Projektfortschritte und Einhaltung der Zeitpläne.
-- **Dokumentation:** Verantwortlich für die Erstellung der Projektdokumentation und Berichterstattung.
+**Projektmanagement:** Überwachung der Projektfortschritte und Einhaltung der Zeitpläne.
+**Dokumentation:** Verantwortlich für die Erstellung der Projektdokumentation und Berichterstattung.
 
 ### David Pätzold
-- **Frontend-Entwicklung:** Design und Implementierung der Benutzeroberfläche.
-- **User Experience:** Entwicklung von Benutzerführung und Interaktivität.
+**Frontend-Entwicklung:** Design und Implementierung der Benutzeroberfläche.
+**User Experience:** Entwicklung von Benutzerführung und Interaktivität.
 
 ### Sercan Polat
-- **Backend-Entwicklung:** Hauptverantwortlich für die Entwicklung des Server-Backends und die Datenbankintegration.
-- **Testing:** Durchführung von Integrationstests.
+**Backend-Entwicklung:** Hauptverantwortlich für die Entwicklung des Server-Backends und die Datenbankintegration.
+**Testing:** Durchführung von Integrationstests.
+
 
 
 ## Designentscheidungen ???????????
