@@ -1,7 +1,12 @@
-GamingInsight
-[Project description]
+# Projekt GamingInsight
+
+GamingInsight ist eine wegweisende Plattform, die speziell entwickelt wurde, um Transparenz und Einblicke in die Arbeitsbedingungen der schnell wachsenden Gaming-Industrie zu bieten. Ziel ist es, eine vertrauenswürdige und umfassende Ressource zu schaffen, die Fachkräften hilft, fundierte Entscheidungen über ihre Karrierewege zu treffen.
+Mission
+
+Unsere Mission ist es, die Arbeitskultur in der Gaming-Branche durch erhöhte Transparenz und Zugänglichkeit von Informationen zu verbessern. GamingInsight ermöglicht es Benutzern, Erfahrungen auszutauschen und wertvolle Einsichten über potenzielle Arbeitgeber zu gewinnen, wodurch ein besser informierter und engagierter Arbeitsmarkt entsteht.
 
 Team member
+
 David Pätzold
 About
 Some info about Jane
@@ -15,10 +20,10 @@ Matr.-Nr.
 77211974478
 
 Ekber Pala
-About
-Some info about Joe
 Matr.-Nr.
 77211964967
+
+Präsentationslink: ?
 
 Eidesstattliche Erklärung
 Die oben genannten Teammitglieder erklären an Eides statt:
@@ -26,18 +31,18 @@ Die oben genannten Teammitglieder erklären an Eides statt:
 Diese Arbeit wurde selbständig und eigenhändig erstellt. Die den benutzten Quellen wörtlich oder inhaltlich entommenen Stellen sind als solche kenntlich gemacht. Diese Erklärung gilt für jeglichen Inhalt und umfasst sowohl diese Dokumentation als auch den als Projektergebnis eingereichten Quellcode.
 
 
-Projektdokumentation für GamingInsight
+# Projektdokumentation für GamingInsight
+
 Inhaltsverzeichnis
-1.	Beschreibung des Projektansatzes
-2.	Wertversprechen
-3.	Problemidentifizierung und Lösung
-4.	Zielgruppe
-5.	Beschreibung der Kernfunktionalitäten
-6.	Technologiestack
-7.	Designentscheidungen
-8.	Ziele bis zur Einreichung & Backlog
-9.	Evaluation
-10.	Projektabschluss Ausführung der Webseite
+[Beschreibung des Projektansatzes]
+[Value Proposition]
+[Beschreibung der Kernfunktionalitäten]
+[Technologiestack]
+[Designentscheidungen]
+[User Evaluation]
+[Team Evaluation]
+
+[10.	Projektabschluss Ausführung der Webseit]
 
 # 3. ER Modell Data Model: (Hinweis nicht zu ende gedacht)
 
@@ -74,15 +79,16 @@ Umsetzungsprozess:
 
 # Value Proposition
 
-Das Problem
-Unsere Lösung
-Zielbenutzer
-Kundenreise
+## Das Problem
+## Unsere Lösung
+## Zielbenutzer
+## Kundenreise
 
-Das Problem
-GamingInsight adressiert das Problem der Intransparenz in der Gaming-Industrie. Viele Fachkräfte der Branche haben Schwierigkeiten, verlässliche Informationen über die Arbeitskultur und die internen Bedingungen von Arbeitgebern zu finden. Diese Informationslücke kann zu uninformierten Entscheidungen führen, die die Karriere und das persönliche Wohlbefinden negativ beeinflussen.
+### Das Problem
+GamingInsight adressiert das Problem der Intransparenz in der Gaming-Industrie. 
+Viele Fachkräfte der Branche haben Schwierigkeiten, verlässliche Informationen über die Arbeitskultur und die internen Bedingungen von Arbeitgebern zu finden. Diese Informationslücke kann zu uninformierten Entscheidungen führen, die die Karriere und das persönliche Wohlbefinden negativ beeinflussen.
 
-Unsere Lösung
+### Unsere Lösung
 GamingInsight bietet eine Plattform, die es Nutzern ermöglicht, detaillierte Bewertungen und Feedback über Unternehmen in der Gaming-Branche zu hinterlassen und einzusehen. Unsere Lösung zielt darauf ab, die Arbeitsbedingungen transparent zu machen, indem wir Bewertungen zu verschiedenen Aspekten wie Work-Life-Balance, Managementstil und Teamkultur sammeln. Wir stellen sicher, dass unsere Plattform realistische und erreichbare Ergebnisse liefert, die direkt auf Nutzerfeedback basieren.
 
 # Target User
@@ -122,16 +128,8 @@ Bewertung abgeben: Nutzer können ihre Erfahrungen teilen, indem sie eine Bewert
 Interaktion mit der Community(Backlog): Nutzer können Fragen stellen oder Diskussionen in einem speziell dafür vorgesehenen Forum starten.
 Jobangebote einsehen(Backlog): Nutzer können aktuelle Stellenausschreibungen einsehen, die von Unternehmen auf unserer Plattform gepostet werden.
 
-# Benutzerevaluation für GamingInsight
+# User Evaluation
 
-1. [Registrierungsprozess und Abbruchrate](#1-registrierungsprozess-und-abbruchrate)
-    - [Meta](#meta)
-    - [Ziel](#ziel)
-    - [Methode](#methode)
-    - [Ergebnisse](#ergebnisse)
-    - [Implikationen](#implikationen)
-
----
 
 ## 1. Registrierungsprozess und Abbruchrate
 
@@ -155,16 +153,10 @@ Die Ergebnisse der Evaluation zeigten, dass Benutzer im Durchschnitt 3 Minuten b
 ### Implikationen
 
 Aus dieser Evaluation haben wir gelernt, dass der Registrierungsprozess vereinfacht werden muss, um die Abbruchrate zu verringern. Eine geplante Änderung ist, die Abfrage des Geburtsdatums zu entfernen, da dies als eine Hürde empfunden wurde. Wir planen, diese Evaluation nach Durchführung der Änderungen erneut zu wiederholen, um den Einfluss der Verbesserungen auf die Registrierungsdauer und die Abbruchrate zu messen.
+
+
 # Team-Evaluation für GamingInsight
 
-## Inhaltsverzeichnis
-
-1. [Ziele](#1-ziele)
-2. [Verbesserungen](#2-verbesserungen)
-3. [Peer Review](#3-peer-review)
-4. [Beiträge](#4-beiträge)
-
----
 
 ## 1. Ziele
 
@@ -207,7 +199,7 @@ Jedes Teammitglied wurde regelmäßig von den anderen Teammitgliedern bewertet, 
 - **Testing:** Durchführung von Integrationstests.
 
 
-## Designentscheidungen
+## Designentscheidungen ???????????
 
 ** 01 Wie gestalten wir die Login- und Registrierungsfunktion?
 
