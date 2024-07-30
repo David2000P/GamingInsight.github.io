@@ -33,7 +33,8 @@ Diese Arbeit wurde selbständig und eigenhändig erstellt. Die den benutzten Que
 
 # Projektdokumentation für GamingInsight
 
-Inhaltsverzeichnis
+## Agenda
+
 [Beschreibung des Projektansatzes]
 [Value Proposition]
 [Beschreibung der Kernfunktionalitäten]
