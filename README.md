@@ -1,31 +1,29 @@
 # Projekt GamingInsight
 
-GamingInsight ist eine wegweisende Plattform, die speziell entwickelt wurde, um Transparenz und Einblicke in die Arbeitsbedingungen der schnell wachsenden Gaming-Industrie zu bieten. Ziel ist es, eine vertrauenswürdige und umfassende Ressource zu schaffen, die Fachkräften hilft, fundierte Entscheidungen über ihre Karrierewege zu treffen.
-Mission
+GamingInsight ist eine wegweisende Plattform, die speziell entwickelt wurde, um Transparenz und Einblicke in die Arbeitsbedingungen der schnell wachsenden Gaming-Industrie zu bieten. Ziel ist es, eine vertrauenswürdige und umfassende Arbeitgeberbewertungsplattform zu schaffen, die Fachkräften hilft, wichtige Entscheidungen über ihre Karrierewege zu treffen.
+
+# Mission
 
 Unsere Mission ist es, die Arbeitskultur in der Gaming-Branche durch erhöhte Transparenz und Zugänglichkeit von Informationen zu verbessern. GamingInsight ermöglicht es Benutzern, Erfahrungen auszutauschen und wertvolle Einsichten über potenzielle Arbeitgeber zu gewinnen, wodurch ein besser informierter und engagierter Arbeitsmarkt entsteht.
 
-Team member
+# Team member
 
-David Pätzold
-About
-Some info about Jane
+**David Pätzold**
+David hat bereits Kenntnisse im Front-End und bringt solide Erfahrung Rundum das Thema User Experience
 Matr.-Nr.
 77211974782
 
-Sercan Sinanovic Polat
-About
-Some info about Jane
-Matr.-Nr.
-77211974478
+**Sercan Sinanovic Polat**
+Sercan ist unser Back-End Exoert. Durch sehr gute Kenntnisse im Thema Datenbanken und die Integration dieser.
+Matr.-Nr.: 77211974478
 
-Ekber Pala
-Matr.-Nr.
-77211964967
+**Ekber Pala**
+Ekber hat langjährige Erfahrung in Projektarbeit mit wodurch wir ein sehr gutes Zeitmanagement und Projektkoordination hatten.
+Matr.-Nr.: 77211964967
 
-Präsentationslink: ?
+**Präsentationslink: ?**
 
-Eidesstattliche Erklärung
+# Eidesstattliche Erklärung
 Die oben genannten Teammitglieder erklären an Eides statt:
 
 Diese Arbeit wurde selbständig und eigenhändig erstellt. Die den benutzten Quellen wörtlich oder inhaltlich entommenen Stellen sind als solche kenntlich gemacht. Diese Erklärung gilt für jeglichen Inhalt und umfasst sowohl diese Dokumentation als auch den als Projektergebnis eingereichten Quellcode.
@@ -42,36 +40,24 @@ Diese Arbeit wurde selbständig und eigenhändig erstellt. Die den benutzten Que
 [Designentscheidungen]
 [User Evaluation]
 [Team Evaluation]
+[Projektabschluss Ausführung der Webseit]
 
-[10.	Projektabschluss Ausführung der Webseit]
-
-# 3. ER Modell Data Model: (Hinweis nicht zu ende gedacht)
-
-![Entity-Relationship-Diagramm - Rahmen 1](https://github.com/ektotheo/Project-GamingInsight/assets/138446648/2e0c2cae-042c-4d55-bfe8-062b37e42a1e)
-
-
-# 4. UI Design:
-
-
-![Ui-5](https://github.com/ektotheo/Project-GamingInsight/assets/138446648/4f9ae9a8-7491-4846-a0a2-0ea7b4b379c6)
-![Ui-4](https://github.com/ektotheo/Project-GamingInsight/assets/138446648/3ca71482-892b-4720-9bb4-0fa727e7f5c5)
-![Ui-3](https://github.com/ektotheo/Project-GamingInsight/assets/138446648/70c049f0-d22f-479d-8207-b4f1d2204062)
-![Ui-2](https://github.com/ektotheo/Project-GamingInsight/assets/138446648/8050df81-d350-47f6-8fea-7958df2951e1)
-![Ui-1](https://github.com/ektotheo/Project-GamingInsight/assets/138446648/19899f63-9b5f-4923-85b3-e1f5e682a800)
-
-1. Beschreibung des Projektansatzes
+**Beschreibung des Projektansatzes**
 In den ersten Wochen des Kurses haben wir, das Team bestehend aus Ekber Pala, David Pätzold und Sercan Polat, verschiedene Projektideen gesammelt und diskutiert. Schließlich entschieden wir uns für GamingInsight, eine Plattform, die detaillierte und vertrauenswürdige Einblicke in Unternehmen der Gaming-Industrie bieten soll. Unser Ziel ist es, Fachkräften fundierte Karriereentscheidungen zu ermöglichen, indem wir eine Lösung für das mangelnde Vertrauen und die fehlende Transparenz in der Gaming-Branche entwickeln.
-Projektziele:
+
+**Projektziele:**
 •	Transparenz schaffen: Eine Plattform, die detaillierte und ehrliche Einblicke in die Arbeitsbedingungen bei Unternehmen in der Gaming-Industrie bietet.
 •	Arbeitsbedingungen verbessern: Durch das Sammeln und Analysieren von Feedback können Unternehmen ihre Arbeitskultur und -bedingungen verbessern.
 •	Arbeitsplatzsuche erleichtern: Fachkräften soll die Suche nach einem passenden Arbeitgeber erleichtert werden.
-Projektmethodik:
+
+**Projektmethodik:**
 •	Brainstorming: Verschiedene Ideen wurden gesammelt und diskutiert.
 •	Planung: Eine detaillierte Projektplanung wurde erstellt, um sicherzustellen, dass alle Aspekte abgedeckt werden.
 •	Umsetzung: Die Arbeit wurde gleichmäßig auf die Teammitglieder verteilt und gemeinsam in der Bibliothek oder über Videokonferenzen erledigt.
 •	Testing: Regelmäßige Tests wurden durchgeführt, um sicherzustellen, dass die Plattform wie beabsichtigt funktioniert.
 •	Feedback: Feedback von Kommilitonen wurde eingeholt, um die Benutzerfreundlichkeit und Funktionalität der Plattform zu verbessern.
-Umsetzungsprozess:
+
+**Umsetzungsprozess:**
 •	In den ersten Wochen haben wir die Projektidee entwickelt und ein Konzept erstellt.
 •	Die Aufgaben wurden fair aufgeteilt: Ekber war für die Homepage und Navigation verantwortlich, David für die Upload-Seite und Sercan für die Login/Registrierungsseite.
 •	Wir haben regelmäßige Meetings abgehalten, um den Fortschritt zu überprüfen und sicherzustellen, dass alle auf dem gleichen Stand sind.
@@ -102,24 +88,6 @@ Interessen: Auf der Suche nach Karrierefortschritt und besseren Arbeitsbedingung
 Technische Kenntnisse: Hohe Kompetenz in Spieleentwicklungstools und -software
 Geografische Lage: Fokussiert auf Tech-Hubs in Europa und Nordamerika
 Bedürfnisse: Detaillierte Informationen über Unternehmenskultur, Mitarbeiterzufriedenheit und Wachstumschancen in verschiedenen Gaming-Unternehmen
-
-**Sekundäre Zielgruppe**
-Projektmanager in Gaming-Startups:
-Alter: 30 bis 45 Jahre
-Berufserfahrung: Über 3 Jahre in leitenden Positionen
-Interessen: Verbesserung der Projektmanagement-Praktiken und Teamdynamik
-Technische Kenntnisse: Vertraut mit agilen Managementmethoden und Projektmanagementsoftware
-Geografische Lage: Hauptsächlich in städtischen Gebieten mit einer hohen Dichte an Startups
-Bedürfnisse: Verständnis für Managementstile und -strategien, die speziell auf die Anforderungen der Gaming-Industrie zugeschnitten sind
-
-**Nischenzielgruppe**
-Unabhängige Spieleentwickler:
-Alter: 20 bis 35 Jahre
-Berufserfahrung: 1 bis 5 Jahre, oft als Freelancer oder in kleinen Teams
-Interessen: Auf der Suche nach Möglichkeiten zur Netzwerkbildung und persönlichem Wachstum
-Technische Kenntnisse: Grundlegende bis mittlere Kenntnisse in der Spieleentwicklung
-Geografische Lage: Global verteilt, mit einem Schwerpunkt auf Community-orientierten Städten
-Bedürfnisse: Informationen über die Arbeitsbedingungen und Kultur in größeren Studios sowie Ratschläge zur Verbesserung ihrer eigenen Arbeitsumgebungen
 
 # Customer Journey
 Die Kundenreise auf GamingInsight beginnt mit der Registrierung und dem Einloggen in die App.
