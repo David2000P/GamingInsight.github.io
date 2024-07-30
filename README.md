@@ -19,6 +19,7 @@ About
 Some info about Joe
 Matr.-Nr.
 77211964967
+
 Eidesstattliche Erklärung
 Die oben genannten Teammitglieder erklären an Eides statt:
 
@@ -70,11 +71,6 @@ Umsetzungsprozess:
 •	Wir haben regelmäßige Meetings abgehalten, um den Fortschritt zu überprüfen und sicherzustellen, dass alle auf dem gleichen Stand sind.
 •	Alle Teammitglieder haben gemeinsam an der Textbox- und Download-Funktionalität gearbeitet.
 
-# ? 3. Wertversprechen
-GamingInsight bietet eine spezialisierte Plattform für die Gaming-Industrie mit den folgenden Hauptvorteilen:
-•	Transparenz schaffen: Unsere Plattform ermöglicht es Benutzern, ehrliche und detaillierte Bewertungen über ihre Arbeitgeber abzugeben. Dies hilft anderen Fachkräften, fundierte Entscheidungen über potenzielle Arbeitgeber zu treffen und erhöht die Transparenz in der Branche.
-•	Arbeitsbedingungen verbessern: Durch das Sammeln und Analysieren von Feedback können Unternehmen ihre Arbeitskultur und -bedingungen verbessern. Dies fördert ein besseres Arbeitsumfeld und hilft den Unternehmen, talentierte Fachkräfte zu halten.
-•	Arbeitsplatzsuche erleichtern: Unsere Plattform bietet detaillierte Einblicke in verschiedene Unternehmen, einschließlich Informationen über Arbeitsklima, Work-Life-Balance und technische Ausstattung. Dies erleichtert Fachkräften die Suche nach einem passenden Arbeitgeber und fördert fundierte Karriereentscheidungen.
 
 # Value Proposition
 
@@ -83,22 +79,48 @@ Unsere Lösung
 Zielbenutzer
 Kundenreise
 
-1. Das Problem
+Das Problem
 GamingInsight adressiert das Problem der Intransparenz in der Gaming-Industrie. Viele Fachkräfte der Branche haben Schwierigkeiten, verlässliche Informationen über die Arbeitskultur und die internen Bedingungen von Arbeitgebern zu finden. Diese Informationslücke kann zu uninformierten Entscheidungen führen, die die Karriere und das persönliche Wohlbefinden negativ beeinflussen.
-2. Unsere Lösung
+
+Unsere Lösung
 GamingInsight bietet eine Plattform, die es Nutzern ermöglicht, detaillierte Bewertungen und Feedback über Unternehmen in der Gaming-Branche zu hinterlassen und einzusehen. Unsere Lösung zielt darauf ab, die Arbeitsbedingungen transparent zu machen, indem wir Bewertungen zu verschiedenen Aspekten wie Work-Life-Balance, Managementstil und Teamkultur sammeln. Wir stellen sicher, dass unsere Plattform realistische und erreichbare Ergebnisse liefert, die direkt auf Nutzerfeedback basieren.
-3. Zielbenutzer
-Unsere Zielbenutzer sind Fachkräfte in der Gaming-Industrie, die auf der Suche nach ehrlichen und umfassenden Informationen über potenzielle Arbeitgeber sind. Wir fokussieren uns auf:
-Entwickler: Interessiert an technischen Herausforderungen und Unternehmenskultur.
-Designer: Sucht kreative Freiräume und Teaminteraktion.
-Projektmanager: Benötigt Einblicke in Managementstile und Projektflüsse.
-Berufseinsteiger: Sucht den idealen Einstiegspunkt in die Industrie.
-4. Kundenreise
-Die Kundenreise auf GamingInsight beginnt mit der Registrierung und dem Einloggen in die App. Nach dem Login kann der Nutzer:
+
+# Target User
+
+**Hauptzielgruppe**
+Berufserfahrene Game Designer:
+Alter: 25 bis 40 Jahre
+Berufserfahrung: Mindestens 5 Jahre in der Gaming-Industrie
+Interessen: Auf der Suche nach Karrierefortschritt und besseren Arbeitsbedingungen
+Technische Kenntnisse: Hohe Kompetenz in Spieleentwicklungstools und -software
+Geografische Lage: Fokussiert auf Tech-Hubs in Europa und Nordamerika
+Bedürfnisse: Detaillierte Informationen über Unternehmenskultur, Mitarbeiterzufriedenheit und Wachstumschancen in verschiedenen Gaming-Unternehmen
+
+**Sekundäre Zielgruppe**
+Projektmanager in Gaming-Startups:
+Alter: 30 bis 45 Jahre
+Berufserfahrung: Über 3 Jahre in leitenden Positionen
+Interessen: Verbesserung der Projektmanagement-Praktiken und Teamdynamik
+Technische Kenntnisse: Vertraut mit agilen Managementmethoden und Projektmanagementsoftware
+Geografische Lage: Hauptsächlich in städtischen Gebieten mit einer hohen Dichte an Startups
+Bedürfnisse: Verständnis für Managementstile und -strategien, die speziell auf die Anforderungen der Gaming-Industrie zugeschnitten sind
+
+**Nischenzielgruppe**
+Unabhängige Spieleentwickler:
+Alter: 20 bis 35 Jahre
+Berufserfahrung: 1 bis 5 Jahre, oft als Freelancer oder in kleinen Teams
+Interessen: Auf der Suche nach Möglichkeiten zur Netzwerkbildung und persönlichem Wachstum
+Technische Kenntnisse: Grundlegende bis mittlere Kenntnisse in der Spieleentwicklung
+Geografische Lage: Global verteilt, mit einem Schwerpunkt auf Community-orientierten Städten
+Bedürfnisse: Informationen über die Arbeitsbedingungen und Kultur in größeren Studios sowie Ratschläge zur Verbesserung ihrer eigenen Arbeitsumgebungen
+
+# Customer Journey
+Die Kundenreise auf GamingInsight beginnt mit der Registrierung und dem Einloggen in die App.
+Nach dem Login kann der Nutzer:
 Unternehmensbewertungen durchsuchen: Benutzer können nach spezifischen Unternehmen suchen und deren Bewertungen lesen.
 Bewertung abgeben: Nutzer können ihre Erfahrungen teilen, indem sie eine Bewertung über ihren aktuellen oder ehemaligen Arbeitgeber schreiben.
-Interaktion mit der Community: Nutzer können Fragen stellen oder Diskussionen in einem speziell dafür vorgesehenen Forum starten.
-Jobangebote einsehen: Nutzer können aktuelle Stellenausschreibungen einsehen, die von Unternehmen auf unserer Plattform gepostet werden.
+Interaktion mit der Community(Backlog): Nutzer können Fragen stellen oder Diskussionen in einem speziell dafür vorgesehenen Forum starten.
+Jobangebote einsehen(Backlog): Nutzer können aktuelle Stellenausschreibungen einsehen, die von Unternehmen auf unserer Plattform gepostet werden.
 
 # Benutzerevaluation für GamingInsight
 
