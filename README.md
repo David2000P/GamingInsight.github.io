@@ -35,14 +35,15 @@ Diese Arbeit wurde selbständig und eigenhändig erstellt. Die den benutzten Que
 
 ## Agenda
 
-[Beschreibung des Projektansatzes]
-[Value Proposition]
-[Beschreibung der Kernfunktionalitäten]
-[Technologiestack]
-[Designentscheidungen]
-[User Evaluation]
-[Team Evaluation]
-[Projektabschluss Ausführung der Webseit]
+- [Beschreibung des Projektansatzes](/beschreibung-des-projektansatzes)
+- [Value Proposition](/value-proposition)
+- [Beschreibung der Kernfunktionalitäten](/beschreibung-der-kernfunktionalitaeten)
+- [Technologiestack](/technologiestack)
+- [Designentscheidungen](/designentscheidungen)
+- [User Evaluation](/user-evaluation)
+- [Team Evaluation](/team-evaluation)
+- [Projektabschluss und Ausführung der Webseite](/projektabschluss-ausfuehrung-der-webseite)
+
 
 **Beschreibung des Projektansatzes**
 In den ersten Wochen des Kurses haben wir, das Team bestehend aus Ekber Pala, David Pätzold und Sercan Polat, verschiedene Projektideen gesammelt und diskutiert. Schließlich entschieden wir uns für GamingInsight, eine Plattform, die detaillierte und vertrauenswürdige Einblicke in Unternehmen der Gaming-Industrie bieten soll. Unser Ziel ist es, Fachkräften fundierte Karriereentscheidungen zu ermöglichen, indem wir eine Lösung für das mangelnde Vertrauen und die fehlende Transparenz in der Gaming-Branche entwickeln.
