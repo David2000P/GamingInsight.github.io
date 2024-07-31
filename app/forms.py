@@ -52,3 +52,4 @@ class CompanyEditForm(FlaskForm):
     company_description = TextAreaField('Company Description', validators=[DataRequired()])
     company_website = StringField('Company Website', validators=[DataRequired(), URL()])
     submit = SubmitField('Update')
+ 
