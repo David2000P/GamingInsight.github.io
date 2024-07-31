@@ -24,9 +24,8 @@ Diese Arbeit wurde selbständig und eigenhändig erstellt. Die den benutzten Que
 ## Agenda
 
 - [App Idee](/App Idee)
-- [Beschreibung des Projektansatzes](/beschreibung-des-projektansatzes)
 - [Value Proposition](/value-proposition)
-- [Beschreibung der Kernfunktionalitäten](/beschreibung-der-kernfunktionalitaeten)
+- [Beschreibung des Projektansatzes](/beschreibung-des-projektansatzes)
 - [Technologiestack](/technologiestack)
 - [Designentscheidungen](/designentscheidungen)
 - [User Evaluation](/user-evaluation)
@@ -42,28 +41,6 @@ GamingInsight ist eine Web-Plattform, die sich darauf konzentriert, transparente
 Unsere Mission ist es, die Arbeitskultur in der Gaming-Branche durch erhöhte Transparenz und Zugänglichkeit von Informationen zu verbessern. GamingInsight ermöglicht es Benutzern, Erfahrungen auszutauschen und wertvolle Einsichten über potenzielle Arbeitgeber zu gewinnen, wodurch ein besser informierter und engagierter Arbeitsmarkt entsteht.
 
 
-**Beschreibung des Projektansatzes**
-In den ersten Wochen des Kurses haben wir, das Team bestehend aus Ekber Pala, David Pätzold und Sercan Polat, verschiedene Projektideen gesammelt und diskutiert. Schließlich entschieden wir uns für GamingInsight, eine Plattform, die detaillierte und vertrauenswürdige Einblicke in Unternehmen der Gaming-Industrie bieten soll. Unser Ziel ist es, Fachkräften fundierte Karriereentscheidungen zu ermöglichen, indem wir eine Lösung für das mangelnde Vertrauen und die fehlende Transparenz in der Gaming-Branche entwickeln.
-
-**Projektziele:**
-Transparenz schaffen: Eine Plattform, die detaillierte und ehrliche Einblicke in die Arbeitsbedingungen bei Unternehmen in der Gaming-Industrie bietet.
-Arbeitsbedingungen verbessern: Durch das Sammeln und Analysieren von Feedback können Unternehmen ihre Arbeitskultur und -bedingungen verbessern.
-Arbeitsplatzsuche erleichtern: Fachkräften soll die Suche nach einem passenden Arbeitgeber erleichtert werden.
-
-**Projektmethodik:**
-Brainstorming: Verschiedene Ideen wurden gesammelt und diskutiert.
-Planung: Eine detaillierte Projektplanung wurde erstellt, um sicherzustellen, dass alle Aspekte abgedeckt werden.
-Umsetzung: Die Arbeit wurde gleichmäßig auf die Teammitglieder verteilt und gemeinsam in der Bibliothek oder über Videokonferenzen erledigt.
-Testing: Regelmäßige Tests wurden durchgeführt, um sicherzustellen, dass die Plattform wie beabsichtigt funktioniert.
-Feedback: Feedback von Kommilitonen wurde eingeholt, um die Benutzerfreundlichkeit und Funktionalität der Plattform zu verbessern.
-
-**Umsetzungsprozess:**
-In den ersten Wochen haben wir die Projektidee entwickelt und ein Konzept erstellt.
-Die Aufgaben wurden fair aufgeteilt: Ekber war für die Homepage und Navigation verantwortlich, David für die Upload-Seite und Sercan für die Login/Registrierungsseite.
-Wir haben regelmäßige Meetings abgehalten, um den Fortschritt zu überprüfen und sicherzustellen, dass alle auf dem gleichen Stand sind.
-Alle Teammitglieder haben gemeinsam an der Textbox- und Download-Funktionalität gearbeitet.
-
-
 # Value Proposition
 
 ## Das Problem
@@ -75,23 +52,63 @@ GamingInsight bietet eine Plattform, die es Nutzern ermöglicht, detaillierte Be
 
 ## Target User
 
-**Hauptzielgruppe**
-Persona
-Berufserfahrene Game Designer:
-Alter: 25 bis 40 Jahre
-Berufserfahrung: Mindestens 5 Jahre in der Gaming-Industrie
-Interessen: Auf der Suche nach Karrierefortschritt und besseren Arbeitsbedingungen
-Technische Kenntnisse: Hohe Kompetenz in Spieleentwicklungstools und -software
-Geografische Lage: Fokussiert auf Tech-Hubs in Europa und Nordamerika
-Bedürfnisse: Detaillierte Informationen über Unternehmenskultur, Mitarbeiterzufriedenheit und Wachstumschancen in verschiedenen Gaming-Unternehmen
+Nach intensivem Austausch mit Ihnen haben wir die Zielgruppe für unser Projekt "GamingInsight" noch spezifischer definiert, um eine präzisere Ansprache und genauere Abstimmung der Projektinhalte auf die Bedürfnisse unserer Nutzer zu gewährleisten. Dieser Prozess des "Hard Scopings" ermöglichte es uns, tiefergehende und maßgeschneiderte Lösungen für die identifizierten Herausforderungen und Anforderungen innerhalb der Gaming-Branche zu entwickeln. Um auf die Zielgruppe genauer einzugehen, haben wir 
 
-## Customer Journey ( Screenflow ???) 
+### Schritt-für-Schritt-Entwicklung der Persona: Lukas Schmidt
+
+### Beruflicher Kontext
+Lukas ist ein 32-jähriger Lead Game Designer, der in München arbeitet und über acht Jahre Erfahrung in der Gaming-Industrie verfügt. Sein Arbeitsalltag ist geprägt von kreativen Herausforderungen und technischen Anforderungen, die ein tiefes Verständnis für Spielmechaniken und Benutzerengagement erfordern.
+
+### Herausforderungen im Berufsalltag
+Wir haben erkannt, dass Lukas täglich mit dem Druck zu innovieren und gleichzeitig effiziente, realisierbare Lösungen zu entwickeln, konfrontiert ist. Er muss oft schwierige Entscheidungen treffen, die das Gleichgewicht zwischen künstlerischer Vision und praktischer Umsetzbarkeit wahren.
+
+### Persönliche und berufliche Ziele
+Lukas strebt danach, in seiner Karriere weiter aufzusteigen und eines Tages als Creative Director die kreative Leitung über größere Projekte zu übernehmen. Langfristig träumt er davon, sein eigenes Gaming-Studio zu gründen, um seine Visionen ohne Kompromisse verwirklichen zu können.
+
+### Bedürfnisse nach spezifischen Informationen
+Um seine Ziele zu erreichen, sucht Lukas nach verlässlichen Informationen über Arbeitsbedingungen und Karrierechancen in verschiedenen Studios. Er legt großen Wert auf authentische Einblicke in die Unternehmenskultur und die Entwicklungsmöglichkeiten, die ihm angeboten werden könnten. Außerdem war es Ihm wichtig, Informationen über Projektarbeit zu erhalten. Gibt es genügend Projekte? Wie ist es mit Crunchzeiten? Welches IT-Equipment steht zur Verfügung?
+
+### Umsetzung dieser Erkenntnisse in GamingInsight
+Basierend auf die Bedürfnisse von Lukas haben wir GamingInsight so gestaltet, dass es spezifische Informationen über die Gaming-Branche bereitstellt. Unsere Plattform bietet tiefgehende Analysen von Unternehmenskulturen, detaillierte Bewertungen von Arbeitgebern und schlussendlich soll sich eine Community entwickeln, die aktiv Erfahrungen und Ratschläge teilt. Diese Features sind darauf ausgerichtet, Gaming Designern wie Lukas dabei zu helfen, wichtige Entscheidungen über ihre Karrierewege zu treffen.
+
+### Abschluss
+Die Entwicklung dieser Persona war ein umfangreicher Prozess, der tiefgehende Recherchen und sorgfältige Analysen umfasste. Wir haben uns bemüht, die Herausforderungen und Bedürfnisse von Gaming Designern so realistisch und präzise wie möglich zu verstehen und unsere Plattform entsprechend anzupassen. Dies spiegelt sich in den maßgeschneiderten Lösungen und spezialisierten Informationen wider, die GamingInsight bietet, um die Karriere und das Wohlbefinden von Fachkräften in der Gaming-Branche aktiv zu unterstützen.
+
+## Customer Journey ( Screenflow ???)
+
 Die Kundenreise auf GamingInsight beginnt mit der Registrierung und dem Einloggen in die App.
 Nach dem Login kann der Nutzer:
-Unternehmensbewertungen durchsuchen: Benutzer können nach spezifischen Unternehmen suchen und deren Bewertungen lesen.
-Bewertung abgeben: Nutzer können ihre Erfahrungen teilen, indem sie eine Bewertung über ihren aktuellen oder ehemaligen Arbeitgeber schreiben.
-Interaktion mit der Community(Backlog): Nutzer können Fragen stellen oder Diskussionen in einem speziell dafür vorgesehenen Forum starten.
-Jobangebote einsehen(Backlog): Nutzer können aktuelle Stellenausschreibungen einsehen, die von Unternehmen auf unserer Plattform gepostet werden.
+Unternehmensbewertungen durchsuchen: 
+Benutzer können nach spezifischen Unternehmen suchen und deren Bewertungen lesen.
+Bewertung abgeben: 
+Nutzer können ihre Erfahrungen teilen, indem sie eine Bewertung über ihren aktuellen oder ehemaligen Arbeitgeber schreiben.
+Interaktion mit der Community(Backlog): 
+Nutzer können Fragen stellen oder Diskussionen in einem speziell dafür vorgesehenen Forum starten.
+Jobangebote einsehen(Backlog):
+Nutzer können aktuelle Stellenausschreibungen einsehen, die von Unternehmen auf unserer Plattform gepostet werden.
+
+# Beschreibung des Projektansatzes
+
+In den ersten Wochen des Kurses haben wir, das Team bestehend aus Ekber Pala, David Pätzold und Sercan Polat, verschiedene Projektideen gesammelt und diskutiert. Schließlich entschieden wir uns für GamingInsight, eine Plattform, die detaillierte und vertrauenswürdige Einblicke in Unternehmen der Gaming-Industrie bieten soll. Unser Ziel ist es, Fachkräften fundierte Karriereentscheidungen zu ermöglichen, indem wir eine Lösung für das mangelnde Vertrauen und die fehlende Transparenz in der Gaming-Branche entwickeln.
+
+## Projektziele:
+Transparenz schaffen: Eine Plattform, die detaillierte und ehrliche Einblicke in die Arbeitsbedingungen bei Unternehmen in der Gaming-Industrie bietet.
+Arbeitsbedingungen verbessern: Durch das Sammeln und Analysieren von Feedback können Unternehmen ihre Arbeitskultur und -bedingungen verbessern.
+Arbeitsplatzsuche erleichtern: Fachkräften soll die Suche nach einem passenden Arbeitgeber erleichtert werden.
+
+## Projektmethodik:
+Brainstorming: Verschiedene Ideen wurden gesammelt und diskutiert.
+Planung: Eine detaillierte Projektplanung wurde erstellt, um sicherzustellen, dass alle Aspekte abgedeckt werden.
+Umsetzung: Die Arbeit wurde gleichmäßig auf die Teammitglieder verteilt und gemeinsam in der Bibliothek sowie über Plattformen wie Discord und Whatsapp erledigt.
+Testing: Regelmäßige Tests wurden durchgeführt, um sicherzustellen, dass die Plattform wie beabsichtigt funktioniert.
+Feedback: Feedback von Kommilitonen wurde eingeholt, um die Benutzerfreundlichkeit und Funktionalität der Plattform zu verbessern.
+
+## Umsetzungsprozess: 
+In den ersten Wochen haben wir die Projektidee entwickelt und ein Konzept erstellt.
+Die Aufgaben wurden fair aufgeteilt: Ekber war für die Homepage und Navigation verantwortlich, David für die Upload-Seite und Sercan für die Login/Registrierungsseite.
+Wir haben regelmäßige Meetings abgehalten, um den Fortschritt zu überprüfen und sicherzustellen, dass alle auf dem gleichen Stand sind.
+Alle Teammitglieder haben gemeinsam an der Textbox- und Download-Funktionalität gearbeitet.
+
 
 # Technologiestack
 
@@ -128,52 +145,52 @@ Grund der Wahl: CSS ist essentiell für die Erstellung benutzerfreundlicher Inte
 Verwendung: HTML (Hypertext Markup Language) ist die Standard-Auszeichnungssprache für das Erstellen von Webseiten und Webanwendungen.
 Grund der Wahl: HTML bildet das Grundgerüst jeder Webseite und ist grundlegend für die Strukturierung und den Inhalt der Benutzeroberfläche.
 
-# Datenmodell ??????
+## Datenmodell
 
 ![image](https://github.com/user-attachments/assets/77486c0d-51e0-4311-a399-f1a8a113fcda)
+
+
+# Designentscheidungen ???????????
+
+** 01 Wie gestalten wir die Login- und Registrierungsfunktion?
+
+Problem: Es war unklar, wie die Login- und Registrierungsfunktionen umgesetzt werden sollen.
+
+Lösung: Jeder Benutzer muss bei der Registrierung einen eindeutigen Benutzernamen angeben. Außerdem muss er ein Passwort erstellen und dieses zur Bestätigung erneut eingeben. Eine E-Mail-Adresse wird ebenfalls benötigt, um das Passwort im Falle eines Vergessens zurücksetzen zu können. Wenn ein Feld falsch ausgefüllt wird, erhält der Benutzer eine Rückmeldung, wie beispielsweise "E-Mail-Feld leer". (Ist dies umsetzbar?)
+
+02 Wie gestalten wir die Unternehmen?
+
+Problem: Wir waren uns nicht sicher ob wir einfach die Unternehmen die es gibt einfach hinzufügen sollen in die Datenbank und ob ein Benutzer Unternehmen registrieren kann.
+
+Lösung: Es wurde beschlossen, bereits existierende Unternehmen selbst anzulegen. Eingeloggte Benutzer können neue Unternehmen registrieren, indem sie einen Namen festlegen und eine Beschreibung sowie den Link zur Unternehmenswebsite hinzufügen.
+
+03 Wie wird die Bewertung der Unternehmen geregelt?
+
+Problem: Die Handhabung der Unternehmensbewertungen ist unklar, insbesondere ob jeder Benutzer Bewertungen abgeben kann.
+
+Lösung: Alle Benutzer können Bewertungen einsehen, aber nur eingeloggte Benutzer können Bewertungen abgeben. Die Bewertungen sind in verschiedene Kategorien unterteilt.
 
 
 # User Evaluation
 
 
-## 1. Registrierungsprozess und Abbruchrate
-
-### Meta
-
-- **Status:** Abgeschlossen
-- **Aktualisiert:** 15-Jul-2023
-
-### Ziel
-
-Das Ziel dieser Evaluation war es, herauszufinden, wie lange Benutzer benötigen, um ein neues Konto zu registrieren, und welche Abbruchrate dabei auftritt. Die Forschungsfrage lautete: "Wie lange dauert die Registrierung eines neuen Kontos und wie hoch ist die Abbruchrate?"
-
-### Methode
-
-Um das Ziel dieser Evaluation zu erreichen, wurde ein A/B-Test mit verschiedenen Registrierungsformularen durchgeführt. Die Teilnehmer wurden zufällig ausgewählt und in zwei Gruppen eingeteilt, um die Dauer der Registrierung und das Benutzerverhalten zu messen. Technische Tools wie Google Analytics und interne Logging-Systeme wurden verwendet, um präzise Daten über die Dauer der Registrierung und die Abbruchraten zu erfassen.
-
-### Ergebnisse
-
-Die Ergebnisse der Evaluation zeigten, dass Benutzer im Durchschnitt 3 Minuten benötigten, um sich zu registrieren. Die Abbruchrate lag bei 70%. Die Gründe für den Abbruch, die von den Benutzern angegeben wurden, umfassten hauptsächlich die zu lange Dauer des Registrierungsprozesses und die als zu invasiv empfundenen Abfragen persönlicher Daten.
-
-### Implikationen
-
-Aus dieser Evaluation haben wir gelernt, dass der Registrierungsprozess vereinfacht werden muss, um die Abbruchrate zu verringern. Eine geplante Änderung ist, die Abfrage des Geburtsdatums zu entfernen, da dies als eine Hürde empfunden wurde. Wir planen, diese Evaluation nach Durchführung der Änderungen erneut zu wiederholen, um den Einfluss der Verbesserungen auf die Registrierungsdauer und die Abbruchrate zu messen.
+# ???
 
 
 # Team-Evaluation für GamingInsight
 
+# 1. Ziele
 
-## 1. Ziele
-
-### Projektziele
+## Projektziele
 Das Hauptziel des Projekts war die Entwicklung einer Plattform, die Transparenz und detaillierte Informationen über die Arbeitsbedingungen in der Gaming-Industrie bietet. Ziel war es, eine benutzerfreundliche, zuverlässige und informative Plattform zu schaffen, die es Benutzern ermöglicht, fundierte Entscheidungen zu treffen.
 
-### Teamziele
+## Teamziele
+
 **Effiziente Zusammenarbeit:** Das Team strebte an, eine offene Kommunikation und effiziente Arbeitsverteilung zu etablieren.
 **Technische Weiterentwicklung:** Jedes Teammitglied sollte seine technischen Fähigkeiten erweitern und neues Wissen in den Bereichen Webentwicklung und Datenbankmanagement erlangen.
 **Qualitätssicherung:** Hohe Qualität der Plattform durch regelmäßige Tests und Peer-Reviews sicherstellen.
 
-## 2. Verbesserungen
+# 2. Verbesserungen
 
 Während des Projekts wurden kontinuierlich Verbesserungen in verschiedenen Bereichen vorgenommen:
 
@@ -198,29 +215,8 @@ Jedes Teammitglied wurde regelmäßig von den anderen Teammitgliedern bewertet, 
 ### David Pätzold
 **Frontend-Entwicklung:** Design und Implementierung der Benutzeroberfläche.
 **User Experience:** Entwicklung von Benutzerführung und Interaktivität.
+**Dokumentation:** Verantwortlich für die Dokumentationsstruktur
 
 ### Sercan Polat
 **Backend-Entwicklung:** Hauptverantwortlich für die Entwicklung des Server-Backends und die Datenbankintegration.
 **Testing:** Durchführung von Integrationstests.
-
-
-
-## Designentscheidungen ???????????
-
-** 01 Wie gestalten wir die Login- und Registrierungsfunktion?
-
-Problem: Es war unklar, wie die Login- und Registrierungsfunktionen umgesetzt werden sollen.
-
-Lösung: Jeder Benutzer muss bei der Registrierung einen eindeutigen Benutzernamen angeben. Außerdem muss er ein Passwort erstellen und dieses zur Bestätigung erneut eingeben. Eine E-Mail-Adresse wird ebenfalls benötigt, um das Passwort im Falle eines Vergessens zurücksetzen zu können. Wenn ein Feld falsch ausgefüllt wird, erhält der Benutzer eine Rückmeldung, wie beispielsweise "E-Mail-Feld leer". (Ist dies umsetzbar?)
-
-02 Wie gestalten wir die Unternehmen?
-
-Problem: Wir waren uns nicht sicher ob wir einfach die Unternehmen die es gibt einfach hinzufügen sollen in die Datenbank und ob ein Benutzer Unternehmen registrieren kann.
-
-Lösung: Es wurde beschlossen, bereits existierende Unternehmen selbst anzulegen. Eingeloggte Benutzer können neue Unternehmen registrieren, indem sie einen Namen festlegen und eine Beschreibung sowie den Link zur Unternehmenswebsite hinzufügen.
-
-03 Wie wird die Bewertung der Unternehmen geregelt?
-
-Problem: Die Handhabung der Unternehmensbewertungen ist unklar, insbesondere ob jeder Benutzer Bewertungen abgeben kann.
-
-Lösung: Alle Benutzer können Bewertungen einsehen, aber nur eingeloggte Benutzer können Bewertungen abgeben. Die Bewertungen sind in verschiedene Kategorien unterteilt.
