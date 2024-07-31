@@ -8,10 +8,10 @@ callouts:
     color: purple
   info:
     title: ℹ️ Info
-    color: blue
+    color: green
   attention:
     title: ❕ Attention
-    color: yellow
+    color: red
   download:
     title: 💾 Download
     color: grey-dk
