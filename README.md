@@ -1,31 +1,17 @@
-theme: Jekyll Theme Primer
-
 # Projekt GamingInsight
-
-GamingInsight ist eine wegweisende Plattform, die speziell entwickelt wurde, um Transparenz und Einblicke in die Arbeitsbedingungen der schnell wachsenden Gaming-Industrie zu bieten. Ziel ist es, eine vertrauenswürdige und umfassende Arbeitgeberbewertungsplattform zu schaffen, die Fachkräften hilft, wichtige Entscheidungen über ihre Karrierewege zu treffen.
-
-# Mission
-
-Unsere Mission ist es, die Arbeitskultur in der Gaming-Branche durch erhöhte Transparenz und Zugänglichkeit von Informationen zu verbessern. GamingInsight ermöglicht es Benutzern, Erfahrungen auszutauschen und wertvolle Einsichten über potenzielle Arbeitgeber zu gewinnen, wodurch ein besser informierter und engagierter Arbeitsmarkt entsteht.
 
 # Team Member
 
 **David Pätzold**
-David hat bereits Kenntnisse im Front-End und bringt solide Erfahrung Rundum das Thema User Experience
-
 Matr.-Nr.: 77211974782
 
 **Sercan Sinanovic Polat**
-Sercan ist unser Back-End Exoert. Durch sehr gute Kenntnisse im Thema Datenbanken und die Integration dieser.
-
 Matr.-Nr.: 77211974478
 
 **Ekber Pala**
-Ekber hat langjährige Erfahrung in Projektarbeit mit wodurch wir ein sehr gutes Zeitmanagement und Projektkoordination hatten.
-
 Matr.-Nr.: 77211964967
 
-**Präsentationslink: ?**
+**Präsentationslink: **
 
 # Eidesstattliche Erklärung
 Die oben genannten Teammitglieder erklären an Eides statt:
@@ -37,6 +23,7 @@ Diese Arbeit wurde selbständig und eigenhändig erstellt. Die den benutzten Que
 
 ## Agenda
 
+- [App Idee](/App Idee)
 - [Beschreibung des Projektansatzes](/beschreibung-des-projektansatzes)
 - [Value Proposition](/value-proposition)
 - [Beschreibung der Kernfunktionalitäten](/beschreibung-der-kernfunktionalitaeten)
@@ -44,6 +31,15 @@ Diese Arbeit wurde selbständig und eigenhändig erstellt. Die den benutzten Que
 - [Designentscheidungen](/designentscheidungen)
 - [User Evaluation](/user-evaluation)
 - [Team Evaluation](/team-evaluation)
+
+# App Idee
+
+GamingInsight ist eine Web-Plattform, die sich darauf konzentriert, transparente und vertrauenswürdige Einblicke in Unternehmen der Gaming-Industrie zu bieten. Ähnlich wie Kununu und Glassdoor ermöglicht GamingInsight es Benutzern, Informationen und Bewertungen über Arbeitgeber in der Gaming-Branche zu teilen und einzusehen. Unser Ziel ist es, eine Gemeinschaft von Spielentwicklern, Designern, Testern und anderen Fachleuten zu schaffen, die ihre Erfahrungen austauschen und anderen helfen können, fundierte Entscheidungen über potenzielle Arbeitgeber zu treffen. Unser Wertversprechen liegt in der Bereitstellung einer Plattform, die nicht nur Arbeitssuchenden bei der Suche nach ihrem nächsten Karriereschritt hilft, sondern auch bestehenden Mitarbeitern dabei unterstützt, ihre Arbeitsbedingungen zu bewerten und zu verbessern.
+
+
+# Mission
+
+Unsere Mission ist es, die Arbeitskultur in der Gaming-Branche durch erhöhte Transparenz und Zugänglichkeit von Informationen zu verbessern. GamingInsight ermöglicht es Benutzern, Erfahrungen auszutauschen und wertvolle Einsichten über potenzielle Arbeitgeber zu gewinnen, wodurch ein besser informierter und engagierter Arbeitsmarkt entsteht.
 
 
 **Beschreibung des Projektansatzes**
