@@ -4,15 +4,9 @@ parent: Team Evaluation
 nav_order: 2
 ---
 
-{: .label }
-[Jane Dane]
 
 {: .no_toc }
-# How we would improve next time
+# Inprovments
 
-<details open markdown="block">
-{: .text-delta }
-<summary>Table of contents</summary>
-+ ToC
-{: toc }
-</details>
+Während des Projekts wurden kontinuierlich Verbesserungen in verschiedenen Bereichen vorgenommen:
+User Interface: Das Design wurde mehrmals überarbeitet, um die Benutzerfreundlichkeit zu erhöhen. Performance-Optimierung: Ladezeiten und Reaktionsfähigkeit der Plattform wurden durch effizienteren Code und bessere Server-Infrastruktur verbessert. Sicherheitsmaßnahmen: Die Sicherheit der Plattform wurde durch Einführung fortgeschrittener Authentifizierungs- und Verschlüsselungstechniken verstärkt.
