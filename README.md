@@ -132,6 +132,8 @@ Grund der Wahl: HTML bildet das Grundgerüst jeder Webseite und ist grundlegend 
 
 # Datenmodell ??????
 
+![image](https://github.com/user-attachments/assets/77486c0d-51e0-4311-a399-f1a8a113fcda)
+
 
 # User Evaluation
 
