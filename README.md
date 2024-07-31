@@ -1,4 +1,4 @@
-theme:midnight
+theme: jekyll-theme-primer
 
 # Projekt GamingInsight
 
