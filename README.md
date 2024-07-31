@@ -150,9 +150,9 @@ Grund der Wahl: HTML bildet das Grundgerüst jeder Webseite und ist grundlegend 
 
 ## Datenmodell
 
-![image](https://github.com/user-attachments/assets/77486c0d-51e0-4311-a399-f1a8a113fcda)
+![image](https://github.com/user-attachments/assets/514898e3-7df2-4f28-9077-8351a498c25d)
 
-
+Wie Sie aus der Abbildung entnehmen können haben wir 3 Tabellen Company,Review und User in der Datenbank mit Ihren jeweiligen Attributen. Die Beziehungen sehen folgendermaßen aus ein Unternehmen kann 0 oder mehrere Bewerungen haben aber eine Bewertung gehört immer zu einem Unternehmen. Ein User kann 0 oder mehrere Reviews abgeben aber eine Review ist immer von einem User geschrieben. Aufgrund dieser Beziehungen bekommt Review die schlüssel Attribute von Company und User.
 # Designentscheidungen ???????????
 
 ** 01 Wie gestalten wir die Login- und Registrierungsfunktion?
