@@ -35,4 +35,4 @@ class Review(db.Model):
     comments = db.Column(db.String(1000))  # Freitextkommentare
     user_id = db.Column(db.Integer, db.ForeignKey('user.id'))
     company_id = db.Column(db.Integer, db.ForeignKey('company.id'))
-
+ 
