@@ -153,6 +153,7 @@ Grund der Wahl: HTML bildet das Grundgerüst jeder Webseite und ist grundlegend 
 ![image](https://github.com/user-attachments/assets/514898e3-7df2-4f28-9077-8351a498c25d)
 
 Wie Sie aus der Abbildung entnehmen können haben wir 3 Tabellen Company,Review und User in der Datenbank mit Ihren jeweiligen Attributen. Die Beziehungen sehen folgendermaßen aus ein Unternehmen kann 0 oder mehrere Bewerungen haben aber eine Bewertung gehört immer zu einem Unternehmen. Ein User kann 0 oder mehrere Reviews abgeben aber eine Review ist immer von einem User geschrieben. Aufgrund dieser Beziehungen bekommt Review die schlüssel Attribute von Company und User.
+
 # Designentscheidungen ???????????
 
 ** 01 Wie gestalten wir die Login- und Registrierungsfunktion?
@@ -177,8 +178,12 @@ Lösung: Alle Benutzer können Bewertungen einsehen, aber nur eingeloggte Benutz
 # User Evaluation
 
 
-# ???
-
+Jetzt, da unser Projekt „GamingInsight“ abgeschlossen ist, haben wir uns die Zeit genommen, eine abschließende Evaluation durchzuführen, um zu verstehen, wie gut unsere Plattform die Erwartungen erfüllt hat und was wir daraus lernen können. Diese Art der Reflexion ist entscheidend, nicht nur um den Erfolg unseres Projekts zu messen, sondern auch um uns wertvolle Einblicke für zukünftige Unternehmungen zu verschaffen.
+Wir haben begonnen, indem wir alle vorhandenen Dokumente und Feedbacks, die wir während des Projekts gesammelt haben, noch einmal gründlich durchgesehen haben. Dazu gehörten Entwicklernotizen, Testergebnisse und Kommentare von Projektbeteiligten. Besonders aufschlussreich war das Feedback, das wir nach unseren Präsentationen erhalten haben, sowohl von Kommilitonen als auch von Dozenten. Diese Rückmeldungen haben uns geholfen, ein klareres Bild davon zu bekommen, wie intuitiv und nützlich unsere Plattform für die Endnutzer wirklich ist.
+Ein wichtiger Aspekt unserer Evaluation war die Nutzerfreundlichkeit unserer Plattform. Hierbei wollten wir verstehen, wie einfach die Navigation und die allgemeine Handhabung für die Nutzer waren. Die Funktionalität war ein weiterer kritischer Punkt, bei dem wir bewerten wollten, inwiefern die implementierten Features den Bedürfnissen der Nutzer tatsächlich entsprechen.
+Aus dieser Analyse haben wir sowohl unsere Stärken als auch Bereiche identifiziert, in denen wir uns verbessern können. Zum Beispiel haben wir festgestellt, dass einige unserer Features sehr gut ankamen und die Nutzer sie als hilfreich und innovativ empfanden. Andererseits haben wir auch gelernt, dass bestimmte Aspekte der Benutzerführung noch optimiert werden könnten, um die allgemeine Benutzererfahrung zu verbessern.
+Diese Erkenntnisse haben wir in einem umfassenden Bericht zusammengefasst, der nicht nur eine Bewertung der Plattform bietet, sondern auch konkrete Empfehlungen für mögliche zukünftige Iterationen enthält. Dieser Bericht dient als abschließende Dokumentation unseres Projekts und wird sicherlich eine wertvolle Ressource für unsere zukünftigen akademischen und beruflichen Bemühungen sein.
+Indem wir diesen Prozess durchlaufen, haben wir nicht nur mehr über die Bedürfnisse unserer Zielgruppe gelernt, sondern auch wertvolle Erfahrungen in Projektmanagement und User-Experience-Design gesammelt. Diese abschließende Evaluation ermöglicht es uns, mit einem klaren Verständnis dessen, was wir erreicht haben und wie wir uns verbessern können, voranzugehen.
 
 # Team-Evaluation für GamingInsight
 
