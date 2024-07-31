@@ -178,12 +178,18 @@ Lösung: Alle Benutzer können Bewertungen einsehen, aber nur eingeloggte Benutz
 # User Evaluation
 
 
-Jetzt, da unser Projekt „GamingInsight“ abgeschlossen ist, haben wir uns die Zeit genommen, eine abschließende Evaluation durchzuführen, um zu verstehen, wie gut unsere Plattform die Erwartungen erfüllt hat und was wir daraus lernen können. Diese Art der Reflexion ist entscheidend, nicht nur um den Erfolg unseres Projekts zu messen, sondern auch um uns wertvolle Einblicke für zukünftige Unternehmungen zu verschaffen.
-Wir haben begonnen, indem wir alle vorhandenen Dokumente und Feedbacks, die wir während des Projekts gesammelt haben, noch einmal gründlich durchgesehen haben. Dazu gehörten Entwicklernotizen, Testergebnisse und Kommentare von Projektbeteiligten. Besonders aufschlussreich war das Feedback, das wir nach unseren Präsentationen erhalten haben, sowohl von Kommilitonen als auch von Dozenten. Diese Rückmeldungen haben uns geholfen, ein klareres Bild davon zu bekommen, wie intuitiv und nützlich unsere Plattform für die Endnutzer wirklich ist.
-Ein wichtiger Aspekt unserer Evaluation war die Nutzerfreundlichkeit unserer Plattform. Hierbei wollten wir verstehen, wie einfach die Navigation und die allgemeine Handhabung für die Nutzer waren. Die Funktionalität war ein weiterer kritischer Punkt, bei dem wir bewerten wollten, inwiefern die implementierten Features den Bedürfnissen der Nutzer tatsächlich entsprechen.
-Aus dieser Analyse haben wir sowohl unsere Stärken als auch Bereiche identifiziert, in denen wir uns verbessern können. Zum Beispiel haben wir festgestellt, dass einige unserer Features sehr gut ankamen und die Nutzer sie als hilfreich und innovativ empfanden. Andererseits haben wir auch gelernt, dass bestimmte Aspekte der Benutzerführung noch optimiert werden könnten, um die allgemeine Benutzererfahrung zu verbessern.
-Diese Erkenntnisse haben wir in einem umfassenden Bericht zusammengefasst, der nicht nur eine Bewertung der Plattform bietet, sondern auch konkrete Empfehlungen für mögliche zukünftige Iterationen enthält. Dieser Bericht dient als abschließende Dokumentation unseres Projekts und wird sicherlich eine wertvolle Ressource für unsere zukünftigen akademischen und beruflichen Bemühungen sein.
-Indem wir diesen Prozess durchlaufen, haben wir nicht nur mehr über die Bedürfnisse unserer Zielgruppe gelernt, sondern auch wertvolle Erfahrungen in Projektmanagement und User-Experience-Design gesammelt. Diese abschließende Evaluation ermöglicht es uns, mit einem klaren Verständnis dessen, was wir erreicht haben und wie wir uns verbessern können, voranzugehen.
+User Evaluation von GamingInsight
+Meta
+Status: Done
+Updated: 31-Jul-2024
+Goal
+Das Ziel dieser Evaluation war es, ein hypothetisches Verständnis darüber zu entwickeln, wie intuitiv und zugänglich die GamingInsight-Plattform für neue Benutzer ist. Konkret wollten wir erforschen, wie Benutzer die Anmeldungsprozedur wahrnehmen und welche Faktoren möglicherweise zur Frustration führen könnten.
+Method
+Da das Projekt nicht gelauncht wurde, basiert diese Evaluation auf einem hypothetischen Szenario, in dem wir angenommen haben, wie die Anmeldung und erste Interaktion mit der Plattform aussehen könnte. Wir stellten uns vor, dass Benutzer durch die verschiedenen Stufen der Registrierung geführt werden und dabei auf potenzielle Hürden stoßen, die wir identifizieren und analysieren.
+Results
+In unserem hypothetischen Szenario nahmen wir an, dass Benutzer die Plattform intuitiv finden würden, mit einigen kleineren Verwirrungspunkten bei der Navigation zu bestimmten Features. Es gab keine tatsächliche Messung von Abbruchraten oder spezifischen Nutzerfrustrationen, da die Plattform nicht live getestet wurde.
+Implications
+Aus dieser hypothetischen Bewertung haben wir die Einsicht gewonnen, dass, sollte die Plattform tatsächlich entwickelt werden, ein klares und einfaches Registrierungsverfahren von entscheidender Bedeutung sein wird. Wir empfehlen, dass zukünftige Versionen der Plattform Benutzerfreundlichkeitstests unterziehen, um die Benutzererfahrung zu optimieren, bevor sie live gehen.
 
 # Team-Evaluation für GamingInsight
 
