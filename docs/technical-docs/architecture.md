@@ -1,44 +1,26 @@
----
-title: Architecture
-parent: Technical Docs
-nav_order: 1
----
 
-{: .label }
-[Jane Dane]
+# Backend
 
-{: .no_toc }
-# Architecture
 
-{: .attention }
-> This page describes how the application is structured and how important parts of the app work. It should give a new-joiner sufficient technical knowledge for contributing to the codebase.
-> 
-> See [this blog post](https://matklad.github.io/2021/02/06/ARCHITECTURE.md.html) for an explanation of the concept and these examples:
->
-> + <https://github.com/rust-lang/rust-analyzer/blob/master/docs/dev/architecture.md>
-> + <https://github.com/Uriopass/Egregoria/blob/master/ARCHITECTURE.md>
-> + <https://github.com/davish/obsidian-full-calendar/blob/main/src/README.md>
-> 
-> For structural and behavioral illustration, you might want to leverage [Mermaid](../ui-components.md), e.g., by charting common [C4](https://c4model.com/) or [UML](https://www.omg.org/spec/UML) diagrams.
-> 
->
-> You may delete this `attention` box.
+Flask Verwendung: Flask ist ein leichtgewichtiges WSGI-Webanwendung-Framework. Es wird verwendet, um die Backend-Logik und APIs zu implementieren, die die Frontend-Anwendungen bedienen. Grund der Wahl: Flask bietet Flexibilität und ist einfach zu verwenden, was schnelle Entwicklungszyklen ermöglicht. Es eignet sich besonders gut für kleinere bis mittelgroße Projekte mit Bedarf an einer soliden Webanwendungsstruktur ohne den Overhead größerer Frameworks wie Django.
 
-<details open markdown="block">
-{: .text-delta }
-<summary>Table of contents</summary>
-+ ToC
-{: toc }
-</details>
+SQLite Verwendung: SQLite ist eine relationale Datenbankverwaltungssystem, das in einer C-Bibliothek enthalten ist. In Flask-Projekten dient es dazu, Daten effizient zu speichern und zu verwalten. Grund der Wahl: SQLite ist leichtgewichtig und benötigt keine separate Server-Installation, was es ideal für Entwicklungsumgebungen und kleinere Anwendungen macht. Es unterstützt schnelle Prototypentwicklung und ist einfach zu konfigurieren.
 
-## Overview
+Flask-SQLAlchemy Verwendung: SQLAlchemy ist ein SQL-Toolkit und ORM (Object Relational Mapper) für Python. Flask-SQLAlchemy ist eine Erweiterung für Flask, die mehr Komfort bei der Verwendung von SQLAlchemy bietet. Grund der Wahl: Es abstrahiert Datenbankzugriffe und verbessert die Datenbankinteraktionen durch eine höhere Abstraktionsebene, was die Wartung und Erweiterung der Datenbanklogik erleichtert.
 
-[Give a high-level overview of what your app does and how it achieves it: similar to the value proposition, but targeted at a fellow developer who wishes to contribute.]
+Flask-Login Verwendung: Flask-Login bietet Benutzerverwaltung für Flask-Anwendungen und unterstützt das Management von Benutzersitzungen. Grund der Wahl: Es erleichtert die Implementierung von Authentifizierungsmechanismen, was die Entwicklung von sicheren Anwendungen vereinfacht und verbessert.
 
-## Codemap
+# Frontend
 
-[Describe how your app is structured. Don't aim for completeness, rather describe *just* the most important parts.]
+Jinja2 Verwendung: Jinja2 ist eine Template-Engine für Python, die in Flask-Anwendungen für die Erstellung von HTML-Templates verwendet wird. Grund der Wahl: Sie ermöglicht eine klare Trennung zwischen Design und Logik, bietet leistungsstarke Funktionen zur dynamischen Generierung von HTML-Inhalten und erhöht die Flexibilität und Wartbarkeit des Frontends.
 
-## Cross-cutting concerns
+CSS Verwendung: CSS (Cascading Style Sheets) wird verwendet, um das Layout und das visuelle Design der Webseiten zu gestalten. Grund der Wahl: CSS ist essentiell für die Erstellung benutzerfreundlicher Interfaces und ermöglicht die kreative und präzise Gestaltung der Benutzeroberfläche.
 
-[Describe anything that is important for a solid understanding of your codebase. Most likely, you want to explain the behavior of (parts of) your application. In this section, you may also link to important [design decisions](../design-decisions.md).]
+HTML Verwendung: HTML (Hypertext Markup Language) ist die Standard-Auszeichnungssprache für das Erstellen von Webseiten und Webanwendungen. Grund der Wahl: HTML bildet das Grundgerüst jeder Webseite und ist grundlegend für die Strukturierung und den Inhalt der Benutzeroberfläche.
+
+# Datenmodell
+
+![image](https://github.com/user-attachments/assets/38f62d9f-a517-473c-b35e-9246c4d163f6)
+
+
+Wie Sie aus der Abbildung entnehmen können haben wir 3 Tabellen Company,Review und User in der Datenbank mit Ihren jeweiligen Attributen. Die Beziehungen sehen folgendermaßen aus ein Unternehmen kann 0 oder mehrere Bewerungen haben aber eine Bewertung gehört immer zu einem Unternehmen. Ein User kann 0 oder mehrere Reviews abgeben aber eine Review ist immer von einem User geschrieben. Aufgrund dieser Beziehungen bekommt Review die schlüssel Attribute von Company und User.
