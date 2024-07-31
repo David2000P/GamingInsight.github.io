@@ -23,9 +23,4 @@ CSS Verwendung: CSS (Cascading Style Sheets) wird verwendet, um das Layout und d
 
 HTML Verwendung: HTML (Hypertext Markup Language) ist die Standard-Auszeichnungssprache für das Erstellen von Webseiten und Webanwendungen. Grund der Wahl: HTML bildet das Grundgerüst jeder Webseite und ist grundlegend für die Strukturierung und den Inhalt der Benutzeroberfläche.
 
-# Datenmodell
 
-![image](https://github.com/user-attachments/assets/38f62d9f-a517-473c-b35e-9246c4d163f6)
-
-
-Wie Sie aus der Abbildung entnehmen können haben wir 3 Tabellen Company,Review und User in der Datenbank mit Ihren jeweiligen Attributen. Die Beziehungen sehen folgendermaßen aus ein Unternehmen kann 0 oder mehrere Bewerungen haben aber eine Bewertung gehört immer zu einem Unternehmen. Ein User kann 0 oder mehrere Reviews abgeben aber eine Review ist immer von einem User geschrieben. Aufgrund dieser Beziehungen bekommt Review die schlüssel Attribute von Company und User.
