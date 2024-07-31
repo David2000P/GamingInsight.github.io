@@ -1,34 +1,23 @@
----
-title: Home
-nav_order: 0
----
 
-{: .attention }
-> Any text enclosed by `[ ]` are placeholders, including the opening and closing brackets.
->
-> You may delete this `attention` box.
-
-# [GamingInsight]
+# GamingInsight
 
 [Project description]
 
 ## Team members
 
-### [Jane Dane]
+### David Pätzold
 
-About
-: Some info about Jane
+Matr.-Nr. : 77211974782
 
-Matr.-Nr.
-: 1234567
+### Sercan Sinanovic Polat
 
-### [Joe Doe]
+Matr.-Nr. : 77211974478
 
-About
-: Some info about Joe
+### Ekber Pala
 
-Matr.-Nr.
-: 1234567
+Matr.-Nr. : 77211964967
+
+Präsentationslink: https://www.icloud.com/iclouddrive/0ca_U9XVIZi1veogc1Hr3jUmw#Team_GamingInsiders
 
 ## Eidesstattliche Erklärung
 
