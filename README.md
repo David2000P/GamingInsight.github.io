@@ -1,3 +1,5 @@
+theme:midnight
+
 # Projekt GamingInsight
 
 GamingInsight ist eine wegweisende Plattform, die speziell entwickelt wurde, um Transparenz und Einblicke in die Arbeitsbedingungen der schnell wachsenden Gaming-Industrie zu bieten. Ziel ist es, eine vertrauenswürdige und umfassende Arbeitgeberbewertungsplattform zu schaffen, die Fachkräften hilft, wichtige Entscheidungen über ihre Karrierewege zu treffen.
