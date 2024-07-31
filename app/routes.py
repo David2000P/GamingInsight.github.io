@@ -153,4 +153,4 @@ def submit_review(company_id):
     db.session.add(review)
     db.session.commit()
     flash('Deine Bewertung wurde erfolgreich gespeichert.')
-    return redirect(url_for('main.company_detail', company_id=company_id))
+    return redirect(url_for('main.company_detail', company_id=company_id)) 
