@@ -26,13 +26,13 @@ Diese Arbeit wurde selbständig und eigenhändig erstellt. Die den benutzten Que
 
 ## Agenda
 
-- [App Idee](/App Idee)
-- [Value Proposition](/value-proposition)
-- [Beschreibung des Projektansatzes](/beschreibung-des-projektansatzes)
-- [Technologiestack](/technologiestack)
-- [Designentscheidungen](/designentscheidungen)
-- [User Evaluation](/user-evaluation)
-- [Team Evaluation](/team-evaluation)
+- App Idee
+- Value Proposition
+- Beschreibung des Projektansatzes
+- Technologiestack
+- Designentscheidungen
+- User Evaluation
+- Team Evaluation
 
 # App Idee
 
@@ -77,7 +77,7 @@ Basierend auf die Bedürfnisse von Lukas haben wir GamingInsight so gestaltet, d
 **Abschluss**
 Die Entwicklung dieser Persona war ein umfangreicher Prozess, der tiefgehende Recherchen und sorgfältige Analysen umfasste. Wir haben uns bemüht, die Herausforderungen und Bedürfnisse von Gaming Designern so realistisch und präzise wie möglich zu verstehen und unsere Plattform entsprechend anzupassen. Dies spiegelt sich in den maßgeschneiderten Lösungen und spezialisierten Informationen wider, die GamingInsight bietet, um die Karriere und das Wohlbefinden von Fachkräften in der Gaming-Branche aktiv zu unterstützen.
 
-### Customer Journey ( Screenflow ???)
+### Customer Journey
 
 Die Kundenreise auf GamingInsight beginnt mit der Registrierung und dem Einloggen in die App.
 Nach dem Login kann der Nutzer:
@@ -154,7 +154,7 @@ Grund der Wahl: HTML bildet das Grundgerüst jeder Webseite und ist grundlegend 
 
 Wie Sie aus der Abbildung entnehmen können haben wir 3 Tabellen Company,Review und User in der Datenbank mit Ihren jeweiligen Attributen. Die Beziehungen sehen folgendermaßen aus ein Unternehmen kann 0 oder mehrere Bewerungen haben aber eine Bewertung gehört immer zu einem Unternehmen. Ein User kann 0 oder mehrere Reviews abgeben aber eine Review ist immer von einem User geschrieben. Aufgrund dieser Beziehungen bekommt Review die schlüssel Attribute von Company und User.
 
-# Designentscheidungen ???????????
+# Designentscheidungen
 
 ** 01 Wie gestalten wir die Login- und Registrierungsfunktion?
 
