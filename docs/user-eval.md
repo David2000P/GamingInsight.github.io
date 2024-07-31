@@ -3,43 +3,10 @@ title: User Evaluation
 nav_order: 4
 ---
 
-{: .label }
-[Jane Dane]
 
 {: .no_toc }
 # User evaluation
 
-<details open markdown="block">
-{: .text-delta }
-<summary>Table of contents</summary>
-+ ToC
-{: toc }
-</details>
-
-## 01: [Title]
-
-### Meta
-
-Status
-: **Work in progress** - Done - Obsolete
-
-Updated
-: DD-MMM-YYYY
-
-### Goal
-
-[Describe the goal of this evaluation, for example as a research question like: "How long does it take to register a new account and what is the drop-out rate?"]
-
-### Method
-
-[Describe how you proceed to achieve your evaluation goal. Be as specific as possible: others should be able to replicate your evaluation by following the description on this section.]
-
-### Results
-
-[Present the main results of your evaluation, for example: "On average, users need 3 min to register. The drop-out rate was 70%. Users that didn't complete provided the following reasons: ..."]
-
-### Implications
-
-[What did you learn from this evaluation and what will you change to improve? Example: "We aim to decrease the drop-out rate by not asking for a birth date. We will re-run this evaluation to measure the impact."]
+Jetzt, da unser Projekt „GamingInsight“ abgeschlossen ist, haben wir uns die Zeit genommen, eine abschließende Evaluation durchzuführen, um zu verstehen, wie gut unsere Plattform die Erwartungen erfüllt hat und was wir daraus lernen können. Diese Art der Reflexion ist entscheidend, nicht nur um den Erfolg unseres Projekts zu messen, sondern auch um uns wertvolle Einblicke für zukünftige Unternehmungen zu verschaffen. Wir haben begonnen, indem wir alle vorhandenen Dokumente und Feedbacks, die wir während des Projekts gesammelt haben, noch einmal gründlich durchgesehen haben. Dazu gehörten Entwicklernotizen, Testergebnisse und Kommentare von Projektbeteiligten. Besonders aufschlussreich war das Feedback, das wir nach unseren Präsentationen erhalten haben, sowohl von Kommilitonen als auch von Dozenten. Diese Rückmeldungen haben uns geholfen, ein klareres Bild davon zu bekommen, wie intuitiv und nützlich unsere Plattform für die Endnutzer wirklich ist. Ein wichtiger Aspekt unserer Evaluation war die Nutzerfreundlichkeit unserer Plattform. Hierbei wollten wir verstehen, wie einfach die Navigation und die allgemeine Handhabung für die Nutzer waren. Die Funktionalität war ein weiterer kritischer Punkt, bei dem wir bewerten wollten, inwiefern die implementierten Features den Bedürfnissen der Nutzer tatsächlich entsprechen. Aus dieser Analyse haben wir sowohl unsere Stärken als auch Bereiche identifiziert, in denen wir uns verbessern können. Zum Beispiel haben wir festgestellt, dass einige unserer Features sehr gut ankamen und die Nutzer sie als hilfreich und innovativ empfanden. Andererseits haben wir auch gelernt, dass bestimmte Aspekte der Benutzerführung noch optimiert werden könnten, um die allgemeine Benutzererfahrung zu verbessern. Diese Erkenntnisse haben wir in einem umfassenden Bericht zusammengefasst, der nicht nur eine Bewertung der Plattform bietet, sondern auch konkrete Empfehlungen für mögliche zukünftige Iterationen enthält. Dieser Bericht dient als abschließende Dokumentation unseres Projekts und wird sicherlich eine wertvolle Ressource für unsere zukünftigen akademischen und beruflichen Bemühungen sein. Indem wir diesen Prozess durchlaufen, haben wir nicht nur mehr über die Bedürfnisse unserer Zielgruppe gelernt, sondern auch wertvolle Erfahrungen in Projektmanagement und User-Experience-Design gesammelt. Diese abschließende Evaluation ermöglicht es uns, mit einem klaren Verständnis dessen, was wir erreicht haben und wie wir uns verbessern können, voranzugehen.
 
 ---
