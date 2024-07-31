@@ -1,4 +1,4 @@
-theme: jekyll-theme-primer
+theme: Jekyll Theme Primer
 
 # Projekt GamingInsight
 
