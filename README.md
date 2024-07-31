@@ -39,45 +39,45 @@ Diese Arbeit wurde selbständig und eigenhändig erstellt. Die den benutzten Que
 GamingInsight ist eine Web-Plattform, die sich darauf konzentriert, transparente und vertrauenswürdige Einblicke in Unternehmen der Gaming-Industrie zu bieten. Ähnlich wie Kununu und Glassdoor ermöglicht GamingInsight es Benutzern, Informationen und Bewertungen über Arbeitgeber in der Gaming-Branche zu teilen und einzusehen. Unser Ziel ist es, eine Gemeinschaft von Spielentwicklern, Designern, Testern und anderen Fachleuten zu schaffen, die ihre Erfahrungen austauschen und anderen helfen können, fundierte Entscheidungen über potenzielle Arbeitgeber zu treffen. Unser Wertversprechen liegt in der Bereitstellung einer Plattform, die nicht nur Arbeitssuchenden bei der Suche nach ihrem nächsten Karriereschritt hilft, sondern auch bestehenden Mitarbeitern dabei unterstützt, ihre Arbeitsbedingungen zu bewerten und zu verbessern.
 
 
-# Mission
+### Mission
 
 Unsere Mission ist es, die Arbeitskultur in der Gaming-Branche durch erhöhte Transparenz und Zugänglichkeit von Informationen zu verbessern. GamingInsight ermöglicht es Benutzern, Erfahrungen auszutauschen und wertvolle Einsichten über potenzielle Arbeitgeber zu gewinnen, wodurch ein besser informierter und engagierter Arbeitsmarkt entsteht.
 
 
 # Value Proposition
 
-## Das Problem
+### Das Problem
 GamingInsight adressiert das Problem der Intransparenz in der Gaming-Industrie. 
 Viele Fachkräfte der Branche haben Schwierigkeiten, verlässliche Informationen über die Arbeitskultur und die internen Bedingungen von Arbeitgebern zu finden. Diese Informationslücke kann zu uninformierten Entscheidungen führen, die die Karriere und das persönliche Wohlbefinden negativ beeinflussen.
 
-## Unsere Lösung
+### Unsere Lösung
 GamingInsight bietet eine Plattform, die es Nutzern ermöglicht, detaillierte Bewertungen und Feedback über Unternehmen in der Gaming-Branche zu hinterlassen und einzusehen. Unsere Lösung zielt darauf ab, die Arbeitsbedingungen transparent zu machen, indem wir Bewertungen zu verschiedenen Aspekten wie Work-Life-Balance, Managementstil und Teamkultur sammeln. Wir stellen sicher, dass unsere Plattform realistische und erreichbare Ergebnisse liefert, die direkt auf Nutzerfeedback basieren.
 
-## Target User
+### Target User
 
 Nach intensivem Austausch mit Ihnen haben wir die Zielgruppe für unser Projekt "GamingInsight" noch spezifischer definiert, um eine präzisere Ansprache und genauere Abstimmung der Projektinhalte auf die Bedürfnisse unserer Nutzer zu gewährleisten. Dieser Prozess des "Hard Scopings" ermöglichte es uns, tiefergehende und maßgeschneiderte Lösungen für die identifizierten Herausforderungen und Anforderungen innerhalb der Gaming-Branche zu entwickeln. Um auf die Zielgruppe genauer einzugehen, haben wir 
 
 ### Schritt-für-Schritt-Entwicklung der Persona: Lukas Schmidt
 
-### Beruflicher Kontext
+**Beruflicher Kontext**
 Lukas ist ein 32-jähriger Lead Game Designer, der in München arbeitet und über acht Jahre Erfahrung in der Gaming-Industrie verfügt. Sein Arbeitsalltag ist geprägt von kreativen Herausforderungen und technischen Anforderungen, die ein tiefes Verständnis für Spielmechaniken und Benutzerengagement erfordern.
 
-### Herausforderungen im Berufsalltag
+**Herausforderungen im Berufsalltag**
 Wir haben erkannt, dass Lukas täglich mit dem Druck zu innovieren und gleichzeitig effiziente, realisierbare Lösungen zu entwickeln, konfrontiert ist. Er muss oft schwierige Entscheidungen treffen, die das Gleichgewicht zwischen künstlerischer Vision und praktischer Umsetzbarkeit wahren.
 
-### Persönliche und berufliche Ziele
+**Persönliche und berufliche Ziele**
 Lukas strebt danach, in seiner Karriere weiter aufzusteigen und eines Tages als Creative Director die kreative Leitung über größere Projekte zu übernehmen. Langfristig träumt er davon, sein eigenes Gaming-Studio zu gründen, um seine Visionen ohne Kompromisse verwirklichen zu können.
 
-### Bedürfnisse nach spezifischen Informationen
+**Bedürfnisse nach spezifischen Informationen**
 Um seine Ziele zu erreichen, sucht Lukas nach verlässlichen Informationen über Arbeitsbedingungen und Karrierechancen in verschiedenen Studios. Er legt großen Wert auf authentische Einblicke in die Unternehmenskultur und die Entwicklungsmöglichkeiten, die ihm angeboten werden könnten. Außerdem war es Ihm wichtig, Informationen über Projektarbeit zu erhalten. Gibt es genügend Projekte? Wie ist es mit Crunchzeiten? Welches IT-Equipment steht zur Verfügung?
 
-### Umsetzung dieser Erkenntnisse in GamingInsight
+**Umsetzung dieser Erkenntnisse in GamingInsight**
 Basierend auf die Bedürfnisse von Lukas haben wir GamingInsight so gestaltet, dass es spezifische Informationen über die Gaming-Branche bereitstellt. Unsere Plattform bietet tiefgehende Analysen von Unternehmenskulturen, detaillierte Bewertungen von Arbeitgebern und schlussendlich soll sich eine Community entwickeln, die aktiv Erfahrungen und Ratschläge teilt. Diese Features sind darauf ausgerichtet, Gaming Designern wie Lukas dabei zu helfen, wichtige Entscheidungen über ihre Karrierewege zu treffen.
 
-### Abschluss
+**Abschluss**
 Die Entwicklung dieser Persona war ein umfangreicher Prozess, der tiefgehende Recherchen und sorgfältige Analysen umfasste. Wir haben uns bemüht, die Herausforderungen und Bedürfnisse von Gaming Designern so realistisch und präzise wie möglich zu verstehen und unsere Plattform entsprechend anzupassen. Dies spiegelt sich in den maßgeschneiderten Lösungen und spezialisierten Informationen wider, die GamingInsight bietet, um die Karriere und das Wohlbefinden von Fachkräften in der Gaming-Branche aktiv zu unterstützen.
 
-## Customer Journey ( Screenflow ???)
+### Customer Journey ( Screenflow ???)
 
 Die Kundenreise auf GamingInsight beginnt mit der Registrierung und dem Einloggen in die App.
 Nach dem Login kann der Nutzer:
@@ -94,19 +94,19 @@ Nutzer können aktuelle Stellenausschreibungen einsehen, die von Unternehmen auf
 
 In den ersten Wochen des Kurses haben wir, das Team bestehend aus Ekber Pala, David Pätzold und Sercan Polat, verschiedene Projektideen gesammelt und diskutiert. Schließlich entschieden wir uns für GamingInsight, eine Plattform, die detaillierte und vertrauenswürdige Einblicke in Unternehmen der Gaming-Industrie bieten soll. Unser Ziel ist es, Fachkräften fundierte Karriereentscheidungen zu ermöglichen, indem wir eine Lösung für das mangelnde Vertrauen und die fehlende Transparenz in der Gaming-Branche entwickeln.
 
-## Projektziele:
+**Projektziele:**
 Transparenz schaffen: Eine Plattform, die detaillierte und ehrliche Einblicke in die Arbeitsbedingungen bei Unternehmen in der Gaming-Industrie bietet.
 Arbeitsbedingungen verbessern: Durch das Sammeln und Analysieren von Feedback können Unternehmen ihre Arbeitskultur und -bedingungen verbessern.
 Arbeitsplatzsuche erleichtern: Fachkräften soll die Suche nach einem passenden Arbeitgeber erleichtert werden.
 
-## Projektmethodik:
+**Projektmethodik:**
 Brainstorming: Verschiedene Ideen wurden gesammelt und diskutiert.
 Planung: Eine detaillierte Projektplanung wurde erstellt, um sicherzustellen, dass alle Aspekte abgedeckt werden.
 Umsetzung: Die Arbeit wurde gleichmäßig auf die Teammitglieder verteilt und gemeinsam in der Bibliothek sowie über Plattformen wie Discord und Whatsapp erledigt.
 Testing: Regelmäßige Tests wurden durchgeführt, um sicherzustellen, dass die Plattform wie beabsichtigt funktioniert.
 Feedback: Feedback von Kommilitonen wurde eingeholt, um die Benutzerfreundlichkeit und Funktionalität der Plattform zu verbessern.
-
-## Umsetzungsprozess: 
+ 
+**Umsetzungsprozess:** 
 In den ersten Wochen haben wir die Projektidee entwickelt und ein Konzept erstellt.
 Die Aufgaben wurden fair aufgeteilt: Ekber war für die Homepage und Navigation verantwortlich, David für die Upload-Seite und Sercan für die Login/Registrierungsseite.
 Wir haben regelmäßige Meetings abgehalten, um den Fortschritt zu überprüfen und sicherzustellen, dass alle auf dem gleichen Stand sind.
