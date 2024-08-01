@@ -7,6 +7,13 @@ nav_order: 4
 {: .no_toc }
 
 ## 01: User Evaluation von GamingInsight
+<details open markdown="block">
+{: .text-delta }
+<summary>Table of contents</summary>
++ ToC
+{: toc }
+</details>
+
 
 ### Meta
 
