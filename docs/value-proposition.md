@@ -30,7 +30,7 @@ Nach intensivem Austausch mit Ihnen haben wir die Zielgruppe für unser Projekt 
 
 ## Persona
 
-# Schritt-für-Schritt-Entwicklung der Persona: Lukas Schmidt
+Schritt-für-Schritt-Entwicklung der Persona: Lukas Schmidt
 
 Beruflicher Kontext Lukas ist ein 32-jähriger Lead Game Designer, der in München arbeitet und über acht Jahre Erfahrung in der Gaming-Industrie verfügt. Sein Arbeitsalltag ist geprägt von kreativen Herausforderungen und technischen Anforderungen, die ein tiefes Verständnis für Spielmechaniken und Benutzerengagement erfordern.
 
