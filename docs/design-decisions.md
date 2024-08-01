@@ -16,10 +16,8 @@ nav_order: 3
 {: toc }
 </details>
 
-## 01: [Title]
 
-
-## 01: [Entwicklungsumgebung und Sprache]
+## 01: Entwicklungsumgebung und Sprache
 Meta
 Status: Decided
 Updated: 01-Aug-2024
@@ -39,7 +37,7 @@ JavaScript mit Node.js: Pro: große Community, Kontra: asynchroner Programmierst
 Ruby on Rails: Pro: "Convention over configuration" vereinfacht viele Aufgaben, Kontra: weniger Flexibilität im Vergleich zu Python.
 
 
-## 02: [Web-Framework]
+## 02: Web-Framework
 Meta
 Status: Decided
 Updated: 26-Jul-2024
@@ -59,7 +57,7 @@ Django: Pro: viele eingebaute Features, Kontra: zu schwerfällig für unsere Bed
 Express.js: Pro: hohe Flexibilität, Kontra: erfordert tiefere JavaScript-Kenntnisse.
 
 
-## 03: [Datenmanagement]
+## 03: Datenmanagement
 Meta
 Status: Decided
 Updated: 20-Jul-2024
@@ -77,12 +75,3 @@ Direkte Verwendung von SQL-Befehlen: Einfacher Zugang und Kontrolle über die Da
 **Pro/Kontra:**
 Verwendung von SQLAlchemy: Pro: abstrahiert Datenbankzugriffe und vereinfacht Code, Kontra: erfordert zusätzlichen Lernaufwand und Setup.
 Direkte Verwendung von SQL-Befehlen: Pro: vollständige Kontrolle und einfaches Setup, Kontra: kann bei komplexeren Datenstrukturen unübersichtlich werden.
-
-
-
-| Criterion | Plain SQL | SQLAlchemy |
-| --- | --- | --- |
-| **Know-how** | ✔️ We know how to write SQL | ❌ We must learn ORM concept & SQLAlchemy |
-| **Change DB schema** | ❌ SQL scattered across code | ❔ Good: classes, bad: need Alembic on top |
-| **Switch DB engine** | ❌ Different SQL dialect | ✔️ Abstracts away DB engine |
-
