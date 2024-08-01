@@ -18,11 +18,11 @@ nav_order: 1
 
 ## The problem
 
-GamingInsight adressiert das Problem der Intransparenz in der Gaming-Industrie. Viele Fachkräfte der Branche haben Schwierigkeiten, verlässliche Informationen über die Arbeitskultur und die internen Bedingungen von Arbeitgebern zu finden. Diese Informationslücke kann zu uninformierten Entscheidungen führen, die die Karriere und das persönliche Wohlbefinden negativ beeinflussen.
+In der Gaming-Industrie herrscht oft ein Mangel an Transparenz bezüglich der Arbeitsbedingungen. Viele Arbeitnehmer in dieser Branche erleben Herausforderungen wie unfaire Vergütung, mangelnde Work-Life-Balance, Projektdynamik, Technologisches Equipment und manchmal sogar toxische Arbeitsumgebungen. Diese Probleme bleiben oft unadressiert, da Mitarbeiter aus Angst vor beruflichen Nachteilen zögern, offen über ihre Erfahrungen zu sprechen. Zudem fehlt es potenziellen Arbeitnehmern an zuverlässigen Informationen, die ihnen helfen könnten, informierte Entscheidungen über zukünftige Arbeitsplätze zu treffen.
 
 ## Our solution
 
-GamingInsight bietet eine Plattform, die es Nutzern ermöglicht, detaillierte Bewertungen und Feedback über Unternehmen in der Gaming-Branche zu hinterlassen und einzusehen. Unsere Lösung zielt darauf ab, die Arbeitsbedingungen transparent zu machen, indem wir Bewertungen zu verschiedenen Aspekten wie Work-Life-Balance, Managementstil und Teamkultur sammeln. Wir stellen sicher, dass unsere Plattform realistische und erreichbare Ergebnisse liefert, die direkt auf Nutzerfeedback basieren.
+GamingInsight bietet eine Plattform, die es Nutzern ermöglicht, detaillierte Bewertungen und Feedback über Unternehmen in der Gaming-Branche zu hinterlassen und einzusehen. Unsere Lösung zielt darauf ab, die Arbeitsbedingungen transparent zu machen, indem wir Bewertungen zu verschiedenen Aspekten wie z.B. Crunchzeiten, Work-Life-Balance, Arbeitsbedingungen und Teamkultur sammeln. Wir stellen sicher, dass unsere Plattform realistische und erreichbare Ergebnisse liefert, die direkt auf Nutzerfeedback basieren.
 
 ## Target user
 
@@ -44,7 +44,7 @@ Umsetzung dieser Erkenntnisse in GamingInsight Basierend auf die Bedürfnisse vo
 
 Die Entwicklung dieser Persona war ein umfangreicher Prozess, der tiefgehende Recherchen und sorgfältige Analysen umfasste. Wir haben uns bemüht, die Herausforderungen und Bedürfnisse von Gaming Designern so realistisch und präzise wie möglich zu verstehen und unsere Plattform entsprechend anzupassen. Dies spiegelt sich in den maßgeschneiderten Lösungen und spezialisierten Informationen wider, die GamingInsight bietet, um die Karriere und das Wohlbefinden von Fachkräften in der Gaming-Branche aktiv zu unterstützen.
 
-## Customer journey
+## Customer journey (SCREENFLOW)
 
 Die Kundenreise auf GamingInsight beginnt mit der Registrierung und dem Einloggen in die App.
 
