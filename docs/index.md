@@ -18,9 +18,13 @@ nav_order: 0
 
 
 ## App Idee
-GamingInsight ist eine Web-Plattform, die sich darauf konzentriert, transparente und vertrauenswürdige Einblicke in Unternehmen der Gaming-Industrie zu bieten. Ähnlich wie Kununu und Glassdoor ermöglicht GamingInsight es Benutzern, Informationen und Bewertungen über Arbeitgeber in der Gaming-Branche zu teilen und einzusehen. Unser Ziel ist es, eine Gemeinschaft von Spielentwicklern, Designern, Testern und anderen Fachleuten zu schaffen, die ihre Erfahrungen austauschen und anderen helfen können, fundierte Entscheidungen über potenzielle Arbeitgeber zu treffen. Unser Wertversprechen liegt in der Bereitstellung einer Plattform, die nicht nur Arbeitssuchenden bei der Suche nach ihrem nächsten Karriereschritt hilft, sondern auch bestehenden Mitarbeitern dabei unterstützt, ihre Arbeitsbedingungen zu bewerten und zu verbessern.
+
+GamingInsight ist eine Bewertungsplattform, die speziell für die Gaming-Industrie entwickelt wurde und darauf abzielt, die Transparenz am Arbeitsplatz zu erhöhen. Inspiriert von Plattformen wie Kununu und Glassdoor, ermöglicht es GamingInsight den Nutzern, Bewertungen über ihre Arbeitgeber zu veröffentlichen und einzusehen. Die Kernfunktionalität der Plattform, das Abgeben sowie Lesen von Bewertungen Über Unternehmen in der Gaming-Branche, ist entscheidend, um ein umfassendes Bild der Arbeitsbedingungen in verschiedenen Unternehmen der Branche zu zeichnen.
+Die Möglichkeit, Bewertungen abzugeben, bietet Nutzern eine Plattform, um ihre Erfahrungen in Bezug auf Arbeitsklima, Crunchzeiten, Technologische Equipments, Projektdynamik, Vergütung, Work-Life-Balance und Unternehmenskultur zu teilen. Dies fördert nicht nur eine Kultur der Offenheit und des Austauschs, sondern gibt auch potenziellen Arbeitnehmern wertvolle Einblicke, die ihnen helfen, informierte Entscheidungen über ihre Karrierepfade zu treffen.
+GamingInsight stärkt durch diese Bewertungsfunktion das Bewusstsein für die Arbeitsstandards in der Gaming-Branche und motiviert Unternehmen, positive Veränderungen anzustreben, um Talente anzuziehen und zu halten. Die Plattform dient somit als kritischer Punkt für Feedback und Entwicklung, der sowohl für Arbeitnehmer als auch für Arbeitgeber von Vorteil ist.
 
 ## Mission
+
 Unsere Mission ist es, die Arbeitskultur in der Gaming-Branche durch erhöhte Transparenz und Zugänglichkeit von Informationen zu verbessern. GamingInsight ermöglicht es Benutzern, Erfahrungen auszutauschen und wertvolle Einsichten über potenzielle Arbeitgeber zu gewinnen, wodurch ein besser informierter und engagierter Arbeitsmarkt entsteht.
 
 ## Team members
