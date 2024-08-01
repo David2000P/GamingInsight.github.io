@@ -4,10 +4,6 @@ parent: Team Evaluation
 nav_order: 4
 ---
 
-{: .label }
-[Jane Dane]
-
-{: .no_toc }
 # Summary of individual contributions
 
 <details open markdown="block">
@@ -17,16 +13,14 @@ nav_order: 4
 {: toc }
 </details>
 
-## [Jane Dane]
+## Ekber Pala
 
-Contributions
-: Lorem ipsum dolor
-: Consetetur sadipscing elitr
-: ...
+Contributions: Entwicklung und Wartung der Datenbanksysteme. Implementierung sicherer Datenzugriffs- und Speicherlösungen.
 
-## [Joe Doe]
+## David Pätzold
 
-Contributions
-: Diam nonumy eirmod
-: Tempor invidunt ut labore
-: ...
+Contributions: Gestaltung der gesamten Benutzeroberfläche und Nutzererfahrung. Führung des Design-Teams und Koordination der Design-Sprints. 
+
+## 	Sercan Sinanovic Polat
+
+Contributions: Entwicklung der Client-Side-Logik und Implementierung des responsiven Designs. Optimierung der Web Performance und Sicherstellung der Anwendungsstabilität.
