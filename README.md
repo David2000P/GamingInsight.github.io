@@ -29,7 +29,6 @@ Diese Arbeit wurde selbständig und eigenhändig erstellt. Die den benutzten Que
 - App Idee
 - Value Proposition
 - Beschreibung des Projektansatzes
-- Technologiestack
 - Designentscheidungen
 - User Evaluation
 - Team Evaluation
@@ -74,10 +73,9 @@ Um seine Ziele zu erreichen, sucht Lukas nach verlässlichen Informationen über
 **Umsetzung dieser Erkenntnisse in GamingInsight**
 Basierend auf die Bedürfnisse von Lukas haben wir GamingInsight so gestaltet, dass es spezifische Informationen über die Gaming-Branche bereitstellt. Unsere Plattform bietet tiefgehende Analysen von Unternehmenskulturen, detaillierte Bewertungen von Arbeitgebern und schlussendlich soll sich eine Community entwickeln, die aktiv Erfahrungen und Ratschläge teilt. Diese Features sind darauf ausgerichtet, Gaming Designern wie Lukas dabei zu helfen, wichtige Entscheidungen über ihre Karrierewege zu treffen.
 
-**Abschluss**
 Die Entwicklung dieser Persona war ein umfangreicher Prozess, der tiefgehende Recherchen und sorgfältige Analysen umfasste. Wir haben uns bemüht, die Herausforderungen und Bedürfnisse von Gaming Designern so realistisch und präzise wie möglich zu verstehen und unsere Plattform entsprechend anzupassen. Dies spiegelt sich in den maßgeschneiderten Lösungen und spezialisierten Informationen wider, die GamingInsight bietet, um die Karriere und das Wohlbefinden von Fachkräften in der Gaming-Branche aktiv zu unterstützen.
 
-### Customer Journey
+### Customer Journey SCREENFLOW
 
 Die Kundenreise auf GamingInsight beginnt mit der Registrierung und dem Einloggen in die App.
 Nach dem Login kann der Nutzer:
@@ -113,7 +111,61 @@ Wir haben regelmäßige Meetings abgehalten, um den Fortschritt zu überprüfen 
 Alle Teammitglieder haben gemeinsam an der Textbox- und Download-Funktionalität gearbeitet.
 
 
-# Technologiestack
+# Designentscheidungen
+
+
+Inhaltsverzeichnis
+Entwicklungsumgebung und Sprache
+Web-Framework
+Datenmanagement
+
+
+01: Entwicklungsumgebung und Sprache
+Meta
+Status: Decided
+Updated: 01-Aug-2024
+Problemstellung
+Welche Entwicklungsumgebung und Programmiersprache bieten die optimale Unterstützung für die schnelle Entwicklung und Wartung unserer Webanwendung?
+Entscheidung
+Wir entschieden uns für Visual Studio als Entwicklungsumgebung und Python als Programmiersprache, da beide Tools umfangreiche Unterstützung für schnelle Entwicklung und effiziente Fehlerbehebung bieten.
+Betrachtete Optionen
+JavaScript mit Node.js: Schnelle Ausführung und gut für Echtzeit-Anwendungen.
+Ruby on Rails: Schnelle Entwicklung mit vielen eingebauten Funktionen.
+Pro/Kontra:
+JavaScript mit Node.js: Pro: große Community, Kontra: asynchroner Programmierstil kann komplex sein.
+Ruby on Rails: Pro: "Convention over configuration" vereinfacht viele Aufgaben, Kontra: weniger Flexibilität im Vergleich zu Python.
+
+
+02: Web-Framework
+Meta
+Status: Decided
+Updated: 26-Jul-2024
+Problemstellung
+Welches Web-Framework unterstützt am besten unsere Anforderungen an Flexibilität und einfache Skalierbarkeit?
+Entscheidung
+Wir haben uns für das Flask-Framework entschieden, da es leichtgewichtig ist und uns die benötigte Flexibilität bietet, um spezifische Lösungen für unsere Anforderungen zu entwickeln.
+Betrachtete Optionen
+Django: Bietet ein umfangreicheres Framework.
+Express.js: Leichtgewichtig und flexibel in der JavaScript-Umgebung.
+Pro/Kontra:
+Django: Pro: viele eingebaute Features, Kontra: zu schwerfällig für unsere Bedürfnisse.
+Express.js: Pro: hohe Flexibilität, Kontra: erfordert tiefere JavaScript-Kenntnisse.
+
+
+03: Datenmanagement
+Meta
+Status: Decided
+Updated: 20-Jul-2024
+Problemstellung
+Wie sollen CRUD-Operationen (Create, Read, Update, Delete) in unserer Datenbank gehandhabt werden?
+Entscheidung
+Wir haben uns entschieden, SQLite mit einfachem SQL zu verwenden, um die Datenverwaltung direkt und ohne zusätzliche Abstraktionsschichten zu handhaben.
+Betrachtete Optionen
+Verwendung von SQLAlchemy: Bietet eine ORM-Schicht für Python-Anwendungen.
+Direkte Verwendung von SQL-Befehlen: Einfacher Zugang und Kontrolle über die Datenbank.
+Pro/Kontra:
+Verwendung von SQLAlchemy: Pro: abstrahiert Datenbankzugriffe und vereinfacht Code, Kontra: erfordert zusätzlichen Lernaufwand und Setup.
+Direkte Verwendung von SQL-Befehlen: Pro: vollständige Kontrolle und einfaches Setup, Kontra: kann bei komplexeren Datenstrukturen unübersichtlich werden.
 
 ## Backend
 
@@ -154,25 +206,7 @@ Grund der Wahl: HTML bildet das Grundgerüst jeder Webseite und ist grundlegend 
 
 Wie Sie aus der Abbildung entnehmen können haben wir 3 Tabellen Company,Review und User in der Datenbank mit Ihren jeweiligen Attributen. Die Beziehungen sehen folgendermaßen aus ein Unternehmen kann 0 oder mehrere Bewerungen haben aber eine Bewertung gehört immer zu einem Unternehmen. Ein User kann 0 oder mehrere Reviews abgeben aber eine Review ist immer von einem User geschrieben. Aufgrund dieser Beziehungen bekommt Review die schlüssel Attribute von Company und User.
 
-# Designentscheidungen
 
-** 01 Wie gestalten wir die Login- und Registrierungsfunktion?
-
-Problem: Es war unklar, wie die Login- und Registrierungsfunktionen umgesetzt werden sollen.
-
-Lösung: Jeder Benutzer muss bei der Registrierung einen eindeutigen Benutzernamen angeben. Außerdem muss er ein Passwort erstellen und dieses zur Bestätigung erneut eingeben. Eine E-Mail-Adresse wird ebenfalls benötigt, um das Passwort im Falle eines Vergessens zurücksetzen zu können. Wenn ein Feld falsch ausgefüllt wird, erhält der Benutzer eine Rückmeldung, wie beispielsweise "E-Mail-Feld leer". (Ist dies umsetzbar?)
-
-02 Wie gestalten wir die Unternehmen?
-
-Problem: Wir waren uns nicht sicher ob wir einfach die Unternehmen die es gibt einfach hinzufügen sollen in die Datenbank und ob ein Benutzer Unternehmen registrieren kann.
-
-Lösung: Es wurde beschlossen, bereits existierende Unternehmen selbst anzulegen. Eingeloggte Benutzer können neue Unternehmen registrieren, indem sie einen Namen festlegen und eine Beschreibung sowie den Link zur Unternehmenswebsite hinzufügen.
-
-03 Wie wird die Bewertung der Unternehmen geregelt?
-
-Problem: Die Handhabung der Unternehmensbewertungen ist unklar, insbesondere ob jeder Benutzer Bewertungen abgeben kann.
-
-Lösung: Alle Benutzer können Bewertungen einsehen, aber nur eingeloggte Benutzer können Bewertungen abgeben. Die Bewertungen sind in verschiedene Kategorien unterteilt.
 
 
 # User Evaluation
@@ -191,46 +225,52 @@ In unserem hypothetischen Szenario nahmen wir an, dass Benutzer die Plattform in
 Implications
 Aus dieser hypothetischen Bewertung haben wir die Einsicht gewonnen, dass, sollte die Plattform tatsächlich entwickelt werden, ein klares und einfaches Registrierungsverfahren von entscheidender Bedeutung sein wird. Wir empfehlen, dass zukünftige Versionen der Plattform Benutzerfreundlichkeitstests unterziehen, um die Benutzererfahrung zu optimieren, bevor sie live gehen.
 
-# Team-Evaluation für GamingInsight
+# Team-Evaluation
 
-# 1. Ziele
-
-## Projektziele
-Das Hauptziel des Projekts war die Entwicklung einer Plattform, die Transparenz und detaillierte Informationen über die Arbeitsbedingungen in der Gaming-Industrie bietet. Ziel war es, eine benutzerfreundliche, zuverlässige und informative Plattform zu schaffen, die es Benutzern ermöglicht, fundierte Entscheidungen zu treffen.
-
-## Teamziele
-
-**Effiziente Zusammenarbeit:** Das Team strebte an, eine offene Kommunikation und effiziente Arbeitsverteilung zu etablieren.
-**Technische Weiterentwicklung:** Jedes Teammitglied sollte seine technischen Fähigkeiten erweitern und neues Wissen in den Bereichen Webentwicklung und Datenbankmanagement erlangen.
-**Qualitätssicherung:** Hohe Qualität der Plattform durch regelmäßige Tests und Peer-Reviews sicherstellen.
-
-# 2. Verbesserungen
-
-Während des Projekts wurden kontinuierlich Verbesserungen in verschiedenen Bereichen vorgenommen:
-
-**User Interface:** Das Design wurde mehrmals überarbeitet, um die Benutzerfreundlichkeit zu erhöhen.
-**Performance-Optimierung:** Ladezeiten und Reaktionsfähigkeit der Plattform wurden durch effizienteren Code und bessere Server-Infrastruktur verbessert.
-**Sicherheitsmaßnahmen:** Die Sicherheit der Plattform wurde durch Einführung fortgeschrittener Authentifizierungs- und Verschlüsselungstechniken verstärkt.
-
-## 3. Peer Review
-
-Jedes Teammitglied wurde regelmäßig von den anderen Teammitgliedern bewertet, um eine konstruktive Rückmeldung zu geben:
-
-**Ekber Pala:** Großartig in der Koordination des Teams und im Projektmanagement. Sollte technische Fähigkeiten weiterentwickeln.
-**David Pätzold:** Ausgezeichnete Arbeit im Frontend-Bereich. Könnte seine Dokumentationsfähigkeiten verbessern.
-**Sercan Polat:** Sehr stark in der Backend-Entwicklung. Muss noch an seinen Frontend-Fähigkeiten arbeiten.
-
-## 4. Beiträge
-
-### Ekber Pala
-**Projektmanagement:** Überwachung der Projektfortschritte und Einhaltung der Zeitpläne.
-**Dokumentation:** Verantwortlich für die Erstellung der Projektdokumentation und Berichterstattung.
-
-### David Pätzold
-**Frontend-Entwicklung:** Design und Implementierung der Benutzeroberfläche.
-**User Experience:** Entwicklung von Benutzerführung und Interaktivität.
-**Dokumentation:** Verantwortlich für die Dokumentationsstruktur
-
-### Sercan Polat
-**Backend-Entwicklung:** Hauptverantwortlich für die Entwicklung des Server-Backends und die Datenbankintegration.
-**Testing:** Durchführung von Integrationstests.
+Team Evaluation für das Projekt "GamingInsight"
+1. Goals
+Erreichte Ziele:
+Entwicklung einer nutzerfreundlichen Plattform für Game Designer, die es ermöglicht, Bewertungen und Erfahrungen auszutauschen.
+Implementierung von Kernfunktionen wie Benutzerregistrierung, Login und Bewertungssystem.
+Verfehlte Ziele:
+Nicht implementiert wurde die erweiterte Suchfunktionalität für detailliertes Filtern von Unternehmen.
+Die Integration von maschinellem Lernen zur Analyse der Bewertungen wurde nicht realisiert.
+2. Improvement
+Verbesserungen für die Zukunft:
+Einführung früherer Prototyping- und Benutzertests, um das Nutzerfeedback schneller in den Entwicklungsprozess zu integrieren.
+Implementierung agilerer Projektmanagementmethoden, um besser auf Änderungen reagieren zu können.
+3. Peer Review
+[Ekber Pala] - Review 1
+My Observation (Wahrnehmung):
+Ekber hat durch sein tiefes Verständnis für Datenbankmanagement und seine proaktive Einstellung maßgeblich zur Stabilität der Backend-Systeme beigetragen.
+Effect on Me (Wirkung):
+Seine systematische Herangehensweise hat mich inspiriert, meine eigenen Fähigkeiten in der Datenverwaltung zu verbessern und mehr Verantwortung im technischen Bereich des Projekts zu übernehmen.
+Tip for the Future (Wunsch):
+Ich würde mir wünschen, dass Ekber in zukünftigen Projekten weiterhin als technischer Mentor fungiert und sein Wissen noch intensiver mit dem Team teilt.
+[David Pätzold] - Review 1
+My Observation (Wahrnehmung):
+David zeichnete sich durch sein außergewöhnliches Talent im Bereich UX/UI-Design aus, was maßgeblich zur ästhetischen und funktionalen Gestaltung der Plattform beigetragen hat.
+Effect on Me (Wirkung):
+Durch seine kreativen Impulse und das Engagement für Designexzellenz wurde ich motiviert, meine eigenen Designfähigkeiten zu schärfen und innovative Lösungen zu suchen.
+Tip for the Future (Wunsch):
+Es wäre wertvoll, wenn David seine Führungsrolle im Design weiter ausbauen und Workshops zum Thema User-Centered Design für das Team anbieten würde.
+[Sercan Sinanovic Pala] - Review 1
+My Observation (Wahrnehmung):
+Sercan hat durch seine umfassenden Kenntnisse in der Frontend-Entwicklung und seine Fähigkeit, komplexe Probleme zu lösen, entscheidend zum Projekterfolg beigetragen.
+Effect on Me (Wirkung):
+Seine methodische Herangehensweise und Detailgenauigkeit haben mir geholfen, strukturierter zu denken und meine technischen Fähigkeiten zu verfeinern.
+Tip for the Future (Wunsch):
+Ich hoffe, dass Sercan in Zukunft seine Rolle als Innovationsführer weiter ausbaut und das Team noch stärker in Entscheidungsprozesse einbindet.
+4. Contributions
+[Ekber Pala]
+Beiträge:
+Entwicklung und Wartung der Datenbanksysteme.
+Implementierung sicherer Datenzugriffs- und Speicherlösungen.
+[David Pätzold]
+Beiträge:
+Gestaltung der gesamten Benutzeroberfläche und Nutzererfahrung.
+Führung des Design-Teams und Koordination der Design-Sprints.
+[Sercan Sinanovic Pala]
+Beiträge:
+Entwicklung der Client-Side-Logik und Implementierung des responsiven Designs.
+Optimierung der Web Performance und Sicherstellung der Anwendungsstabilität.
