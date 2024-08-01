@@ -4,7 +4,13 @@ nav_order: 0
 ---
 # GamingInsight
 
-[Project description]
+<details open markdown="block">
+{: .text-delta }
+<summary>Table of contents</summary>
++ ToC
+{: toc }
+</details>
+
 
 ## App Idee
 GamingInsight ist eine Web-Plattform, die sich darauf konzentriert, transparente und vertrauenswürdige Einblicke in Unternehmen der Gaming-Industrie zu bieten. Ähnlich wie Kununu und Glassdoor ermöglicht GamingInsight es Benutzern, Informationen und Bewertungen über Arbeitgeber in der Gaming-Branche zu teilen und einzusehen. Unser Ziel ist es, eine Gemeinschaft von Spielentwicklern, Designern, Testern und anderen Fachleuten zu schaffen, die ihre Erfahrungen austauschen und anderen helfen können, fundierte Entscheidungen über potenzielle Arbeitgeber zu treffen. Unser Wertversprechen liegt in der Bereitstellung einer Plattform, die nicht nur Arbeitssuchenden bei der Suche nach ihrem nächsten Karriereschritt hilft, sondern auch bestehenden Mitarbeitern dabei unterstützt, ihre Arbeitsbedingungen zu bewerten und zu verbessern.
