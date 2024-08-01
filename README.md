@@ -112,7 +112,7 @@ Alle Teammitglieder haben gemeinsam an der Textbox- und Download-Funktionalität
 
 
 # Designentscheidungen
-
+ 
 
 Inhaltsverzeichnis
 Entwicklungsumgebung und Sprache
