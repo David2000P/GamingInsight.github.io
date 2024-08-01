@@ -5,7 +5,7 @@ mermaid:
 callouts:
   tip:
     title: 🤍 Tip
-    color: blue
+    color: purple
   info:
     title: ℹ️ Info
     color: green
