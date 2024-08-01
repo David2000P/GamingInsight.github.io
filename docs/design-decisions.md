@@ -6,7 +6,6 @@ nav_order: 3
 
 
 {: .no_toc }
-
 # Design decisions
 
 <details open markdown="block">
