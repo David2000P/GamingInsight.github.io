@@ -7,9 +7,7 @@ nav_order: 3
 
 {: .no_toc }
 # Peer review
-Jedes Teammitglied wurde regelmäßig von den anderen Teammitgliedern bewertet, um eine konstruktive Rückmeldung zu geben:
 
-Ekber Pala: Großartig in der Koordination des Teams und im Projektmanagement. Sollte technische Fähigkeiten weiterentwickeln. David Pätzold: Ausgezeichnete Arbeit im Frontend-Bereich. Könnte seine Dokumentationsfähigkeiten verbessern. Sercan Polat: Sehr stark in der Backend-Entwicklung. Muss noch an seinen Frontend-Fähigkeiten arbeiten.
 ## Ekber Pala - review 
 
 ### My observation (Wahrnehmung)
