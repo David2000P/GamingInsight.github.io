@@ -2,7 +2,11 @@
 title: GamingInsight
 nav_order: 0
 ---
+
+
 {: .no_toc }
+
+
 # GamingInsight
 
 <details open markdown="block">
