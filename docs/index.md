@@ -1,4 +1,7 @@
-
+---
+title: GamingInsight
+nav_order: 0
+---
 # GamingInsight
 
 [Project description]
