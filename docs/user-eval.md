@@ -25,27 +25,35 @@ Updated: 31-Jul-2024
 ## 01: Registrierungsprozess
 
 **Goals**
+
 Unser Hauptziel bei der Gestaltung des Registrierungsprozesses war es, eine einfache und sichere Methode zu entwickeln, mit der neue Benutzer effizient und ohne unnötige Komplikationen ein Konto erstellen können. Angesichts der Bedeutung des ersten Eindrucks wollten wir sicherstellen, dass dieser Prozess nicht nur technisch einwandfrei funktioniert, sondern auch die Nutzer durch seine Benutzerfreundlichkeit überzeugt. Der Prozess sollte schnell und reibungslos verlaufen, um eine hohe Konversionsrate von Besuchern zu registrierten Nutzern zu gewährleisten und gleichzeitig hohe Sicherheitsstandards zu erfüllen, um die Vertrauenswürdigkeit der Plattform zu stärken.
 
 **Method**
+
 Die Methode umfasste die Entwicklung mehrerer Prototypen des Registrierungsprozesses, die in einer kontrollierten Testumgebung evaluiert wurden. Wir setzten auf die Methodik des iterativen Designs, bei dem Feedbackschleifen integriert sind, um den Prozess kontinuierlich zu verbessern. Dazu gehörten sowohl technische Tests zur Überprüfung der Sicherheitsaspekte als auch Usability-Tests, um die Benutzerfreundlichkeit zu evaluieren. Diese Tests wurden durch simulierte Nutzungsszenarien unterstützt, in denen verschiedene Altersgruppen und Nutzertypen durch den Prozess geführt wurden, um ein breites Spektrum an Benutzererfahrungen zu sammeln.
 
 **Results**
+
 Die Ergebnisse aus den internen Tests zeigten, dass ein mehrstufiger Registrierungsprozess mit klaren Anweisungen und Feedback am effektivsten ist. Nutzer bevorzugten eindeutige, kurze Formulare mit visuellen Indikatoren für den Fortschritt. Ebenso wurde deutlich, dass eine zu hohe Anzahl an Pflichtfeldern die Abbruchrate erhöht. Die Integration von Sicherheitsfeatures wie Captcha und Zwei-Faktor-Authentifizierung wurde positiv aufgenommen, sofern diese nicht als aufdringlich empfunden wurden.
 
 **Implications**
+
 Basierend auf diesen Ergebnissen haben wir entschieden, den Registrierungsprozess mit einer minimalen Anzahl an Pflichtfeldern und optionalen Zusatzinformationen zu implementieren, um den Prozess schneller und benutzerfreundlicher zu gestalten. Weiterhin werden wir regelmäßige Updates und Sicherheitsüberprüfungen einplanen, um die Integrität der Plattform zu gewährleisten. Zukünftige Überarbeitungen werden auch adaptive Sicherheitsmaßnahmen berücksichtigen, die basierend auf dem Nutzerverhalten und externen Bedrohungen angepasst werden können.
 
 ## 02: Nutzung der Bewertungsfunktion
 
 **Goals**
+
 Das Ziel für die Bewertungsfunktion war es, eine intuitive und ansprechende Schnittstelle zu schaffen, die es den Nutzern ermöglicht, schnell und einfach Feedback zu Spielen und Dienstleistungen abzugeben. Wir wollten sicherstellen, dass diese Funktion reichhaltiges, nuanciertes Feedback fördert, das sowohl für andere Nutzer als auch für Entwickler von Wert ist.
 
 **Method**
+
 Für die Evaluation der Bewertungsfunktion implementierten wir ein Prototypen-Testing, bei dem verschiedene Bewertungssysteme ausprobiert wurden, einschließlich Sternebewertungen, numerischer Skalen und Textbewertungen. Wir führten Gruppeninterviews mit typischen Nutzern durch, um zu verstehen, welche Arten von Feedback sie am nützlichsten finden und welche Anreize sie motivieren würden, Bewertungen abzugeben.
 
 **Results**
+
 Die Testergebnisse zeigten eine klare Präferenz für eine Kombination aus numerischen Skalen und textbasierten Bewertungen, da diese den Nutzern die Flexibilität bieten, präzise und detaillierte Rückmeldungen zu geben. Nutzer schätzten auch die Möglichkeit, Feedback anonym oder unter einem Pseudonym zu veröffentlichen, was die Beteiligungsrate erhöhte.
 
 **Implications**
+
 Aufgrund dieser Erkenntnisse haben wir beschlossen, ein hybrides Bewertungssystem zu implementieren, das sowohl quantitative als auch qualitative Feedbackelemente enthält. Weiterhin planen wir, regelmäßige Anpassungen und Verbesserungen basierend auf weiterem Nutzerfeedback und technologischen Entwicklungen durchzuführen, um die Nutzererfahrung kontinuierlich zu verbessern und das Engagement zu steigern.
