@@ -5,6 +5,8 @@ nav_order: 1
 
 
 {: .no_toc }
+
+
 # Value proposition
 
 <details open markdown="block">
