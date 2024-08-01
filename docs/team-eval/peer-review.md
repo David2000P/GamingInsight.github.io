@@ -10,44 +10,42 @@ nav_order: 3
 Jedes Teammitglied wurde regelmäßig von den anderen Teammitgliedern bewertet, um eine konstruktive Rückmeldung zu geben:
 
 Ekber Pala: Großartig in der Koordination des Teams und im Projektmanagement. Sollte technische Fähigkeiten weiterentwickeln. David Pätzold: Ausgezeichnete Arbeit im Frontend-Bereich. Könnte seine Dokumentationsfähigkeiten verbessern. Sercan Polat: Sehr stark in der Backend-Entwicklung. Muss noch an seinen Frontend-Fähigkeiten arbeiten.
-## Ekber Pala - review 1
+## Ekber Pala - review 
 
 ### My observation (Wahrnehmung)
 
-Wir haben als Teammitglied sehr gut zusammen funktioniert. Dabei haben wir uns heufig Discord getroffen und zusammengearbeitet. [A specific observation, regarding know-how, effectiveness, team work or from another relevant area]
+Ekber hat durch sein tiefes Verständnis für Datenbankmanagement und seine proaktive Einstellung maßgeblich zur Stabilität der Backend-Systeme beigetragen.
 
 ### Effect on me (Wirkung)
 
-So die meine Planung und Kordination der Gruppe deutlich einfacher und unkompliziert [What positive or negative effect did this observation have on the reviewer?]
-
+Seine systematische Herangehensweise hat mich inspiriert, meine eigenen Fähigkeiten in der Datenverwaltung zu verbessern und mehr Verantwortung im technischen Bereich des Projekts zu übernehmen.
 ### Tip for the future (Wunsch)
-Wir hätten uns noch öfter treffen sollen vorallem am Anfang sodass es am Ende hinaus nicht so knapp alles Erledigen müssen.
-[What should be changed or strengthened for the point of view of the reviewer?]
+Ich würde mir wünschen, dass Ekber in zukünftigen Projekten weiterhin als technischer Mentor fungiert und sein Wissen noch intensiver mit dem Team teilt.
 
-## David Pätzold - review 1
+## David Pätzold - review 
 
 ### My observation (Wahrnehmung)
 
-[A specific observation, regarding know-how, effectiveness, team work or from another relevant area]
+David zeichnete sich durch sein außergewöhnliches Talent im Bereich UX/UI-Design aus, was maßgeblich zur ästhetischen und funktionalen Gestaltung der Plattform beigetragen hat.
 
 ### Effect on me (Wirkung)
 
-[What positive or negative effect did this observation have on the reviewer?]
+Durch seine kreativen Impulse und das Engagement für Designexzellenz wurde ich motiviert, meine eigenen Designfähigkeiten zu schärfen und innovative Lösungen zu suchen.
 
 ### Tip for the future (Wunsch)
 
-[What should be changed or strengthened for the point of view of the reviewer?]
+Es wäre wertvoll, wenn David seine Führungsrolle im Design weiter ausbauen und Workshops zum Thema User-Centered Design für das Team anbieten würde.
 
-## Ekber Pala - review 1
+## 	Sercan Sinanovic Polat - review 
 
 ### My observation (Wahrnehmung)
 
- [A specific observation, regarding know-how, effectiveness, team work or from another relevant area]
+Sercan hat durch seine umfassenden Kenntnisse in der Frontend-Entwicklung und seine Fähigkeit, komplexe Probleme zu lösen, entscheidend zum Projekterfolg beigetragen. 
 
 ### Effect on me (Wirkung)
 
- [What positive or negative effect did this observation have on the reviewer?]
+Seine methodische Herangehensweise und Detailgenauigkeit haben mir geholfen, strukturierter zu denken und meine technischen Fähigkeiten zu verfeinern. 
 
 ### Tip for the future (Wunsch)
 
-[What should be changed or strengthened for the point of view of the reviewer?]
+Ich hoffe, dass Sercan in Zukunft seine Rolle als Innovationsführer weiter ausbaut und das Team noch stärker in Entscheidungsprozesse einbindet.
