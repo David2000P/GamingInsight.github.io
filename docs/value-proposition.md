@@ -26,7 +26,7 @@ GamingInsight bietet eine Plattform, die es Nutzern ermöglicht, detaillierte Be
 
 ## Target user
 
-Nach intensivem Austausch mit Ihnen haben wir die Zielgruppe für unser Projekt "GamingInsight" noch spezifischer definiert, um eine präzisere Ansprache und genauere Abstimmung der Projektinhalte auf die Bedürfnisse unserer Nutzer zu gewährleisten. Dieser Prozess des "Hard Scopings" ermöglichte es uns, tiefergehende und maßgeschneiderte Lösungen für die identifizierten Herausforderungen und Anforderungen innerhalb der Gaming-Branche zu entwickeln. Um auf die Zielgruppe genauer einzugehen, haben wir uns für die Persona Identifikationsmethode entschieden. Anbei unsere Persona.
+Nach intensivem Austausch mit Ihnen haben wir die Zielgruppe für unser Projekt GamingInsight noch spezifischer definiert, um eine präzisere Ansprache und genauere Abstimmung der Projektinhalte auf die Bedürfnisse unserer Nutzer zu gewährleisten. Dieser Prozess des Hard Scopings ermöglichte es uns, tiefergehende und maßgeschneiderte Lösungen für die identifizierten Herausforderungen und Anforderungen innerhalb der Gaming-Branche zu entwickeln. Um auf die Zielgruppe genauer einzugehen, haben wir uns für die Persona Identifikationsmethode entschieden. Anbei unsere Persona.
 
 ## Persona
 
@@ -46,4 +46,12 @@ Die Entwicklung dieser Persona war ein umfangreicher Prozess, der tiefgehende Re
 
 ## Customer journey
 
-Die Kundenreise auf GamingInsight beginnt mit der Registrierung und dem Einloggen in die App. Nach dem Login kann der Nutzer: Unternehmensbewertungen durchsuchen: Benutzer können nach spezifischen Unternehmen suchen und deren Bewertungen lesen. Bewertung abgeben: Nutzer können ihre Erfahrungen teilen, indem sie eine Bewertung über ihren aktuellen oder ehemaligen Arbeitgeber schreiben. Interaktion mit der Community(Backlog): Nutzer können Fragen stellen oder Diskussionen in einem speziell dafür vorgesehenen Forum starten. Jobangebote einsehen(Backlog): Nutzer können aktuelle Stellenausschreibungen einsehen, die von Unternehmen auf unserer Plattform gepostet werden.
+Die Kundenreise auf GamingInsight beginnt mit der Registrierung und dem Einloggen in die App.
+
+**Nach dem Login kann der Nutzer:** Unternehmensbewertungen durchsuchen: Benutzer können nach spezifischen Unternehmen suchen und deren Bewertungen lesen.
+
+**Bewertung abgeben:** Nutzer können ihre Erfahrungen teilen, indem sie eine Bewertung über ihren aktuellen oder ehemaligen Arbeitgeber schreiben. 
+
+**Interaktion mit der Community(Backlog):** Nutzer können Fragen stellen oder Diskussionen in einem speziell dafür vorgesehenen Forum starten.
+
+**Jobangebote einsehen(Backlog):** Nutzer können aktuelle Stellenausschreibungen einsehen, die von Unternehmen auf unserer Plattform gepostet werden.
