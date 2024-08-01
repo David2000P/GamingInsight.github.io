@@ -26,7 +26,7 @@ GamingInsight bietet eine Plattform, die es Nutzern ermöglicht, detaillierte Be
 
 ## Target user
 
-Nach intensivem Austausch mit Ihnen haben wir die Zielgruppe für unser Projekt "GamingInsight" noch spezifischer definiert, um eine präzisere Ansprache und genauere Abstimmung der Projektinhalte auf die Bedürfnisse unserer Nutzer zu gewährleisten. Dieser Prozess des "Hard Scopings" ermöglichte es uns, tiefergehende und maßgeschneiderte Lösungen für die identifizierten Herausforderungen und Anforderungen innerhalb der Gaming-Branche zu entwickeln. Um auf die Zielgruppe genauer einzugehen, haben wir
+Nach intensivem Austausch mit Ihnen haben wir die Zielgruppe für unser Projekt "GamingInsight" noch spezifischer definiert, um eine präzisere Ansprache und genauere Abstimmung der Projektinhalte auf die Bedürfnisse unserer Nutzer zu gewährleisten. Dieser Prozess des "Hard Scopings" ermöglichte es uns, tiefergehende und maßgeschneiderte Lösungen für die identifizierten Herausforderungen und Anforderungen innerhalb der Gaming-Branche zu entwickeln. Um auf die Zielgruppe genauer einzugehen, haben wir uns für die Persona Identifikationsmethode entschieden. Anbei unsere Persona.
 
 ## Persona
 
