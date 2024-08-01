@@ -18,70 +18,67 @@ nav_order: 3
 
 ## 01: [Title]
 
-### Meta
 
-Status
-: **Work in progress** - Decided - Obsolete
+## 01: [Entwicklungsumgebung und Sprache]
+Meta
+Status: Decided
+Updated: 01-Aug-2024
 
-Updated
-: DD-MMM-YYYY
+**Problemstellung**
+Welche Entwicklungsumgebung und Programmiersprache bieten die optimale Unterstützung für die schnelle Entwicklung und Wartung unserer Webanwendung?
 
-### Problem statement
+**Entscheidung**
+Wir entschieden uns für Visual Studio als Entwicklungsumgebung und Python als Programmiersprache, da beide Tools umfangreiche Unterstützung für schnelle Entwicklung und effiziente Fehlerbehebung bieten.
 
-[Describe the problem to be solved or the goal to be achieved. Include relevant context information.]
+**Betrachtete Optionen**
+JavaScript mit Node.js: Schnelle Ausführung und gut für Echtzeit-Anwendungen.
+Ruby on Rails: Schnelle Entwicklung mit vielen eingebauten Funktionen.
 
-### Decision
-
-[Describe **which** design decision was taken for **what reason** and by **whom**.]
-
-### Regarded options
-
-[Describe any possible design decision that will solve the problem. Assess these options, e.g., via a simple pro/con list.]
-
----
-
-## [Example, delete this section] 01: How to access the database - SQL or SQLAlchemy 
-
-### Meta
-
-Status
-: Work in progress - **Decided** - Obsolete
-
-Updated
-: 30-Jun-2024
-
-### Problem statement
-
-Should we perform database CRUD (create, read, update, delete) operations by writing plain SQL or by using SQLAlchemy as object-relational mapper?
-
-Our web application is written in Python with Flask and connects to an SQLite database. To complete the current project, this setup is sufficient.
-
-We intend to scale up the application later on, since we see substantial business value in it.
+**Pro/Kontra:**
+JavaScript mit Node.js: Pro: große Community, Kontra: asynchroner Programmierstil kann komplex sein.
+Ruby on Rails: Pro: "Convention over configuration" vereinfacht viele Aufgaben, Kontra: weniger Flexibilität im Vergleich zu Python.
 
 
+## 02: [Web-Framework]
+Meta
+Status: Decided
+Updated: 26-Jul-2024
 
-Therefore, we will likely:
-Therefore, we will likely:
-Therefore, we will likely:
+**Problemstellung**
+Welches Web-Framework unterstützt am besten unsere Anforderungen an Flexibilität und einfache Skalierbarkeit?
 
-+ Change the database schema multiple times along the way, and
-+ Switch to a more capable database system at some point.
+**Entscheidung**
+Wir haben uns für das Flask-Framework entschieden, da es leichtgewichtig ist und uns die benötigte Flexibilität bietet, um spezifische Lösungen für unsere Anforderungen zu entwickeln.
 
-### Decision
+**Betrachtete Optionen**
+Django: Bietet ein umfangreicheres Framework.
+Express.js: Leichtgewichtig und flexibel in der JavaScript-Umgebung.
 
-We stick with plain SQL.
+**Pro/Kontra:**
+Django: Pro: viele eingebaute Features, Kontra: zu schwerfällig für unsere Bedürfnisse.
+Express.js: Pro: hohe Flexibilität, Kontra: erfordert tiefere JavaScript-Kenntnisse.
 
-Our team still has to come to grips with various technologies new to us, like Python and CSS. Adding another element to our stack will slow us down at the moment.
 
-Also, it is likely we will completely re-write the app after MVP validation. This will create the opportunity to revise tech choices in roughly 4-6 months from now.
-*Decision was taken by:* github.com/joe, github.com/jane, github.com/maxi
+## 03: [Datenmanagement]
+Meta
+Status: Decided
+Updated: 20-Jul-2024
 
-### Regarded options
+**Problemstellung**
+Wie sollen CRUD-Operationen (Create, Read, Update, Delete) in unserer Datenbank gehandhabt werden?
 
-We regarded two alternative options:
+**Entscheidung**
+Wir haben uns entschieden, SQLite mit einfachem SQL zu verwenden, um die Datenverwaltung direkt und ohne zusätzliche Abstraktionsschichten zu handhaben.
 
-+ Plain SQL
-+ SQLAlchemy
+**Betrachtete Optionen**
+Verwendung von SQLAlchemy: Bietet eine ORM-Schicht für Python-Anwendungen.
+Direkte Verwendung von SQL-Befehlen: Einfacher Zugang und Kontrolle über die Datenbank.
+
+**Pro/Kontra:**
+Verwendung von SQLAlchemy: Pro: abstrahiert Datenbankzugriffe und vereinfacht Code, Kontra: erfordert zusätzlichen Lernaufwand und Setup.
+Direkte Verwendung von SQL-Befehlen: Pro: vollständige Kontrolle und einfaches Setup, Kontra: kann bei komplexeren Datenstrukturen unübersichtlich werden.
+
+
 
 | Criterion | Plain SQL | SQLAlchemy |
 | --- | --- | --- |
@@ -89,4 +86,3 @@ We regarded two alternative options:
 | **Change DB schema** | ❌ SQL scattered across code | ❔ Good: classes, bad: need Alembic on top |
 | **Switch DB engine** | ❌ Different SQL dialect | ✔️ Abstracts away DB engine |
 
----
