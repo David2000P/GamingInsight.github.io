@@ -8,5 +8,4 @@ nav_order: 2
 {: .no_toc }
 # Improvements
 
-Während des Projekts wurden kontinuierlich Verbesserungen in verschiedenen Bereichen vorgenommen:
-User Interface: Das Design wurde mehrmals überarbeitet, um die Benutzerfreundlichkeit zu erhöhen. Performance-Optimierung: Ladezeiten und Reaktionsfähigkeit der Plattform wurden durch effizienteren Code und bessere Server-Infrastruktur verbessert. Sicherheitsmaßnahmen: Die Sicherheit der Plattform wurde durch Einführung fortgeschrittener Authentifizierungs- und Verschlüsselungstechniken verstärkt.
+Verbesserungen für die Zukunft: Einführung früherer Prototyping- und Benutzertests, um das Nutzerfeedback schneller in den Entwicklungsprozess zu integrieren. Implementierung agilerer Projektmanagementmethoden, um besser auf Änderungen reagieren zu können.
