@@ -7,6 +7,12 @@ nav_order: 3
 
 {: .no_toc }
 # Peer review
+<details open markdown="block">
+{: .text-delta }
+<summary>Table of contents</summary>
++ ToC
+{: toc }
+</details>
 
 ## Ekber Pala - review 
 
