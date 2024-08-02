@@ -11,7 +11,7 @@ nav_order: 1
 {: toc }
 </details>
 
-# Backend-Architektur
+# Backend
 
 ## Flask:
 
@@ -29,6 +29,8 @@ Die Integration von Flask-SQLAlchemy in unser Projekt vereinfacht den Umgang mit
 
 Für die Benutzerverwaltung innerhalb unserer Anwendung nutzen wir Flask-Login. Diese Wahl wurde getroffen, weil es eine einfache Implementierung von Authentifizierungsmechanismen bietet, die für die Sicherheit unserer Plattform entscheidend ist. Flask-Login unterstützt das Management von Benutzersitzungen und erleichtert so die Erstellung einer sicheren und benutzerfreundlichen Anwendung.
 Frontend-Architektur
+
+# Frontend
 
 ## Jinja2:
 
