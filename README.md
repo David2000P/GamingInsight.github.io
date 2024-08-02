@@ -1,7 +1,7 @@
 # Projekt GamingInsight
 
 ## Steps to execute the app
-Step 1: set up and activate a Python Virtual Environment.
+Step 1: set up and activate a Python Virtual Environment. Gehen Sie rechts danach auf Code danach auf kopiere den Link vom Reposity dann öffnen Sie Visual Studio und gehen Sie auf Clone Git Reposity und fügen Sie den kopierten Link ein.
 
 Step 2: install the required Python packages from the terminal with the command pip install -r requirements.txt:
 
