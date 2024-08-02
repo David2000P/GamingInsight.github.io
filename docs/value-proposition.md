@@ -54,7 +54,7 @@ Nach der Registrierung folgt der Login-Prozess. Nutzer, die bereits registriert 
 
 **3. Startseite**
 
-Einmal eingeloggt, gelangen die Nutzer auf die Startseite. Diese ist das zentrale Dashboard von GamingInsight, von wo aus Nutzer alle wichtigen Funktionen erreichen können. Die Startseite bietet eine Übersicht über aktuelle Bewertungen, Top-Unternehmen und eventuelle Benachrichtigungen. Die intuitive Gestaltung der Startseite ist darauf ausgelegt, Nutzern einen schnellen Zugriff auf alle wichtigen Funktionen zu ermöglichen, was die Benutzererfahrung verbessert.
+Einmal eingeloggt, gelangen die Nutzer auf die Startseite. Diese ist das zentrale Dashboard von GamingInsight, von wo aus Nutzer alle wichtigen Funktionen erreichen können. Die Startseite bietet eine Übersicht über aktuelle Bewertungen. Die einfache Gestaltung der Startseite ist darauf ausgelegt, Nutzern einen schnellen Zugriff auf alle wichtigen Funktionen zu ermöglichen, was die Benutzererfahrung verbessert.
 
 **4. Unternehmen anlegen oder suchen**
 
