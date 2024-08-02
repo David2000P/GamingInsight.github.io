@@ -5,6 +5,12 @@ nav_order: 99
 
 # UI components
  
+<details open markdown="block">
+{: .text-delta }
+<summary>Table of contents</summary>
++ ToC
+{: toc }
+</details>
 
 ## Home-Screen im ausgeloggten Zustand
 
