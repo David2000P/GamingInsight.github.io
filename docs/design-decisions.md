@@ -22,38 +22,52 @@ Status: Decided
 Updated: 01-Aug-2024
 
 **Problemstellung**
+
 Welche Entwicklungsumgebung und Programmiersprache bieten die optimale Unterstützung für die schnelle Entwicklung und Wartung unserer Webanwendung?
 
 **Entscheidung**
+
 Wir entschieden uns für Visual Studio als Entwicklungsumgebung und Python als Programmiersprache, da beide Tools umfangreiche Unterstützung für schnelle Entwicklung und effiziente Fehlerbehebung bieten. Außerdem war es im Kurs auch vorgegeben.
 
 **Mögliche Optionen**
+
 JavaScript mit Node.js: 
+
 Schnelle Ausführung und gut für Echtzeit-Anwendungen.
+
 Ruby on Rails: 
+
 Schnelle Entwicklung mit vielen eingebauten Funktionen.
 
 **Pro/Kontra:**
+
 JavaScript mit Node.js: 
 
 Pro: große Community
 
 Kontra: asynchroner Programmierstil kann komplex sein.
-Ruby on Rails: Pro: "Convention over configuration" vereinfacht viele Aufgaben, Kontra: weniger Flexibilität im Vergleich zu Python.
+
+Ruby on Rails:
+
+Pro: "Convention over configuration" vereinfacht viele Aufgaben, Kontra: weniger Flexibilität im Vergleich zu Python.
 
 
 ## 02: Web-Framework
+
 Meta
 Status: Decided
 Updated: 26-Jul-2024
 
 **Problemstellung**
+
 Welches Web-Framework unterstützt am besten unsere Anforderungen an Flexibilität und einfache Skalierbarkeit?
 
 **Entscheidung**
+
 Wir haben uns für das Flask-Framework entschieden, da es leichtgewichtig ist und uns die benötigte Flexibilität bietet, um spezifische Lösungen für unsere Anforderungen zu entwickeln.
 
 **Betrachtete Optionen**
+
 Django: Bietet ein umfangreicheres Framework.
 Express.js: Leichtgewichtig und flexibel in der JavaScript-Umgebung.
 
@@ -78,9 +92,11 @@ Status: Decided
 Updated: 20-Jul-2024
 
 **Problemstellung**
+
 Wie sollen CRUD-Operationen (Create, Read, Update, Delete) in unserer Datenbank gehandhabt werden?
 
 **Entscheidung**
+
 Wir haben uns entschieden, SQLite mit einfachem SQL zu verwenden, um die Datenverwaltung direkt und ohne zusätzliche Abstraktionsschichten zu handhaben.
 
 **Betrachtete Optionen**
