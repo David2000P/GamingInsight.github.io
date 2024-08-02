@@ -10,76 +10,62 @@ nav_order: 3
 {: .no_toc }
 # Reference documentation
 
-{: .attention }
-> This page collects internal functions, routes with their functions, and APIs (if any).
-> 
-> See [Uber](https://developer.uber.com/docs/drivers/references/api) or [PayPal](https://developer.paypal.com/api/rest/) for exemplary high-quality API reference documentation.
->
-> You may delete this `attention` box.
+# Reference Documentation
 
-<details open markdown="block">
-{: .text-delta }
-<summary>Table of contents</summary>
-+ ToC
-{: toc }
-</details>
+## Inhaltsverzeichnis
+- [Benutzerregistrierung](#benutzerregistrierung)
+- [Bewertungen verwalten](#bewertungen-verwalten)
+- [Benachrichtigungen](#benachrichtigungen)
 
-## [Section / module]
+### Benutzerregistrierung
+`register_user()`
+**Route:** /register/
 
-### `function_definition()`
+**Methods:** POST
 
-**Route:** `/route/`
+**Purpose:** Registriert einen neuen Benutzer auf der Plattform. Sammelt Benutzerdaten wie E-Mail, Benutzername und Passwort und speichert sie sicher in der Datenbank.
 
-**Methods:** `POST` `GET` `PATCH` `PUT` `DELETE`
+**Sample Output:**
 
-**Purpose:** [Short explanation of what the function does and why]
+Wenn erfolgreich: `{"status": "success", "message": "User registered successfully."}`
 
-**Sample output:**
+Wenn fehlerhaft: `{"status": "error", "message": "Registration failed. Please try again."}`
 
-[Show an image, string output, or similar illustration -- or write NONE if function generates no output]
+### Bewertungen verwalten
+`post_review()`
+**Route:** /reviews/
 
----
+**Methods:** POST
 
-## [Example, delete this section] Show to-do lists
+**Purpose:** Ermöglicht es Benutzern, eine Bewertung für ein Unternehmen abzugeben. Nimmt Benutzer-Feedback und Bewertungsdetails entgegen und speichert diese in der Datenbank.
 
-### `get_lists()`
+**Sample Output:**
 
-**Route:** `/lists/`
+Wenn erfolgreich: `{"status": "success", "message": "Review posted successfully."}`
 
-**Methods:** `GET`
+Wenn fehlerhaft: `{"status": "error", "message": "Failed to post review. Please try again."}`
 
-**Purpose:** Show all to-do lists.
+`get_reviews(company_id)`
+**Route:** /reviews/<int:company_id>
 
-**Sample output:**
+**Methods:** GET
 
-![get_lists() sample](../assets/images/fswd-intro_00.png)
+**Purpose:** Ruft alle Bewertungen für ein spezifisches Unternehmen ab. Nützlich für Nutzer, die Bewertungen zu einem bestimmten Unternehmen sehen möchten.
 
----
+**Sample Output:**
 
-### `get_list_todos(list_id)`
+Liste von Bewertungen: `{"reviews": [{"rating": 4, "comment": "Great work environment."}, {"rating": 5, "comment": "Excellent management."}]}`
 
-**Route:** `/lists/<int:list_id>`
+### Benachrichtigungen
+`send_notification()`
+**Route:** /notify/
 
-**Methods:** `GET`
+**Methods:** POST
 
-**Purpose:** Retrieve all to-do items of to-do list with ID `list_id` from database and present to user.
+**Purpose:** Sendet Benachrichtigungen an Benutzer, z.B. wenn eine neue Bewertung gepostet wird oder wenn eine wichtige Information verfügbar ist.
 
-**Sample output:**
+**Sample Output:**
 
-![get_list_todos() sample](../assets/images/fswd-intro_02.png)
+Wenn erfolgreich: `{"status": "success", "message": "Notification sent."}`
 
----
-
-## [Example, delete this section] Insert sample data
-
-### `run_insert_sample()`
-
-**Route:** `/insert/sample`
-
-**Methods:** `GET`
-
-**Purpose:** Flush the database and insert sample data set
-
-**Sample output:**
-
-Browser shows: `Database flushed and populated with some sample data.`
+Wenn fehlerhaft: `{"status": "error", "message": "Failed to send notification."}`
