@@ -25,9 +25,9 @@ Updated: 01-Aug-2024
 Welche Entwicklungsumgebung und Programmiersprache bieten die optimale Unterstützung für die schnelle Entwicklung und Wartung unserer Webanwendung?
 
 **Entscheidung**
-Wir entschieden uns für Visual Studio als Entwicklungsumgebung und Python als Programmiersprache, da beide Tools umfangreiche Unterstützung für schnelle Entwicklung und effiziente Fehlerbehebung bieten.
+Wir entschieden uns für Visual Studio als Entwicklungsumgebung und Python als Programmiersprache, da beide Tools umfangreiche Unterstützung für schnelle Entwicklung und effiziente Fehlerbehebung bieten. Außerdem war es im Kurs auch vorgegeben.
 
-**Betrachtete Optionen**
+**Mögliche Optionen**
 JavaScript mit Node.js: Schnelle Ausführung und gut für Echtzeit-Anwendungen.
 Ruby on Rails: Schnelle Entwicklung mit vielen eingebauten Funktionen.
 
