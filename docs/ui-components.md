@@ -2,7 +2,7 @@
 title: UI Components
 nav_order: 99
 ---
-
+{: .no_toc }
 # UI components
  
 <details open markdown="block">
