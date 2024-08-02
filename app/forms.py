@@ -69,3 +69,7 @@ class ReviewForm(FlaskForm):
     rating = SelectField('Bewertung', choices=[('1', '1'), ('2', '2'), ('3', '3'), ('4', '4'), ('5', '5')], validators=[DataRequired()])
     comments = TextAreaField('Kommentare', validators=[DataRequired()])
     submit = SubmitField('Bewertung absenden')
+<<<<<<< HEAD
+=======
+
+>>>>>>> 420431ae78fdf88e531a23fcdc38dd01a64d03b9

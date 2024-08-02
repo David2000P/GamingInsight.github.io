@@ -47,20 +47,35 @@ Die Entwicklung dieser Persona war ein umfangreicher Prozess, der tiefgehende Re
 
 **1. Registrieren**
 
-Der erste Schritt in der Customer Journey ist die Registrierung. Neue Nutzer besuchen die Plattform und werden durch einen einfachen und sicheren Registrierungsprozess geführt. Dabei werden nur grundlegende Informationen wie E-Mail-Adresse, Benutzername und Passwort benötigt. Dieser Schritt ist entscheidend, um sicherzustellen, dass der Nutzer sich wohl fühlt und Vertrauen in die Plattform gewinnt. Die Registrierung ist so gestaltet, dass sie schnell und unkompliziert ist, um eine hohe Konversionsrate von Besuchern zu registrierten Nutzern zu fördern.
+Der erste Schritt in der Customer Journey ist die Registrierung. Neue Nutzer besuchen die Plattform und werden durch einen einfachen und sicheren Registrierungsprozess geführt. Dabei werden nur grundlegende Informationen wie E-Mail-Adresse, Benutzername und Passwort benötigt. Dieser Schritt ist entscheidend, um sicherzustellen, dass der Nutzer sich wohl fühlt und Vertrauen in die Plattform gewinnt. Die Registrierung ist so gestaltet, dass sie schnell und unkompliziert ist, um eine hohe Konversionsrate von Besuchern zu registrierten Nutzern zu fördern. Des Weiteren muss der Benutzer sich über einen Bestätigungslink, den er per Mail erhält, verifizieren.
 
 **2. Login**
 
-Nach der Registrierung folgt der Login-Prozess. Nutzer, die bereits registriert sind, können sich mit ihren Zugangsdaten anmelden. Der Login-Prozess ist direkt und benutzerfreundlich gestaltet, mit Optionen zur Passwortwiederherstellung, falls benötigt. Dieser Schritt ist wichtig, um den Zugriff auf die Plattform sicher und privat zu halten.
+Nach der Registrierung folgt der Login-Prozess. Nutzer, die bereits registriert und bestätigt sind, können sich mit ihren Zugangsdaten anmelden. Der Login-Prozess ist direkt und benutzerfreundlich gestaltet. Dieser Schritt ist wichtig, um den Zugriff auf die Plattform sicher und privat zu halten.
 
 **3. Startseite**
 
-Einmal eingeloggt, gelangen die Nutzer auf die Startseite. Diese ist das zentrale Dashboard von GamingInsight, von wo aus Nutzer alle wichtigen Funktionen erreichen können. Die Startseite bietet eine Übersicht über aktuelle Bewertungen. Die einfache Gestaltung der Startseite ist darauf ausgelegt, Nutzern einen schnellen Zugriff auf alle wichtigen Funktionen zu ermöglichen, was die Benutzererfahrung verbessert.
+Einmal eingeloggt, gelangen die Nutzer auf die Startseite. Diese ist das zentrale Dashboard von GamingInsight, von wo aus Nutzer alle wichtigen Funktionen erreichen können. Die Startseite bietet folgende Links in der Navigationsleiste (im eingeloggten Zustand) Meine Unternehmen, Abgegebene Bewertungen, Unternehmen registrieren, Alle Unternehmen anzeigen und Logout . Die einfache Gestaltung der Startseite ist darauf ausgelegt, Nutzern einen schnellen Zugriff auf alle wichtigen Funktionen zu ermöglichen, was die Benutzererfahrung verbessert.
 
 **4. Unternehmen anlegen oder suchen**
 
-Von der Startseite aus können Nutzer entweder ein neues Unternehmen anlegen oder nach bestehenden Unternehmen suchen, um Bewertungen abzugeben oder zu lesen. Dieser Schritt ist zentral für die Funktionalität der Plattform. Die Suchfunktion ist leistungsfähig und benutzerfreundlich gestaltet, um Nutzern zu ermöglichen, schnell und effizient die gewünschten Informationen zu finden. Nutzer, die ein neues Unternehmen anlegen, werden durch einen einfachen Prozess geführt, der notwendige Informationen wie den Namen des Unternehmens, die Branche und den Standort umfasst.
+Von der Startseite aus können Nutzer entweder ein neues Unternehmen anlegen oder nach bestehenden Unternehmen über den "Alle Unternehmen anzeigen" Link suchen. Nutzer, die ein neues Unternehmen anlegen, werden durch einen einfachen Prozess geführt, der notwendige Informationen wie den Namen des Unternehmens, eine Beschreibung und einen Link zur offiziellen Homepage umfasst.
 
 **5. Bewertung abgeben und lesen**
 
-Der letzte Schritt in der Customer Journey ist das Abgeben und Lesen von Bewertungen. Nachdem ein Nutzer ein Unternehmen ausgewählt hat, kann er eine Bewertung schreiben oder bestehende Bewertungen lesen. Die Plattform ermöglicht es Nutzern, Sternebewertungen abzugeben und textbasierte Bewertungen zu schreiben, die Details zu ihrer Erfahrung bieten. Dieser Schritt ist entscheidend, um die Kernmission von GamingInsight zu erfüllen: Transparenz und offene Kommunikation in der Gaming-Industrie zu fördern.
+Über „Alle Unternehmen anzeigen“ können die Bewertungen eingesehen werden, aber auch erfolgreich bewertet werden.
+Nach dem Klick auf „Jetzt bewerten“ wählen Sie die Rolle aus, in der Sie im Unternehmen tätig waren, und die Kategorie, die Sie bewerten möchten.
+Dann wählen Sie die Anzahl der Sterne aus, die Sie vergeben möchten, und abschließend kann man diese Bewertung mit einem Kommentar abrunden.
+Nach dem Klick auf „Absenden“ wird die Bewertung in die Datenbank aufgenommen und auf den Unternehmensprofilen abgebildet.
+
+**6. Meine Unternehmen**
+
+Über „Meine Unternehmen“ können Sie die Unternehmen einsehen, die Sie über den Link „Unternehmen registrieren“ erstellt haben. In diesem Fenster können Sie die Informationen des Unternehmens bearbeiten oder das Unternehmen vollständig von der Plattform löschen.
+
+**7. Abgegebene Bewertungen**
+
+Über den Link „Abgegebene Bewertungen“ können Sie alle Bewertungen, die Sie abgegeben haben, einsehen und gegebenenfalls löschen.
+
+**8. Logout**
+
+Nach dem Klick auf „Logout“ aktualisiert sich die Seite und Sie befinden sich im ausgeloggten Zustand auf der Hauptseite.

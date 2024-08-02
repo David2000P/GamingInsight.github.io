@@ -314,3 +314,7 @@ def confirm_email(token):
     flash('Ihre E-Mail-Adresse wurde bestätigt.', 'success')
     return render_template('confirm_link.html')
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 420431ae78fdf88e531a23fcdc38dd01a64d03b9
