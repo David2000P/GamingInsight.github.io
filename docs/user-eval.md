@@ -26,7 +26,7 @@ Updated: 31-Jul-2024
 
 **Goals**
 
-Unser Hauptziel bei der Gestaltung des Registrierungsprozesses war es, eine einfache und sichere Methode zu entwickeln, mit der neue Benutzer effizient und ohne unnötige Komplikationen ein Konto erstellen können. Angesichts der Bedeutung des ersten Eindrucks wollten wir sicherstellen, dass dieser Prozess nicht nur technisch einwandfrei funktioniert, sondern auch die Nutzer durch seine Benutzerfreundlichkeit überzeugt. Der Prozess sollte schnell und reibungslos verlaufen, um eine hohe Konversionsrate von Besuchern zu registrierten Nutzern zu gewährleisten und gleichzeitig hohe Sicherheitsstandards zu erfüllen, um die Vertrauenswürdigkeit der Plattform zu stärken.
+Unser Hauptziel bei der Gestaltung des Registrierungsprozesses war es, eine einfache und sichere Methode zu entwickeln, mit der neue Benutzer effizient und ohne unnötige Komplikationen ein Konto erstellen können. Angesichts der Bedeutung des ersten Eindrucks wollten wir sicherstellen, dass dieser Prozess nicht nur technisch einwandfrei funktioniert, sondern auch die Nutzer durch seine Benutzerfreundlichkeit überzeugt. Der Prozess sollte schnell und reibungslos verlaufen, um eine hohe Konversionsrate von Besuchern zu registrierten Nutzern zu gewährleisten und gleichzeitig hohe Sicherheitsstandards zu erfüllen, um die Vertrauenswürdigkeit der Plattform zu stärken. Allerdings brauchen wir mehr Zeit um die Sicherheitsstandards gut zu implementieren.
 
 **Method**
 
