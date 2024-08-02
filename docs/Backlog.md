@@ -14,6 +14,7 @@ nav_order: 85
 {: toc }
 </details>
 
+
 Der Backlog beschreibt die Funktionen, die wir leider nicht geschafft haben zu implementieren. 
 
 ## Unternehmensverifizierung
@@ -24,7 +25,7 @@ Unternehmen sollten sich eigentlich verifizieren nach der Registrierung durch zu
 
 User sollten die Möglichkeit haben sich zu verifizieren indem Sie einen Identitätsnachweis hochladen wie zum Beispiel der Personalausweis.
 
-## Bestenliste:
+## Bestenliste
 
 Wir wollten eine Bestenliste erstellen die nach den besten Bewertungen der einzelnen Kategorien gegliedert ist.
 
