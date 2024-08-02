@@ -49,7 +49,9 @@ Kontra: asynchroner Programmierstil kann komplex sein.
 
 Ruby on Rails:
 
-Pro: "Convention over configuration" vereinfacht viele Aufgaben, Kontra: weniger Flexibilität im Vergleich zu Python.
+Pro: "Convention over configuration" vereinfacht viele Aufgaben
+
+Kontra: weniger Flexibilität im Vergleich zu Python.
 
 
 ## 02: Web-Framework
