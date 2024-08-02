@@ -42,7 +42,8 @@ Umsetzung dieser Erkenntnisse in GamingInsight Basierend auf die Bedürfnisse vo
 
 Die Entwicklung dieser Persona war ein umfangreicher Prozess, der tiefgehende Recherchen und sorgfältige Analysen umfasste. Wir haben uns bemüht, die Herausforderungen und Bedürfnisse von Gaming Designern so realistisch und präzise wie möglich zu verstehen und unsere Plattform entsprechend anzupassen. Dies spiegelt sich in den maßgeschneiderten Lösungen und spezialisierten Informationen wider, die GamingInsight bietet, um die Karriere und das Wohlbefinden von Fachkräften in der Gaming-Branche aktiv zu unterstützen.
 
-## Customer journey
+# Customer journey
+
 
 **1. Registrieren**
 
