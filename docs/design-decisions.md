@@ -58,8 +58,13 @@ Django: Bietet ein umfangreicheres Framework.
 Express.js: Leichtgewichtig und flexibel in der JavaScript-Umgebung.
 
 **Pro/Kontra:**
-Django: Pro: viele eingebaute Features
+
+Django: 
+
+Pro: viele eingebaute Features
+
 Kontra: zu schwerfällig für unsere Bedürfnisse.
+
 Express.js: 
 
 Pro: hohe Flexibilität
