@@ -25,6 +25,10 @@ Unternehmen sollten sich eigentlich verifizieren nach der Registrierung durch zu
 
 User sollten die Möglichkeit haben sich zu verifizieren indem Sie einen Identitätsnachweis hochladen wie zum Beispiel der Personalausweis.
 
+## Suchfunktion
+
+Durch eine Suchleiste, könnte man noch schneller nach dem Wunschunternehmen z.B. suchen.
+
 ## Bestenliste
 
 Wir wollten eine Bestenliste erstellen die nach den besten Bewertungen der einzelnen Kategorien gegliedert ist.
