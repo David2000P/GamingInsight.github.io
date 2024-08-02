@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Abgegebene Bewertungen</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <style>
+        .flash-message {
+            padding: 10px;
+            margin: 10px 0;
+            border: 1px solid #d6d6d6;
+            background-color: #d4edda;
+            color: #155724;
+            border-radius: 4px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+            font-size: 18px;
+            text-align: left;
+            table-layout: fixed;
+        }
+        table th, table td {
+            padding: 12px 15px;
+            border: 1px solid #ddd;
+        }
+        table thead th {
+            background-color: #009879;
+            color: #ffffff;
+            text-align: left;
+            font-weight: bold;
+        }
+        table tbody tr {
+            border-bottom: 1px solid #dddddd;
+        }
+        table tbody tr:nth-of-type(even) {
+            background-color: #f3f3f3;
+        }
+        table tbody tr:last-of-type {
+            border-bottom: 2px solid #009879;
+        }
+        .gold-star {
+            color: gold;
+            font-size: 18px;
+        }
+        .comment {
+            padding: 10px;
+            background-color: #f9f9f9;
+            border: 1px solid #ddd;
+            margin-top: -1px;
+        }
+        .empty-row {
+            height: 20px; /* Höhe der leeren Zeile */
+        }
+        .btn {
+            padding: 5px 10px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 14px;
+        }
+        .btn-danger {
+            background-color: #dc3545;
+            color: white;
+        }
+        .home-link {
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            text-decoration: none;
+            padding: 10px 20px;
+            background-color: #007bff;
+            color: white;
+            border-radius: 5px;
+        }
+        .search-link {
+            display: block;
+            margin-top: 10px;
+            padding: 10px 20px;
+            background-color: #28a745;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <a href="{{ url_for('main.index') }}" class="home-link">Home</a>
+    <h1>Abgegebene Bewertungen</h1>
+    {% if not reviews %}
+        <p class="empty-message">Sie haben noch kein Unternehmen bewertet.</p>
+        <a href="{{ url_for('main.companies') }}" class="search-link">Bewerten Sie jetzt ihr Unternehmen</a>
+    {% else %}
+        <table>
+            <thead>
+                <tr>
+                    <th>Datum & Uhrzeit</th>
+                    <th>Unternehmen</th>
+                    <th>Rolle</th>
+                    <th>Kategorie</th>
+                    <th>Bewertung</th>
+                    <th>Aktionen</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for review in reviews %}
+                    <tr>
+                        <td>{{ review.timestamp.strftime('%Y-%m-%d %H:%M:%S') }}</td>
+                        <td>{{ review.company.name }}</td>
+                        <td>{{ role_descriptions.get(review.role, review.role) }}</td>
+                        <td>{{ category_descriptions.get(review.category, review.category) }}</td>
+                        <td><span class="gold-star">{{ rating_to_stars(review.rating) }}</span></td>
+                        <td>
+                            <form action="{{ url_for('main.delete_review', review_id=review.id) }}" method="post" style="display:inline;">
+                                <button type="submit" class="btn btn-danger btn-sm">Löschen</button>
+                            </form>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="6">
+                            <div class="comment">{{ review.comments }}</div>
+                        </td>
+                    </tr>
+                    <tr class="empty-row"><td colspan="6"></td></tr> <!-- Leere Zeile zwischen den Bewertungen -->
+                {% endfor %}
+            </tbody>
+        </table>
+    {% endif %}
+</body>
+</html>

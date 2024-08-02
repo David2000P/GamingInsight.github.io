@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bewertung abgeben</title>
+</head>
+<body>
+    {% with messages = get_flashed_messages(with_categories=true) %}
+        {% if messages %}
+            {% for category, message in messages %}
+                <div class="flash-message {{ category }}">{{ message }}</div>
+            {% endfor %}
+        {% endif %}
+    {% endwith %}
+    
+    <form method="post">
+        {{ form.hidden_tag() }}
+        {{ form.role.label }}<br>
+        {{ form.role() }}<br>
+        {{ form.category.label }}<br>
+        {{ form.category() }}<br>
+        {{ form.rating.label }}<br>
+        {{ form.rating() }}<br>
+        {{ form.comments.label }}<br>
+        {{ form.comments() }}<br>
+        {{ form.submit() }}
+    </form>
+
+    <script>
+        // Automatisch Flash-Nachrichten nach 5 Sekunden entfernen
+        document.addEventListener('DOMContentLoaded', function() {
+            setTimeout(function() {
+                let messages = document.querySelectorAll('.flash-message');
+                messages.forEach(function(message) {
+                    message.style.display = 'none';
+                });
+            }, 5000); // Zeit in Millisekunden (5000ms = 5s)
+        });
+    </script>
+</body>
+</html>
+
+    <script>
+        // Automatisch Flash-Nachrichten nach 5 Sekunden entfernen
+        document.addEventListener('DOMContentLoaded', function() {
+            setTimeout(function() {
+                let messages = document.querySelectorAll('.flash-message');
+                messages.forEach(function(message) {
+                    message.style.display = 'none';
+                });
+            }, 5000); // Zeit in Millisekunden (5000ms = 5s)
+        });
+    </script>
+</body>
+</html>
