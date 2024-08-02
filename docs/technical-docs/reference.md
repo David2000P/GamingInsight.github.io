@@ -8,7 +8,6 @@ nav_order: 3
 [Jane Dane]
 
 {: .no_toc }
-# Reference documentation
 
 # Reference Documentation
 
