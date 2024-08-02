@@ -11,7 +11,7 @@ nav_order: 1
 {: toc }
 </details>
 
-# Backend-Architektur
+# Backend
 
 ## Flask:
 
@@ -30,6 +30,8 @@ Die Integration von Flask-SQLAlchemy in unser Projekt vereinfacht den Umgang mit
 Für die Benutzerverwaltung innerhalb unserer Anwendung nutzen wir Flask-Login. Diese Wahl wurde getroffen, weil es eine einfache Implementierung von Authentifizierungsmechanismen bietet, die für die Sicherheit unserer Plattform entscheidend ist. Flask-Login unterstützt das Management von Benutzersitzungen und erleichtert so die Erstellung einer sicheren und benutzerfreundlichen Anwendung.
 Frontend-Architektur
 
+# Frontend
+
 ## Jinja2:
 
 Im Frontend verwenden wir Jinja2 als Template-Engine, die eine klare Trennung zwischen Design und Logik ermöglicht. Jinja2 unterstützt leistungsstarke Funktionen zur dynamischen HTML-Generierung, was uns große Flexibilität bei der Anpassung der Benutzeroberfläche bietet. Diese Wahl trägt erheblich zur Wartbarkeit und Erweiterbarkeit unseres Frontends bei.
@@ -41,3 +43,12 @@ CSS ist unerlässlich für die Gestaltung des visuellen Designs unserer Webseite
 ## HTML:
 
 HTML ist die Grundlage für das Erstellen unserer Webseiten und ist entscheidend für die Strukturierung des Inhalts. Die Entscheidung für HTML fiel, weil es das Rückgrat jeder Webseite bildet und essentiell für die Erstellung einer funktionsfähigen Benutzeroberfläche ist.
+
+Flask-Mail:
+
+Warum verwendet: Flask-Mail ist eine Flask-Erweiterung, die einfache Integration von E-Mail-Funktionalitäten bietet.
+Wie hilft es: Es ermöglicht den Versand von E-Mails aus der Anwendung heraus, was für Funktionen wie E-Mail-Bestätigungen, Passwort-Zurücksetzungen und Benachrichtigungen nützlich ist.
+
+WTForms:
+Warum verwendet: WTForms ist eine Bibliothek zur Erstellung und Validierung von Webformularen in Python.
+Wie hilft es: WTForms vereinfacht die Formvalidierung und das Rendering in HTML, indem es eine klare und wiederverwendbare Struktur für Formulardefinitionen und -validierungen bereitstellt.

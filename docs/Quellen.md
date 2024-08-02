@@ -19,6 +19,7 @@ nav_order: 90
 
 Nutzung von ChatGPT:
 
+ChatGPT wurde bei Fehlermeldungen verwendet um diese nachvollziehen zu können sowie eine Erklärung zu erhalten, warum dieser Fehler auftritt. Außerdem, haben wir uns darüber informiert, wie die Architektur gestaltet wird bei einer Web-App woran kommt es genau und was sind die Kernbestandteile einer Web-App. Bei einer Web-App ist es sehr wichtig, dass diese Benutzerfreundlich ist. Wir haben uns auch hier inspirieren lassen, allerdings es nicht nicht geschafft noch Benutzerfreundlicher zu gestalten in dem Zeitfenster.
 
 
 
