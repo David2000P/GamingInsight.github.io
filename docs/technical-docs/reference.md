@@ -3,12 +3,6 @@ title: Reference
 parent: Technical Docs
 nav_order: 3
 ---
-<details open markdown="block">
-{: .text-delta }
-<summary>Table of contents</summary>
-+ ToC
-{: toc }
-</details>
 
 {: .no_toc }
 # Reference Documentation
