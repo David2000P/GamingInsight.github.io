@@ -44,15 +44,19 @@ Basierend auf diesen Ergebnissen haben wir entschieden, den Registrierungsprozes
 
 **Goals**
 
-Das Ziel für die Bewertungsfunktion war es, eine intuitive und ansprechende Schnittstelle zu schaffen, die es den Nutzern ermöglicht, schnell und einfach Feedback zu Spielen und Dienstleistungen abzugeben. Wir wollten sicherstellen, dass diese Funktion reichhaltiges, nuanciertes Feedback fördert, das sowohl für andere Nutzer als auch für Entwickler von Wert ist.
+Das Ziel der Bewertungsfunktion war es, eine benutzerfreundliche und ansprechende Schnittstelle zu entwickeln, die es den Nutzern ermöglicht, schnell und unkompliziert Feedback zu geben. Wir wollten sicherstellen, dass diese Funktion reichhaltiges, nuanciertes Feedback fördert, das sowohl für andere Nutzer als auch für Entwickler von Wert ist.
 
 **Method**
 
-Für die Evaluation der Bewertungsfunktion implementierten wir ein Prototypen-Testing, bei dem verschiedene Bewertungssysteme ausprobiert wurden, einschließlich Sternebewertungen, numerischer Skalen und Textbewertungen. Wir führten Gruppeninterviews mit typischen Nutzern durch, um zu verstehen, welche Arten von Feedback sie am nützlichsten finden und welche Anreize sie motivieren würden, Bewertungen abzugeben.
+Für die Evaluation der Bewertungsfunktion setzten wir auf Prototypen-Tests, bei denen verschiedene Bewertungssysteme ausprobiert wurden, darunter Sternebewertungen, numerische Skalen und textbasierte Bewertungen. Zusätzlich führten wir Fokusgruppeninterviews mit typischen Nutzern durch, um zu verstehen, welche Arten von Feedback sie am nützlichsten finden und welche Anreize sie motivieren würden, Bewertungen abzugeben.
 
 **Results**
 
-Die Testergebnisse zeigten eine klare Präferenz für eine Kombination aus numerischen Skalen und textbasierten Bewertungen, da diese den Nutzern die Flexibilität bieten, präzise und detaillierte Rückmeldungen zu geben. Nutzer schätzten auch die Möglichkeit, Feedback anonym oder unter einem Pseudonym zu veröffentlichen, was die Beteiligungsrate erhöhte.
+Die Testergebnisse zeigten eine klare Präferenz für eine Kombination aus Sternebewertungen und textbasierten Bewertungen, da diese den Nutzern die Flexibilität bieten, präzise und detaillierte Rückmeldungen zu geben.
+
+Unser Bewertungssystem wurde in verschiedene Kategorien unterteilt, sodass eine Bewertung immer auf eine spezifische Kategorie bezogen ist. Zu den Bewertungskategorien gehören beispielsweise Work-Life-Balance, Bezahlung, Teamarbeit und Arbeitsumgebung. Nutzer haben die Möglichkeit, Bewertungen für jede Kategorie separat abzugeben, was ein differenziertes Feedback ermöglicht.
+
+Die Bewertungen können in einer übersichtlichen Tabellenform angezeigt werden, die es den Nutzern ermöglicht, die Bewertungen der verschiedenen Kategorien separat zu betrachten. Diese Struktur erleichtert es, spezifische Aspekte der Nutzererfahrung zu identifizieren und gezielt darauf einzugehen. Nutzer schätzten auch die Möglichkeit, Feedback anonym oder unter einem Pseudonym zu veröffentlichen, was die Beteiligungsrate deutlich erhöhte.
 
 **Implications**
 
