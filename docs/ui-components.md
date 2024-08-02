@@ -98,7 +98,6 @@ Die Bewertungen werden erfolgreich in der Datenbank-Tabelle gespeichert, in der 
 ![image](https://github.com/user-attachments/assets/b3d1cc8a-40a8-46ca-9c36-e12a66d872df)
 
 
-
 Falls noch keine Bewertungen abgegeben worden sind.
 
 
