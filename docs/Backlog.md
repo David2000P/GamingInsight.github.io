@@ -5,8 +5,6 @@ nav_order: 85
 
 
 {: .no_toc }
-
-
 # Backlog
 
 <details open markdown="block">
@@ -18,22 +16,22 @@ nav_order: 85
 
 Der Backlog beschreibt die Funktionen, die wir leider nicht geschafft haben zu implementieren. 
 
-**Unternehmensverifizierung:**
+## Unternehmensverifizierung
 
 Unternehmen sollten sich eigentlich verifizieren nach der Registrierung durch zum Beispiel ihr Eintrag in das Unternehmensregister.
 
-**Userverifizierung:**
+## Userverifizierung
 
 User sollten die Möglichkeit haben sich zu verifizieren indem Sie einen Identitätsnachweis hochladen wie zum Beispiel der Personalausweis.
 
-**Bestenliste:**
+## Bestenliste:
 
 Wir wollten eine Bestenliste erstellen die nach den besten Bewertungen der einzelnen Kategorien gegliedert ist.
 
-**API Google Authentifizierung:**
+## API Google Authentifizierung
 
 Mit der Google Authentifizierung wollten wir einrichten, dass man sich mit seinen Google Account einloggen und registrieren kann.
 
-**API Google Maps:**
+## API Google Maps
 
 Des weiteren wollten wir einrichten das man den Standort eines Unternehmens angeben kann, mithilfe von API Google Maps.
