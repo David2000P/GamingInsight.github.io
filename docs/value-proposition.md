@@ -59,6 +59,7 @@ Nach der Registrierung folgt der Login-Prozess. Nutzer, die bereits registriert 
 Einmal eingeloggt, gelangen die Nutzer auf die Startseite. Diese ist das zentrale Dashboard von GamingInsight, von wo aus Nutzer alle wichtigen Funktionen erreichen können. Die Startseite bietet eine Übersicht über aktuelle Bewertungen, Top-Unternehmen und eventuelle Benachrichtigungen. Die intuitive Gestaltung der Startseite ist darauf ausgelegt, Nutzern einen schnellen Zugriff auf alle wichtigen Funktionen zu ermöglichen, was die Benutzererfahrung verbessert.
 
 **4. Unternehmen anlegen oder suchen**
+
 Von der Startseite aus können Nutzer entweder ein neues Unternehmen anlegen oder nach bestehenden Unternehmen suchen, um Bewertungen abzugeben oder zu lesen. Dieser Schritt ist zentral für die Funktionalität der Plattform. Die Suchfunktion ist leistungsfähig und benutzerfreundlich gestaltet, um Nutzern zu ermöglichen, schnell und effizient die gewünschten Informationen zu finden. Nutzer, die ein neues Unternehmen anlegen, werden durch einen einfachen Prozess geführt, der notwendige Informationen wie den Namen des Unternehmens, die Branche und den Standort umfasst.
 
 **5. Bewertung abgeben und lesen**
