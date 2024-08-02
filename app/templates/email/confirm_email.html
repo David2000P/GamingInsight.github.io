@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Email Bestätigung</title>
+</head>
+<body>
+    <p>Hallo {{ user.username }},</p>
+    <p>Bitte bestätigen Sie Ihre E-Mail-Adresse, indem Sie auf den folgenden Link klicken:</p>
+    <p><a href="{{ confirm_url }}">{{ confirm_url }}</a></p>
+    <p>Wenn Sie kein Konto bei uns erstellt haben, ignorieren Sie bitte diese E-Mail.</p>
+</body>
+</html>

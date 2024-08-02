@@ -3,34 +3,91 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Willkommen bei InsightJob</title>
-    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <title>Startseite</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}?v=1">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f0f8ff; /* Hintergrundfarbe */
+        }
+        .navbar {
+            width: 100%;
+            background-color: #333;
+            overflow: hidden;
+            display: flex;
+            justify-content: center;
+        }
+        .navbar a {
+            float: left;
+            display: block;
+            color: #f2f2f2;
+            text-align: center;
+            padding: 14px 20px;
+            text-decoration: none;
+            font-size: 17px;
+        }
+        .navbar a:hover {
+            background-color: #ddd;
+            color: black;
+        }
+        .welcome-text {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .welcome-text h1 {
+            margin: 0;
+        }
+        .welcome-text p {
+            margin: 5px 0 20px;
+            font-size: 16px;
+            color: #555;
+        }
+        .flash-message {
+            padding: 10px;
+            margin: 10px 0;
+            border: 1px solid #d6d6d6;
+            background-color: #d4edda;
+            color: #155724;
+            border-radius: 4px;
+            text-align: center;
+        }
+        .flash-message.error {
+            background-color: #f8d7da;
+            color: #721c24;
+            border-color: #f5c6cb;
+        }
+    </style>
 </head>
 <body>
-    <div class="header-container">
-        <header>
-            <h1>Willkommen bei GamingInsight</h1>
-            <p>Entdecke die wahren Bewertungen von Unternehmen.</p>
-        </header>
+    {% with messages = get_flashed_messages(with_categories=true) %}
+        {% if messages %}
+            {% for category, message in messages %}
+                <div class="flash-message {{ category }}">{{ message }}</div>
+            {% endfor %}
+        {% endif %}
+    {% endwith %}
+    <div class="welcome-text">
+        <h1>Willkommen bei GamingInsight</h1>
+        <p>Die Bewertungsplattform für Spiele-Entwickler</p>
     </div>
-    <nav class="auth-links">
-        
-        <form action="{{ url_for('main.search') }}" method="GET" class="search-container">
-            <input type="text" placeholder="Unternehmen suchen..." name="search">
-            <button type="submit">Suchen</button>
-        </form>
-    </nav>
+    <div class="navbar">
+        {% if current_user.is_authenticated %}
+            <a href="{{ url_for('main.my_companies') }}">Meine Unternehmen</a>
+            <a href="{{ url_for('main.my_reviews') }}">Abgegebene Bewertungen</a>
+            <a href="{{ url_for('main.register_company') }}">Unternehmen registrieren</a>
+            <a href="{{ url_for('main.logout') }}">Logout</a>
+            <a href="{{ url_for('main.companies') }}">Alle Unternehmen anzeigen</a>
+        {% else %}
+            <a href="{{ url_for('main.login') }}">Login</a>
+            <a href="{{ url_for('main.register') }}">Registrieren</a>
+            <a href="{{ url_for('main.companies') }}">Alle Unternehmen anzeigen</a>
+        {% endif %}
+    </div>
 </body>
 </html>
-<nav>
-    {% if current_user.is_authenticated %}
-        <a href="{{ url_for('main.logout') }}">Logout</a>
-        <a href="{{ url_for('main.register_company') }}">Unternehmen registrieren</a>
-    {% else %}
-        <a href="{{ url_for('main.login') }}">Einloggen</a>
-        <a href="{{ url_for('main.register') }}">Registrieren</a>
-    {% endif %}
-    <a href="{{ url_for('main.companies') }}">Alle Unternehmen</a>  <!-- Dieser Link folgt jetzt nach Einloggen/Registrieren -->
-    <a href="{{ url_for('main.top_reviews') }}">Top Bewertungen</a>
-</nav>
-
