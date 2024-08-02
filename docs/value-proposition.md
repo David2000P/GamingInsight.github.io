@@ -16,11 +16,11 @@ nav_order: 1
 {: toc }
 </details>
 
-## The problem
+# The problem
 
 In der Gaming-Industrie herrscht oft ein Mangel an Transparenz bezüglich der Arbeitsbedingungen. Viele Arbeitnehmer in dieser Branche erleben Herausforderungen wie unfaire Vergütung, mangelnde Work-Life-Balance, Projektdynamik, Technologisches Equipment und manchmal sogar toxische Arbeitsumgebungen. Diese Probleme bleiben oft unadressiert, da Mitarbeiter aus Angst vor beruflichen Nachteilen zögern, offen über ihre Erfahrungen zu sprechen. Zudem fehlt es potenziellen Arbeitnehmern an zuverlässigen Informationen, die ihnen helfen könnten, informierte Entscheidungen über zukünftige Arbeitsplätze zu treffen.
 
-## Our solution
+# Our solution
 
 GamingInsight bietet eine Plattform, die es Nutzern ermöglicht, detaillierte Bewertungen und Feedback über Unternehmen in der Gaming-Branche zu hinterlassen und einzusehen. Unsere Lösung zielt darauf ab, die Arbeitsbedingungen transparent zu machen, indem wir Bewertungen zu verschiedenen Aspekten wie z.B. Crunchzeiten, Work-Life-Balance, Arbeitsbedingungen und Teamkultur sammeln. Wir stellen sicher, dass unsere Plattform realistische und erreichbare Ergebnisse liefert, die direkt auf Nutzerfeedback basieren.
 
@@ -30,7 +30,7 @@ Nach intensivem Austausch mit Ihnen haben wir die Zielgruppe für unser Projekt 
 
 ## Persona
 
-Schritt-für-Schritt-Entwicklung der Persona: Lukas Schmidt
+**Schritt-für-Schritt-Entwicklung der Persona: Lukas Schmidt**
 
 Beruflicher Kontext Lukas ist ein 32-jähriger Lead Game Designer, der in München arbeitet und über acht Jahre Erfahrung in der Gaming-Industrie verfügt. Sein Arbeitsalltag ist geprägt von kreativen Herausforderungen und technischen Anforderungen, die ein tiefes Verständnis für Spielmechaniken und Benutzerengagement erfordern.
 
@@ -46,12 +46,22 @@ Die Entwicklung dieser Persona war ein umfangreicher Prozess, der tiefgehende Re
 
 ## Customer journey
 
-Die Kundenreise auf GamingInsight beginnt mit der Registrierung und dem Einloggen in die App.
+**1. Registrieren**
 
-**Nach dem Login kann der Nutzer:** Unternehmensbewertungen durchsuchen: Benutzer können nach spezifischen Unternehmen suchen und deren Bewertungen lesen.
+Der erste Schritt in der Customer Journey ist die Registrierung. Neue Nutzer besuchen die Plattform und werden durch einen einfachen und sicheren Registrierungsprozess geführt. Dabei werden nur grundlegende Informationen wie E-Mail-Adresse, Benutzername und Passwort benötigt. Dieser Schritt ist entscheidend, um sicherzustellen, dass der Nutzer sich wohl fühlt und Vertrauen in die Plattform gewinnt. Die Registrierung ist so gestaltet, dass sie schnell und unkompliziert ist, um eine hohe Konversionsrate von Besuchern zu registrierten Nutzern zu fördern.
 
-**Bewertung abgeben:** Nutzer können ihre Erfahrungen teilen, indem sie eine Bewertung über ihren aktuellen oder ehemaligen Arbeitgeber schreiben. 
+**2. Login**
 
-**Interaktion mit der Community(Backlog):** Nutzer können Fragen stellen oder Diskussionen in einem speziell dafür vorgesehenen Forum starten.
+Nach der Registrierung folgt der Login-Prozess. Nutzer, die bereits registriert sind, können sich mit ihren Zugangsdaten anmelden. Der Login-Prozess ist direkt und benutzerfreundlich gestaltet, mit Optionen zur Passwortwiederherstellung, falls benötigt. Dieser Schritt ist wichtig, um den Zugriff auf die Plattform sicher und privat zu halten.
 
-**Jobangebote einsehen(Backlog):** Nutzer können aktuelle Stellenausschreibungen einsehen, die von Unternehmen auf unserer Plattform gepostet werden.
+**3. Startseite**
+
+Einmal eingeloggt, gelangen die Nutzer auf die Startseite. Diese ist das zentrale Dashboard von GamingInsight, von wo aus Nutzer alle wichtigen Funktionen erreichen können. Die Startseite bietet eine Übersicht über aktuelle Bewertungen, Top-Unternehmen und eventuelle Benachrichtigungen. Die intuitive Gestaltung der Startseite ist darauf ausgelegt, Nutzern einen schnellen Zugriff auf alle wichtigen Funktionen zu ermöglichen, was die Benutzererfahrung verbessert.
+
+**4. Unternehmen anlegen oder suchen**
+
+Von der Startseite aus können Nutzer entweder ein neues Unternehmen anlegen oder nach bestehenden Unternehmen suchen, um Bewertungen abzugeben oder zu lesen. Dieser Schritt ist zentral für die Funktionalität der Plattform. Die Suchfunktion ist leistungsfähig und benutzerfreundlich gestaltet, um Nutzern zu ermöglichen, schnell und effizient die gewünschten Informationen zu finden. Nutzer, die ein neues Unternehmen anlegen, werden durch einen einfachen Prozess geführt, der notwendige Informationen wie den Namen des Unternehmens, die Branche und den Standort umfasst.
+
+**5. Bewertung abgeben und lesen**
+
+Der letzte Schritt in der Customer Journey ist das Abgeben und Lesen von Bewertungen. Nachdem ein Nutzer ein Unternehmen ausgewählt hat, kann er eine Bewertung schreiben oder bestehende Bewertungen lesen. Die Plattform ermöglicht es Nutzern, Sternebewertungen abzugeben und textbasierte Bewertungen zu schreiben, die Details zu ihrer Erfahrung bieten. Dieser Schritt ist entscheidend, um die Kernmission von GamingInsight zu erfüllen: Transparenz und offene Kommunikation in der Gaming-Industrie zu fördern.
