@@ -10,9 +10,9 @@ nav_order: 99
 
 ![image](https://github.com/user-attachments/assets/1a8710bf-3ff8-4f98-bbec-17000f2ae66f)
 Sie befinden sich beim Aufruf der Seite im ausgeloggten Zustand und Ihnen stehen folgende Funktionen in der Navigationsleiste zur Verfügung:
-•	Login
-•	Registrieren
-•	Alle Unternehmen anzeigen
+Login
+Registrieren
+Alle Unternehmen anzeigen
 
 
 
